@@ -8,5 +8,9 @@ main:
   #   url: /year-archive/
   - title: "Documents"
   #   url: /collection-archive/
-  - title: Initiatives"
+  - title: Initiatives
   #   url: /sitemap/
+  - title: Blog
+      children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
