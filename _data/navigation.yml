@@ -5,13 +5,13 @@ main:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
   - title: "Présentations"
-     url: ./
+     #url: ./
   - title: "Ateliers"
-     url: ./
+     #url: ./
   - title: "Open source"
-     url: ./
+     #url: ./
   - title: "Documents"
-     url: ./
+     #url: ./
   - title: "Initiatives"
-     url: ./
+     #url: ./
 
