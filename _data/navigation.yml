@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Produits"
-     #url: ./
+     url: ./
   - title: Blog
     children:
       - title: "Quick-Start Guide"
-        #url: /docs/quick-start-guide/
+        url: /content/workshops.html
   - title: "Ateliers"
      url: /content/workshops.html
   - title: "Présentations & documents"
