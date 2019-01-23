@@ -3,7 +3,7 @@ main:
   - title: Blog
       children:
       - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+        #url: /docs/quick-start-guide/
   - title: "Présentations"
      #url: ./
   - title: "Ateliers"
