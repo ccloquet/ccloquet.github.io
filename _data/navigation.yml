@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: Blog
+      children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
   - title: "Présentations"
      url: ./
   - title: "Ateliers"
@@ -10,7 +14,4 @@ main:
      url: ./
   - title: "Initiatives"
      url: ./
-  - title: Blog
-      children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+
