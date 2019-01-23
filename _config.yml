@@ -1,8 +1,6 @@
 #
 # This file contains configuration flags to customize your site
 #
-remote_theme: mmistakes/minimal-mistakes
-
 # Name of your site (displayed in the header)
 name: The Poppy Workshop
 
