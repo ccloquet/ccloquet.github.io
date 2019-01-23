@@ -8,7 +8,7 @@ main:
      url: ./
   - title: "Documents"
      url: ./
-  - title: Initiatives
+  - title: "Initiatives"
      url: ./
   - title: Blog
       children:
