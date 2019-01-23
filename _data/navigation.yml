@@ -7,9 +7,9 @@ main:
       - title: "Quick-Start Guide"
         #url: /docs/quick-start-guide/
   - title: "Ateliers"
-     url: /content/workshops
+     url: /content/workshops.html
   - title: "Présentations & documents"
-     url: /content/presas
+     url: /content/presas.html
   - title: "Open source & Initiatives"
-     url: /content/osi
+     url: /content/open_source.html
 
