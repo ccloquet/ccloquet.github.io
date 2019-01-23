@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "Présentations"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+     url: ./
   - title: "Ateliers"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+     url: ./
   - title: "Open source"
-  #   url: /year-archive/
+     url: ./
   - title: "Documents"
-  #   url: /collection-archive/
+     url: ./
   - title: Initiatives
-  #   url: /sitemap/
+     url: ./
   - title: Blog
       children:
       - title: "Quick-Start Guide"
