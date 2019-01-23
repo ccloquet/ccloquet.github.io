@@ -6,14 +6,10 @@ main:
     children:
       - title: "Quick-Start Guide"
         #url: /docs/quick-start-guide/
-  - title: "Présentations"
-     #url: ./
   - title: "Ateliers"
-     #url: ./
-  - title: "Open source"
-     #url: ./
-  - title: "Documents"
-     #url: ./
-  - title: "Initiatives"
-     #url: ./
+     url: /content/workshops
+  - title: "Présentations & documents"
+     url: /content/presas
+  - title: "Open source & Initiatives"
+     url: /content/osi
 
