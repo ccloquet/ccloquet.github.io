@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Produits"
+     #url: ./
   - title: Blog
     children:
       - title: "Quick-Start Guide"
