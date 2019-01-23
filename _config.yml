@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Poppy"
+title                    : ""
 title_separator          : "-"
 name                     : "The Poppy workshop"
 description              : "Information management to improve decision-making in crises & complex events"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Christophe Cloquet"
+  name             : "The Poppy workshop"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Information management to improve decision-making in crises & complex events."
   location         : "Brussels"
   email            :
   links:
@@ -120,16 +120,16 @@ author:
       url: "https://www.my-poppy.eu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/mypoppy_eu"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/mypoppyeu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ccloquet"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCybGJchrpkZO12J5Fumdudw"
 
 # Site Footer
 footer:
