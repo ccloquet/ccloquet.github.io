@@ -108,9 +108,9 @@ analytics:
 author:
   name             : "The Poppy workshop"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Information management to improve decision-making in crises & complex events."
-  location         : "Brussels"
-  email            :
+  bio              : "We help you to to improve decision-making in crises & complex events, by leveraging the power of information. Our offices are located in Brussels at the heart of Europe"
+  location         : 
+  email            : "info@my-poppy.eu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
