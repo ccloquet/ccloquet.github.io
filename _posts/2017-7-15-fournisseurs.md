@@ -1,4 +1,6 @@
-<b>Résilience & fournisseurs locaux</b><br><br>
+---
+title: Résilience et fournisseurs locaux
+---
 
 En tant que société de services IT, nous faisons presque inévitablement appel à des services comme Google, Facebook, Amazon ou encore Twitter. Et nous sommes contents de bénéficier des innovations de startups d'un peu partout dans le monde.
 Nous pensons cependant qu'être un acteur responsable de la gestion de crise -- des ruptures au-delà de l'urgence, systémiques ou témoins de dysfonctionnements systémiques --, c'est aussi contribuer à construire une société résiliente autour de nous. Par résilience, nous entendons : d'une part réduire au maximum les conséquences néfastes des crises sur la vie, la santé et la dignité des personnes, et d'autre part, tirer les leçons des crises pour devenir plus humains, ensemble. <br><br>
