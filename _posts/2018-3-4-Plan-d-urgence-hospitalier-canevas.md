@@ -1,10 +1,12 @@
-<b>Plan d'urgence hospitalier : mise à jour du canevas<br><i>Ziekenhuisnoodplan: sjabloon-update</i></b><br><br>
+---
+title: Plan d'urgence hospitalier : mise Ã  jour du canevas - Ziekenhuisnoodplan: sjabloon-update
+---
 <img src='../images/puh_2_fr.png' style="height:300px">&nbsp;<img src='../images/puh_2_nl.png' style="height:300px">
 <br>
-Dans le cadre du plan d'urgence hospitalier, le SPF santé publique met à disposition plusieurs outils, dont un canevas de PUH (<a href="https://www.plandurgencehospitalier.be">plandurgencehospitalier.be</a>).
-Lorsque le SPF publie une nouvelle version du canevas, vos données ne sont pas perdues ! Vous pouvez les copier de l'ancien fichier vers le nouveau fichier de la façon suivante :<br>
+Dans le cadre du plan d'urgence hospitalier, le SPF santÃ© publique met Ã  disposition plusieurs outils, dont un canevas de PUH (<a href="https://www.plandurgencehospitalier.be">plandurgencehospitalier.be</a>).
+Lorsque le SPF publie une nouvelle version du canevas, vos donnÃ©es ne sont pas perdues ! Vous pouvez les copier de l'ancien fichier vers le nouveau fichier de la faÃ§on suivante :<br>
 <ol type="a">
-<li>Pour <b>exporter</b> les données d'un ancien formulaire :<br>
+<li>Pour <b>exporter</b> les donnÃ©es d'un ancien formulaire :<br>
 <ol>
 <li>Ouvrez votre formulaire avec Acrobat Pro</li>
 <li>Cliquez sur "Prepare Form"</li>
@@ -15,13 +17,13 @@ Lorsque le SPF publie une nouvelle version du canevas, vos données ne sont pas p
 </ol>
 <br>
 </li>
-<li>Pour <b>importer</b> les données dans le nouveau formulaire:
+<li>Pour <b>importer</b> les donnÃ©es dans le nouveau formulaire:
 <ol>
 <li>Ouvrez votre formulaire avec Acrobat Pro</li>
 <li>Cliquez sur "Prepare Form"</li>
 <li>Cliquez sur "More"</li>
 <li>Cliquez sur "Import Data"</li>
-<li>Choisissez le fichier .fdf sauvegardé à l'étape précédente</li>
+<li>Choisissez le fichier .fdf sauvegardÃ© Ã  l'Ã©tape prÃ©cÃ©dente</li>
 <li>Sauvegardez votre formulaire</li>
 </ol>
 </li>
@@ -31,7 +33,7 @@ Avez-vous des questions ? Nous vous aidons volontiers ! Contactez-nous via : <a 
 <br><br>
 
 In het kader van de ziekenhuisnoodplan, geeft de FOD Volksgezondheid toegang tot verschillende tools, waaronder een sjabloon van ZNP (<a href="https://www.ziekenhuisnoodplan.be">ziekenhuisnoodplan.be</a>).
-Als de FOD een nieuwe versie van de sjabloon publiceert, zijn jullie gegevens niet verloren! U kunt ze kopiëren vanuit de oude bestand naar de nieuwe bestand volgens de hieronder procedure:<br>
+Als de FOD een nieuwe versie van de sjabloon publiceert, zijn jullie gegevens niet verloren! U kunt ze kopiÃ«ren vanuit de oude bestand naar de nieuwe bestand volgens de hieronder procedure:<br>
 <ol type="a">
 <li>De gegevens van een oude formulier <b>exporteren</b>:<br>
 <ol>
