@@ -108,27 +108,27 @@ analytics:
 author:
   name             : "The Poppy workshop"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We help you to to improve decision-making in crises & complex events, by leveraging the power of information. Our offices are located in Brussels at the heart of Europe"
+  bio              : "<i>We help you to to improve decision-making in crises & complex events, by leveraging the power of information. Our offices are located in Brussels at the heart of Europe</i>"
   location         : 
   email            : "info@my-poppy.eu"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fa fa-fw fa-envelope-square"
       url: mailto:info@my-poppy.eu
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fa fa-fw fa-link"
       url: "https://www.my-poppy.eu"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa fa-fw fa-twitter-square"
       url: "https://twitter.com/mypoppy_eu"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fa fa-fw fa-facebook-square"
       url: "https://facebook.com/mypoppyeu"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa fa-fw fa-github"
       url: "https://github.com/ccloquet"
     - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
+      icon: "fa fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCybGJchrpkZO12J5Fumdudw"
     
 
