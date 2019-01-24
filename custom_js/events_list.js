@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
-['https://fosdem.org/2019/schedule/event/geo_osmqgis/', 'OpenStreetMaps for emergency prep: The view from San Francisco', 'FOSDEM 2019', '3/2/2019 14:45-15:15', 'Brussels', 'free', '2019-02-03'],
+//['URL', 'TITRE, 'SOUS-TITRE, 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+  ['https://fosdem.org/2019/schedule/event/geo_osmqgis/', 'OpenStreetMaps for emergency prep: The view from San Francisco', 'FOSDEM 2019', '3/2/2019 14:45-15:15', 'Brussels', 'free', '2019-02-03'],
 ['https://formation-continue.ehesp.fr/formation/cycle-gestion-de-crise/', 'Gestion des situations sanitaires exceptionnelles', 'École des Hautes études de santé publique', '16 j du 18/3-22/11/2018', 'Internet', '1650 €', '2019-11-22'],
 ['https://zoom.us/webinar/register/WN_8TIEWGyoRy-O_1mwq0-eMQ', 'Regards croisés sur l\'alerte', 'Talk vidéo HCFDC', '20/12/2018', 'Internet', 'gratuit', '2018-12-20'],
 ['https://www.fun-mooc.fr/courses/course-v1:Paris2+09004+session06/about', 'Gestion de crise', 'Cours en ligne', '14/1/2019', 'Internet', 'gratuit', '2019-02-04'],
