@@ -3,7 +3,7 @@
 	<center><i>Attention : post special pour les gestionnaires de crise geeks !</i></center><br>
 	<b>Problématique</b>. Au cours d’un évènement ou d’une situation d’urgence, on a souvent recours à un logbook électronique pour enregistrer les décisions. Mais comment prouver que celui-ci n’a pas été modifié après coup ? Comment prouver que des instructions ont bien été données en temps utile pour prévenir une crise, ou que les plans d’urgence n’ont pas été falsifiés a posteriori ?
 	 <br><br>
-	Même s’il est inévitable de commettre des <a href="https://blog.my-poppy.eu#erreurs_crise">erreurs en situation de crise</a> (1), il importe parfois de conserver les preuves des actions réalisées en cas d'enquête ultérieure. Comment faire avec des fichiers informatiques, par essence modifiables ?
+	Même s’il est inévitable de commettre des erreurs en situation de crise (1), il importe parfois de conserver les preuves des actions réalisées en cas d'enquête ultérieure. Comment faire avec des fichiers informatiques, par essence modifiables ?
 	<br><br>
 	<b>Solutions</b>. Jusqu'il y a peu, à côté d'imprimer vos documents et de les mettre sous scellés, au moins trois possibilités s'offraient à vous :
 		<ul>

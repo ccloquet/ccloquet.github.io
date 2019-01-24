@@ -6,11 +6,7 @@ At first sight, we could assume that people are where the stations are full. How
 </div>
 <br>
 
-<div class="title">Open <a href='http://www.my-poppy.eu/bikes'>bike sharing</a> data in real time</div>
-
-<div>
 <a href="http://www.my-poppy.eu/bikes"><img style="width:57%; height:auto" class="im imbike" src="../images/20160208_jcdecaux.png" ></a>
 <br>
-<div class="caption">based on real time bike sharing data by <a href="http://developer.jcdecaux.com">JCDecaux</a> from 2016-02-10 to 2016-02-16.<br><br><a href="http://www.my-poppy.eu/bikes">Click to see the map in real time</a> <br><br>
-</div>
+<small>based on real time bike sharing data by <a href="http://developer.jcdecaux.com">JCDecaux</a> from 2016-02-10 to 2016-02-16.</small>
 
