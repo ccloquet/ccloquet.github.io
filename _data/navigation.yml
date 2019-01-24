@@ -3,7 +3,7 @@ main:
   - title: "Produits"
     url: "https://www.my-poppy.eu"
   - title: Blog
-    url: /_posts/
+    url: /
   - title: "Ateliers"
     url: /workshops/
 
