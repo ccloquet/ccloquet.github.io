@@ -109,34 +109,19 @@ author:
   name             : "The Poppy workshop"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "<i>We help you to to improve decision-making in crises & complex events, by leveraging the power of information. We are located in Brussels at the heart of Europe</i>"
-  location         : "<a style='display:inherit' href='mailto:info@my-poppy.eu'><i class='fa fa-envelope-square'></i></a>&nbsp;
-<a style='display:inherit' href='https://twitter.com/mypoppy_eu'><i class='fa fa-twitter-square'></i></a>&nbsp;
-<a style='display:inherit' href='https://facebook.com/mypoppyeu'><i class='fa fa-facebook-square'></i></a>&nbsp;
-<a style='display:inherit' href='https://github.com/ccloquet'><i class='fa fa-github-square'></i></a>&nbsp;
-<a style='display:inherit' href='https://www.youtube.com/channel/UCybGJchrpkZO12J5Fumdudw'><i class='fa fa-youtube-square'></i></a>"
+  location         : "	<a style='display:inherit' href='https://twitter.com/mypoppy_eu'><i class='fa fa-twitter-square'></i></a>&nbsp;
+			<a style='display:inherit' href='https://facebook.com/mypoppyeu'><i class='fa fa-facebook-square'></i></a>&nbsp;
+			<a style='display:inherit' href='https://github.com/ccloquet'><i class='fa fa-github-square'></i></a>&nbsp;
+			<a style='display:inherit' href='https://www.youtube.com/channel/UCybGJchrpkZO12J5Fumdudw'><i class='fa fa-youtube-square'></i></a>"
   email            : "info@my-poppy.eu"
   links:
-    - label: "Email"
-      icon: ""
-      url: 
-    - label: ""
+    - label: "Contact"
+      icon: "fa fa-fw fa-envelope-square"
+      url: "mailto:info@my-poppy.eu"
+    - label: "Website"
       icon: "fa fa-fw fa-link"
       url: "https://www.my-poppy.eu"
-    - label: "Twitter"
-      icon: ""
-      url: ""
-    - label: "Facebook"
-      icon: "fa fa-fw fa-facebook-square"
-      url: ""
-    - label: "GitHub"
-      icon: "fa fa-fw fa-github"
-      url: ""
-    - label: "Youtube"
-      icon: "fa fa-fw fa-youtube"
-      url: ""
-    
-
-
+   
 # Site Footer
 footer:
   links:
