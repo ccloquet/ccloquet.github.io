@@ -294,7 +294,7 @@ defaults:
       share: true
       related: true
 
-head_scripts:
+footer_scripts:
   - assets/js/main.min.js
   - custom_js/events_list.js
   - custom_js/events_code.js
