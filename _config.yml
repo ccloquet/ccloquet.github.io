@@ -294,6 +294,6 @@ defaults:
       share: true
       related: true
 
-hear_scripts:
+head_scripts:
   - custom_js/events_list.js
   - custom_js/events_code.js
