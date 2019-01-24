@@ -7,4 +7,11 @@ main:
   - title: Blog
   - title: "Ateliers"
     url: /workshops/
+
+side:
+  - title: Contenu
+    - title: "Présentations & documents"
+      url: /presas/
+    - title: "Open source & Initiatives"
+      url: /open_source/
   
