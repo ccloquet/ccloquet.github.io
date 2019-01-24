@@ -1,4 +1,6 @@
-<b>Geolocation without GPS</b>, transmitted to your server without GSM nor Wi-Fi<br>
+--
+title: Geolocation without GPS, transmitted to your server without internet
+---
 <center><img src='../images/20160604_115632_mod.jpg' style="width:40%; height:auto"></center>
 <br>
 <div class="caption">

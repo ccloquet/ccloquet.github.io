@@ -1,3 +1,6 @@
+---
+title: Images aériennes: des hauts et des bas
+---
 <table>
   <tr>
     <td><img src="../images/001.png" style="height:200px"></td><td><img src="../images/002.png" style="height:200px"></td>
