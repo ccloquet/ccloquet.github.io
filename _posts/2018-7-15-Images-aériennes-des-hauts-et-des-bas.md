@@ -1,5 +1,5 @@
 ---
-title: Images aériennes: des hauts et des bas
+title: Images aériennes - des hauts et des bas
 ---
 <table>
   <tr>
