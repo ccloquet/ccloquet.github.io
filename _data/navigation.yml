@@ -5,13 +5,6 @@ main:
   - title: "Produits"
     url: /workshops/
   - title: Blog
-    children:
-      - title: "Quick-Start Guide"
-        url: /workshops/
   - title: "Ateliers"
     url: /workshops/
-  - title: "Présentations & documents"
-    url: /presas/
-  - title: "Open source & Initiatives"
-    url: /open_source/
-
+  

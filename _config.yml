@@ -130,6 +130,12 @@ author:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCybGJchrpkZO12J5Fumdudw"
+    links:
+      - label: "Présentations & documents"
+        url: /presas/
+      - label: "Open source & Initiatives"
+        url: /open_source/
+
 
 # Site Footer
 footer:
