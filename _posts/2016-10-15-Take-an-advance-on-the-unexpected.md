@@ -1,4 +1,6 @@
-<b>Take an advance</b> over the unexpected
+---
+title: Take an advance over the unexpected
+---
 <a href='http://www.my-poppy.eu/2016_kta/2016_kta_poppy.pdf'><img class='img_hover' src='../images/cover_low_res.png' style="width:20%; height:auto"></a>
 <br><br>
 <div class="caption">
