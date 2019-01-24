@@ -4,14 +4,14 @@ title: A large open source map with its streets list
 
 A Walloon hospital recently asked the French company <a href='http://www.tanit-developpement.com/'>Tanit</a> to deliver a wall map for their Prehospital Advanced Life support team (SMUR). <a href='http://www.tanit-developpement.com/'>Tanit</a> partnered with us for the infographics.
 
-The requirements were
+The requirements were:
 <ul>
 <li>A high definition map, printable on a 2 m x 2 m aluminum frame</li>
 <li>A grid</li>
 <li>A streets list with reference to the grid</li>
 </ul>
 
-We decided to build it in an open way. After some trials and errors (lack of enough definition with QGIS, inspiration from Bigmap, …), we did it the following way:
+We decided to build it in an open way. After some trials and errors (lack of enough definition with QGIS, inspiration from Bigmap, â€¦), we did it the following way:
 <ul>
 <li>The map was made using the <a href='https://omniscale.com/'>Omniscale</a> WMS and python code </li>
 <li>The grid and sub-grid have been drawn programmatically  </li>
