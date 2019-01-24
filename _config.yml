@@ -295,5 +295,6 @@ defaults:
       related: true
 
 head_scripts:
+  - assets/js/main.min.js
   - custom_js/events_list.js
   - custom_js/events_code.js
