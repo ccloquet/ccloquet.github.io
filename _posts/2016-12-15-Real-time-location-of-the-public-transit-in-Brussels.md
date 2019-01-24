@@ -1,6 +1,5 @@
-<b>Real time location of Brussels public transportation</b><br>The first app using the STIB-MIVB open data
+<b>The first app using the STIB-MIVB open data</b>
 
-<div class="caption" style='text-align:left'>
 A couple of days ago, the public transportation company of Brussels (<a href='https://opendata.stib-mivb.be/store/'>STIB-MIVB</a>) released for the first time their <a href='https://opendata.stib-mivb.be/store/'>data</a>, including real time data, under an open licence. We took it as a challenge and one day later, we released the first <a href='http://stib.my-poppy.eu'>app</a> based on these data.
 <br><center>
 <a href='http://stib.my-poppy.eu'><img class='img_hover' src='../images/stib.png' style="width:20%; height:auto"></a>

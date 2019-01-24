@@ -10,7 +10,7 @@ Vous pouvez aussi simplement rechercher des mots-clés ou des #hashtags directem
 
 <b>Périscope</b> est une application qui permet de (se) filmer en temps réel. Les vidéos sont disponibles via une carte dans l'application pour smartphone. Elles peuvent aussi être recherchées par mot-clé via l'interface web <a href="https://periscope.tv">periscope.tv</a>.<br>
 
-Mais le plus vivant à l'heure actuelle est <b>Snapchat</b>. Les "snaps" publics sont repris sur une carte, la SnapMap : <a href="https://map.snapchat.com">map.snapchat.com</a><br>
+Mais le plus vivant à l'heure actuelle est <b>Snapchat</b>. Les "snaps" publics sont repris sur une carte, la SnapMap : <a href="https://map.snapchat.com">map.snapchat.com</a>.<br>
 
 <div style='text-align:center'><img src="../images/smap1.png" style="height:300px"> <img src="../images/smap2.png" style="height:300px"></div><br>
 
@@ -18,7 +18,7 @@ En cliquant sur les zones colorées, vous voyez automatiquement les vidéos corr
 
 Enfin, <b>Facebook</b> publie également une carte des Facebook Live publics : <a href="https://www.facebook.com/livemap">facebook.com/livemap</a> : il s'agit cette fois de flux vidéos en direct, mais ils sont moins nombreux.<br>
 
-Spécifiquement pour le trafic et notamment les accidents, <b>Waze</b> donne des indications en temps réel sur une carte utilisable dans un simple navigateur : <a href="https://www.waze.com/fr/livemap">waze.com/fr/livemap</a><br>
+Spécifiquement pour le trafic et notamment les accidents, <b>Waze</b> donne des indications en temps réel sur une carte utilisable dans un simple navigateur : <a href="https://www.waze.com/fr/livemap">waze.com/fr/livemap</a>.<br>
 
 Pour des grands évènements, Proximus peut fournir des comptages en temps réel, sur base des données de leurs clients (service payant) :<br>
 
@@ -41,4 +41,4 @@ Et pour terminer par un moyen plus traditionnel, il est aussi possible de vision
 	<a href="https://www.visov.org">visov.org</a>
 </center> 
 
-<br>De votre côté, utilisez-vous d'autres sources d'information publiques ? N'hésitez pas à les partager par email, via Twitter <a href="https://twitter.com/mypoppy_eu">@mypoppy_eu</a> ou Facebook : <a href="https://facebook.com/mypoppyeu">facebook.com/mypoppyeu</a>, et cliquez <a href='https://mypoppy.typeform.com/to/sww4k6' target='_blank' >ici</a> pour rester informés sur l'actualité de la gestion de crise.
+<br>De votre côté, utilisez-vous d'autres sources d'information publiques ? N'hésitez pas à les partager par email, via Twitter <a href="https://twitter.com/mypoppy_eu">@mypoppy_eu</a> ou Facebook&nbsp;: <a href="https://facebook.com/mypoppyeu">facebook.com/mypoppyeu</a>, et cliquez <a href='https://mypoppy.typeform.com/to/sww4k6' target='_blank' >ici</a> pour rester informés sur l'actualité de la gestion de crise.

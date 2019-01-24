@@ -1,4 +1,4 @@
-<a href='http://www.twitter.com/mypoppy_eu'>Twitter data</a> reveal the pulse of Brussels
+5.6 million <a href='http://www.twitter.com/mypoppy_eu'>tweets</a> reveal the pulse of Brussels
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fszQcEltsxw?html5=1&loop=1&playlist=fszQcEltsxw" frameborder="0" allowfullscreen></iframe>
 <br><br>

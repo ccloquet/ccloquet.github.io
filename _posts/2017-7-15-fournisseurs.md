@@ -1,5 +1,5 @@
-<b>Résilience & fournisseurs locaux</b>
-<div style='font-weight:normal;text-align:left'>
+<b>Résilience & fournisseurs locaux</b><br><br>
+
 En tant que société de services IT, nous faisons presque inévitablement appel à des services comme Google, Facebook, Amazon ou encore Twitter. Et nous sommes contents de bénéficier des innovations de startups d'un peu partout dans le monde.
 Nous pensons cependant qu'être un acteur responsable de la gestion de crise -- des ruptures au-delà de l'urgence, systémiques ou témoins de dysfonctionnements systémiques --, c'est aussi contribuer à construire une société résiliente autour de nous. Par résilience, nous entendons : d'une part réduire au maximum les conséquences néfastes des crises sur la vie, la santé et la dignité des personnes, et d'autre part, tirer les leçons des crises pour devenir plus humains, ensemble. <br><br>
 
@@ -7,7 +7,7 @@ Cela passe nécessairement par un renforcement des liens entre les personnes, au
 <ul>
 <li>Graphisme : <a href="http://www.malak.be/">Malak</a> (Forest)</li>
 <li>Traduction : <a href="http://hannevandenbroeck.wordpress.com">HanneV</a> (Zemst)</li>
-<li>Impression : <a href="https://www.colorimpact.eu/">Color Impact</a> (Ixelles -- flyers publicitaires), <a href="https://www.printdeal.be">PrintDeal</a> (Antwerpen -- brochures), <a href="http://www.dpi.be/">DPI</a> (Anderlect -- roll-ups & cates murales) & <a href="https://denacopy.be/">DenaCopy</a> (Jette -- posters)</li>
+<li>Impression : <a href="https://www.colorimpact.eu/">Color Impact</a> (Ixelles -- flyers publicitaires), <a href="https://www.printdeal.be">PrintDeal</a> (Antwerpen -- brochures), <a href="http://www.dpi.be/">DPI</a> (Anderlecht -- roll-ups & impressions grand format) & <a href="https://denacopy.be/">DenaCopy</a> (Jette -- posters)</li>
 <li>Livraisons à vélo : <a href="http://dioxyde-de-gambettes.com">Dioxyde De Gambettes</a></li>
 <li>Salles de réunion : <a href="http://eebic.be">EEBIC</a> (Anderlecht)</li>
 <li>Code review : <a href="http://passwerk.be/">Passwerk (Antwerpen) </a></li>

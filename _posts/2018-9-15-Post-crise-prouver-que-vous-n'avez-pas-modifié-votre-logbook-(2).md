@@ -12,7 +12,7 @@ Le mois passé, nous avons vu quelques possibilités de prouver que votre logboo
 	Si dans le futur quelqu'un souhaite vérifier que le fichier existait bien à la date que vous prétendez, il recalculera l'empreinte (il obtiendra la même que ci-dessus, par exemple 555...367a), puis la soumettra sur <a href='https://originstamp.org/timestamps'>originstamp.org/timestamps</a>. Il verra alors la date et l'heure à laquelle vous avez soumis le document. Si une <i style="color:orange" class="fa fa-clock-o"></i> apparaît, votre empreinte est encore en file d'attente. Revenez 24 h plus tard, un <i style="color:darkgreen" class="fa fa-check-circle-o"></i> apparaîtra pour dire que votre empreinte est enregistrée dans la blockchain du Bitcoin. Vous pouvez alors télécharger un certificat qui l'atteste. <br><br>
 	La magie est que si Originstamp venait à disparaître, il sera toujours possible de vérifier l'empreinte, selon la procédure indiquée dans le certificat.<br><br>
 	Qu'en pensez-vous ? Cette technique peut-elle présenter un intérêt ou des risques dans le monde de la planification d'urgence et de la gestion de crise ? Avez-vous d'autres idées ? Tweetez <b>@mypoppy_eu</b> ou partagez vos idées via <a href='https://facebook.com/mypoppyeu'>Facebook</a> !
-<div style='border:1px solid white; font-size:smaller; padding:10px; margin:20px 0px'>
+<div style='border:1px solid white; text-align:left; font-size:smaller; padding:10px; margin:20px 0px'>
 	<b>Pour les geeks</b> : votre fichier ne sera pas transmis au serveur. Cependant, pour encore plus de certitude, vous pouvez aussi calculer l’empreinte vous-même. Par exemple, sous Windows, il faut suivre les étapes suivantes :<br>
 	<ol>
 	<li>ouvrez une invite de commande (cmd)</li>
