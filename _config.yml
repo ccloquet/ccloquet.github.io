@@ -297,6 +297,7 @@ defaults:
       related: true
       sidebar:
         nav: "sideb"
+  # _pages
   - scope:
       path: ""
       type: pages
