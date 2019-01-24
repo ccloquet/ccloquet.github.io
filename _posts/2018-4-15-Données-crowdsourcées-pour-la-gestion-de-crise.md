@@ -1,6 +1,3 @@
----
-title: Données crowdsourcées pour la gestion de crise
----
 <b>Gestion de crise et informations fournies par les citoyens en temps réel : quelques canaux privilégiés</b>
  
 La question revient de temps en temps de savoir comment suivre des informations en temps réel sur ce qui se passe sur le terrain. Lors de certains évènements, les médias traditionnels fournissent pas mal d'informations et sont parfois mieux informés que nos services ("bouton orange").<br>

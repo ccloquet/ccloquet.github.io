@@ -1,6 +1,3 @@
----
-title: Real-time bike-sharing map of Brussels
----
 Open <a href='http://www.my-poppy.eu/bikes'>bike sharing</a> data: can they be used to monitor the city?<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h-9Gxtj9Fok?html5=1&loop=1&playlist=h-9Gxtj9Fok" frameborder="0" allowfullscreen></iframe>
 <small>

@@ -1,6 +1,4 @@
----
-title: Locate the closest shared taxis stops with a Facebook Messenger chat bot
----
+<b>Locate the closest shared taxis stops with a Facebook Messenger chat bot</b><br><br>
 
 Transportation data are an endless source of inspiration for demos of services that might be useful for emergency management. In this post, I give a glimpse on the possibilities of chat bots, based on Open Data about Brussels shared taxis. When you are in a hurry and need a short piece of information, you need simple tools to quickly get the answer. Chat bots provide an easy way to build data-based services without worrying too much about the interface. Being based on messaging apps, they moreover take advantage of their resilience to network glitches, including slow bandwidth connexions, which is ideal in disaster settings. As a demo of such capabilities, we built a simple chatbot using <a href='https://opendata.bruxelles.be/explore/dataset/arrets-collecto0/'>Collecto Open Data</a>. The <a href='http://www.taxisverts.be/collecto'>Collecto</a> service is a shared taxis service in the Brussels Capital Region operated at night by <a href='http://www.taxisverts.be/'>Taxis Verts</a> in collaboration with the <a href='http://www.stib-mivb.be'>STIB/MIVB</a> and <a href='http://www.bruxellesmobilite.irisnet.be/'>Mobiris</a>.<br>
 <center>

@@ -1,6 +1,3 @@
----
-title: Apps to enhance public safety
----
 <center>
 <img style="width:25%; height:auto" class="im" src="../images/apps/01-home_connect.jpg">&nbsp;
 <img style="width:25%; height:auto" class="im" src="../images/apps/Screenshot_2014-12-24-00-07-16.png">&nbsp;
