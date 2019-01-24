@@ -2,7 +2,7 @@
 title: The Waterloo 2015 case
 ---
 
-In June 2015, 200,000 people on three days to remember the battle of Waterloo<br><br>
+In June 2015, 200,000 people on three days to remember the battle of Waterloo.<br><br>
 
 <center>
 <img  style="width:75%; height:auto" class="im" src="../images/w2015/20150618_165422.jpg">

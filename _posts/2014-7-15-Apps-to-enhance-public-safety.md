@@ -4,4 +4,4 @@
 <img style="width:25%; height:auto" class="im" src="../images/apps/Screenshot_2015-03-05-19-21-03.png">
 </center>
 <br>
-Poppy enhance public safety by developing apps with cutting edge technologies such as iBeacons, push notifications and live geolocation tracking
+Poppy enhance public safety by developing apps with cutting edge technologies such as iBeacons, push notifications and live geolocation tracking.
