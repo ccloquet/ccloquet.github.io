@@ -115,7 +115,7 @@ author:
     - label: "Email"
       icon: "fa fa-fw fa-envelope-square"
       url: mailto:info@my-poppy.eu
-    - label: "Website"
+    - label: ""
       icon: "fa fa-fw fa-link"
       url: "https://www.my-poppy.eu"
     - label: "Twitter"
