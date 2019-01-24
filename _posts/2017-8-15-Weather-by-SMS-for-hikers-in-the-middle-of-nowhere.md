@@ -1,7 +1,7 @@
 <img src='../images/2017_chartreuse.jpg'>
 <div style="font-size:smaller">Mount Granier, Chartreuse, France. C. Cloquet (2017). lic <a href='https://creativecommons.org/licenses/by/2.0/'>CC BY 2.0</a></div><br>
 <div style='font-weight:normal;text-align:left'>
-When hiking in the mountains, the weather remains a critical parameter, both to enjoy your walk and for security reasons. Having been caught in bad wather in the wonderful Chartreuse (France) this summer, I would have needed to rely on hourly weather forecasts to decide when it was the most appropriate moment to start hiking to have a reasonable chance to safely cross the next pass.<br>
+When hiking in the mountains, the weather remains a critical parameter, both to enjoy your walk and for security reasons. Having been caught in bad wather in the wonderful Chartreuse (France) this summer, I would have needed to rely on hourly weather forecasts to decide when it was the most appropriate moment to start hiking to have a reasonable chance to safely cross the next pass.<br><br>
 
 What is evident at home often becomes difficult in remote areas. Internet access is often excluded, be it in 4G or in Edge mode. Most of the time, when you get a GSM signal, it is more likely to be 2G, allowing you to send text messages, but nothing more.
 

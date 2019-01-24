@@ -2,16 +2,16 @@
 title: The Waterloo 2015 case
 ---
 
-In june 2015, 200,000 people on three days to remember the battle of Waterloo<br><br>
+In June 2015, 200,000 people on three days to remember the battle of Waterloo<br><br>
 
 <img  style="width:75%; height:auto" class="im" src="../images/w2015/20150618_165422.jpg">
-Live Poppy maps in the command and control room ...<br><br>
+<br>Live Poppy maps in the command and control room ...<br><br>
 
 <img  style="width:75%; height:auto" class="im" src="../images/w2015/20150620_222031.jpg">
-... night and day ...<br><br>
+<br>... night and day ...<br><br>
 
 <img  style="width:75%; height:auto" class="im" src="../images/w2015/20150619_232744.jpg">
-with multiple fallback systems: redundant servers, local server, USB keys and task-adapted printed maps<br><br>
+<br>with multiple fallback systems: redundant servers, local server, USB keys and task-adapted printed maps<br><br>
 
 <img  style="width:25%; height:auto" class="im" src="../images/w2015/IMG_9965.JPG">
 <img  style="width:25%; height:auto" class="im" src="../images/w2015/w2015app.png">
