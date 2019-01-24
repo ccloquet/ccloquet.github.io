@@ -9,7 +9,8 @@ main:
     url: /workshops/
 
 side:
-  - title: Contenu
+  - title: "Contenu"
+    children:
     - title: "Présentations & documents"
       url: /presas/
     - title: "Open source & Initiatives"
