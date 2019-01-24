@@ -8,8 +8,8 @@ main:
   - title: "Ateliers"
     url: /workshops/
 
-side:
-  - title: "Contenu"
+sideb:
+  - title: Contenu
     children:
     - title: "Présentations & documents"
       url: /presas/

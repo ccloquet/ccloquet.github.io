@@ -296,7 +296,7 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "side"
+        nav: "sideb"
 
 footer_scripts:
   - assets/js/main.min.js
