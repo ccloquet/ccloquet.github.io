@@ -293,3 +293,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+hear_scripts:
+  - custom_js/events_list.js
+  - custom_js/events_code.js

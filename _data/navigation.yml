@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Events"
+    url: /events_upcoming/
   - title: "Produits"
     url: /workshops/
   - title: Blog
