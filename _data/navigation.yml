@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "Produits"
-    url: /content/workshops.html
+    url: /workshops/
   - title: Blog
     children:
       - title: "Quick-Start Guide"
-        url: /content/workshops.html
+        url: /workshops/
   - title: "Ateliers"
-    url: /content/workshops.html
+    url: /workshops/
   - title: "Présentations & documents"
-    url: /content/presas.html
+    url: /presas/
   - title: "Open source & Initiatives"
-    url: /content/open_source.html
+    url: /open_source/
 
