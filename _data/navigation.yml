@@ -8,7 +8,7 @@ main:
     url: /workshops/
 
 sideb:
-  - title: Contenu
+  - title: 
     children:
     - title: "Présentations & documents"
       url: /presas/
