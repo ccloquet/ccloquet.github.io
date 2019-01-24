@@ -1,7 +1,9 @@
 ---
 title: Plan d'urgence hospitalier - mise à jour du canevas
 ---
+<center>
 <img src='../images/puh_2_fr.png' style="height:300px">&nbsp;<img src='../images/puh_2_nl.png' style="height:300px">
+</center>
 <br>
 Dans le cadre du plan d'urgence hospitalier, le SPF santé publique met à disposition plusieurs outils, dont un canevas de PUH (<a href="https://www.plandurgencehospitalier.be">plandurgencehospitalier.be</a>).
 Lorsque le SPF publie une nouvelle version du canevas, vos données ne sont pas perdues ! Vous pouvez les copier de l'ancien fichier vers le nouveau fichier de la façon suivante :<br>

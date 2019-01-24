@@ -1,7 +1,9 @@
 ---
 title: Ziekenhuisnoodplan - sjabloon-update
 ---
+<center>
 <img src='../images/puh_2_fr.png' style="height:300px">&nbsp;<img src='../images/puh_2_nl.png' style="height:300px">
+</center>
 <br>
 In het kader van de ziekenhuisnoodplan, geeft de FOD Volksgezondheid toegang tot verschillende tools, waaronder een sjabloon van ZNP (<a href="https://www.ziekenhuisnoodplan.be">ziekenhuisnoodplan.be</a>).
 Als de FOD een nieuwe versie van de sjabloon publiceert, zijn jullie gegevens niet verloren! U kunt ze kopiëren vanuit de oude bestand naar de nieuwe bestand volgens de hieronder procedure:<br>
