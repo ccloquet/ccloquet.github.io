@@ -109,7 +109,7 @@ author:
   name             : "The Poppy workshop"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "<i>We help you to to improve decision-making in crises & complex events, by leveraging the power of information. We are located in Brussels at the heart of Europe</i>"
-  location         : "<a href='mailto:info@my-poppy.eu'><i class='fa fa-envelope-square'></i></a>&nbsp;<a href='https://twitter.com/mypoppy_eu'><i class='fa fa-twitter-square'></i></a>&nbsp;<a href='https://facebook.com/mypoppyeu'><i class='fa fa-facebook-square'></i></a>"
+  location         : "<a style='display:inherit' href='mailto:info@my-poppy.eu'><i class='fa fa-envelope-square'></i></a>&nbsp;<a style='display:inherit' href='https://twitter.com/mypoppy_eu'><i class='fa fa-twitter-square'></i></a>&nbsp;<a style='display:inherit' href='https://facebook.com/mypoppyeu'><i class='fa fa-facebook-square'></i></a>"
   email            : "info@my-poppy.eu"
   links:
     - label: "Email"
