@@ -12,9 +12,9 @@ sideb:
     children:
     - title: "Présentations & documents"
       url: /presas/
-    - title: "Open source & Initiatives"
+    - title: "Open source & initiatives"
       url: /open_source/
-    - title: "Upcoming events in crisis management"
+    - title: "Gestion de crise/évènements à venir"
       url: /events_upcoming/
 
   
