@@ -5,7 +5,7 @@ title: Du streaming vidéo pour aider les centralistes du 112
 <img src='../images/showme.gif' style="height:200px">
 </center>
 <br>
-En visite dans une centrale <a href='https://112.be'>112</a> il y a quelques semaines, je me suis demandé comment aider les call takers du 112 à évaluer la situation d'urgence des personnes qui appellent. Ce serait mieux s'ils pouvaient voir directement ce qui se passe, non ? C'est comme cela qu'est né <a href='https://showme.my-poppy.eu'>ShowMe</a>, dont le fonctionnement est tout simple :<br><br><b>1.</b> le/la call taker envoie par SMS un lien à l'appelant.e ; <br><b>2.</b> l'appelant.e allume sa 4G ou son Wifi et clique sur le lien.<br>
+En visite dans une centrale <a href='https://112.be'>112</a> il y a quelques semaines, je me suis demandé comment aider les call takers à évaluer la situation d'urgence des personnes qui appellent. Ce serait mieux s'ils pouvaient voir directement ce qui se passe, non ? C'est comme cela qu'est né <a href='https://showme.my-poppy.eu'>ShowMe</a>, dont le fonctionnement est tout simple :<br><br><b>1.</b> le/la call taker envoie par SMS un lien à l'appelant.e ; <br><b>2.</b> l'appelant.e allume sa 4G ou son Wifi et clique sur le lien.<br>
 
 À partir de là, un flux vidéo est envoyé directement au dispatching .
 <center>
