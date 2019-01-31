@@ -74,17 +74,13 @@ D'autres solutions émergent, venant des mesures techniques sur le réseau, perm
 
 <br><center><b>Mesures sur place</b></center>
 
-**capteurs Bluetooth, Wifi et GSM**<br>
-
-Si l'on s'intéresse à l'évènement à plus petite échelle, par exemple aux flux entre différentes zones, on pourra se tourner vers des capteurs spécifiques. Certains sont capables de détecter les interfaces Bluetooth et/ou Wifi des smartphones, tandis que d'autres permettent de compter le nombre d'appareils GSM.
+**Capteurs Bluetooth, Wifi et GSM**. Si l'on s'intéresse à l'évènement à plus petite échelle, par exemple aux flux entre différentes zones, on pourra se tourner vers des capteurs spécifiques. Certains sont capables de détecter les interfaces Bluetooth et/ou Wifi des smartphones, tandis que d'autres permettent de compter le nombre d'appareils GSM.
 
 Le groupe CartoGIS de l'Université de Gand (Belgique) a par exemple étudié en détail l'utilisation de capteurs Bluetooth pour observer la foule lors de grands évènements [29-30]. [Une expérience similaire a été menée au Paléofestival (Nyon, France) en 2010](http://actu.epfl.ch/news/le-bluetooth-revele-la-dynamique-des-foules-au-p-8/). D'autres sociétés commercialisent des [capteurs de GSM](https://dfrc.ch), indépendants des opérateurs de téléphonie mobile.
 
 **Permettant une granularité aussi fine que le permet l'installation des détecteurs, le prix à payer se situera dans l'installation du matériel.**
 
-**apps**<br>
-
-Les applications smartphone permettent d'enregistrer non seulement la localisation de l'utilisateur, mais également les actions effectuées sur l'application.
+**Apps**. Les applications smartphone permettent d'enregistrer non seulement la localisation de l'utilisateur, mais également les actions effectuées sur l'application.
 
 Il est ainsi possible d'observer une augmentation du nombre de personnes demandant le trajet vers l'évènement, ou du nombre de personnes cherchant les parkings ou les points d'eau. On peut alors évaluer les flux, que ce soit entre zones de l'évènement, ou depuis l'extérieur vers l'évènement.
 
