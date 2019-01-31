@@ -51,7 +51,7 @@ Si l'évènement s'étend sur une ville entière, on peut considérer l'utilisat
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RbhBz5UwRDQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>
+</center>
 
 Real Time Rome (Senseable City Lab)
 
