@@ -11,7 +11,7 @@ Qu'on organise les Jeux Olympiques ou un concert local, un rassemblement de foul
 
 <center>
 Love Parade de Duisburg, 2010 © Arne Müseler
-</center>
+</center><br>
 
 Les exemples de catastrophes ne manquent pas. En 2010, la Love Parade de Duisburg (Allemagne) a rassemblé plus d'un million de participants sur un site prévu pour le quart, sans qu'un tel afflux n'ait pu être anticipé par les autorités [2, 9]. Un mouvement de foule s'en est suivi causant 21 morts et 510 blessés.
 
