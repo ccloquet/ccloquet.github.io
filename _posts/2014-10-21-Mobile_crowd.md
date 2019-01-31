@@ -45,7 +45,7 @@ En pratique, on peut acquérir des tweets soi-même en temps réel, via [l'API *
 
 
 
-<center>**Mesures à grande échelle : GSM**</center>
+<center><b>Mesures à grande échelle : GSM</b></center><br>
 
 Si l'évènement s'étend sur une ville entière, on peut considérer l'utilisation de données de téléphonie mobile en temps réel. Illustrée pour la première fois en 2006 par des chercheurs du [Senseable City Lab](https://senseable.mit.edu/realtimerome/) du Massachussets Institude of Technology [25], cette technique permet d'observer le nombre de communications ou de messages textes, en temps réel ou différé, selon la technologie présente chez l'opérateur de téléphonie mobile.
 
@@ -54,7 +54,7 @@ Si l'évènement s'étend sur une ville entière, on peut considérer l'utilisat
 </center>
 <center>
 Real Time Rome (Senseable City Lab)
-</center>
+</center><br>
 
 Plusieurs évènements ont ainsi été analysés, comme les Fêtes de la Musique à Paris [26], ou des matches de football au Brésil [27, 28].
 
@@ -72,7 +72,7 @@ Fêtes de la Musique, Paris, 2008 (Orange & Faber Novel)
 
 D'autres solutions émergent, venant des mesures techniques sur le réseau, permettant une granularité plus fine et [mesurant même les appareils qui ne sont pas en communication](http://www.arieso.com/products/applications/geo-insights/).
 
-<br><center>**Mesures sur place**</center>
+<br><center><b>Mesures sur place</b></center>
 
 **capteurs Bluetooth, Wifi et GSM**<br>
 
@@ -82,7 +82,7 @@ Le groupe CartoGIS de l'Université de Gand (Belgique) a par exemple étudié en
 
 **Permettant une granularité aussi fine que le permet l'installation des détecteurs, le prix à payer se situera dans l'installation du matériel.**
 
-**Apps**<br>
+**apps**<br>
 
 Les applications smartphone permettent d'enregistrer non seulement la localisation de l'utilisateur, mais également les actions effectuées sur l'application.
 
