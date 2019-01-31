@@ -7,8 +7,8 @@ title: Des données mobiles pour observer la foule
 Qu'on organise les Jeux Olympiques ou un concert local, un rassemblement de foule s'accompagne de risques spécifiques. Souvent, la taille de la foule, sa densité et son comportement influencent le bon déroulement de l'évènement. Des erreurs dans la gestion de foules importantes conduisent parfois à des catastrophes, pesant à long terme sur les communautés locales, détruisant vies, espoirs et réputations [1-8].
 
 <center>
-
-![enter image description here](http://upload.wikimedia.org/wikipedia/commons/c/c6/2010_07_24_arne_mueseler_0223.jpg)</center>
+![enter image description here](http://upload.wikimedia.org/wikipedia/commons/c/c6/2010_07_24_arne_mueseler_0223.jpg)
+</center>
 <center>
 Love Parade de Duisburg, 2010 © Arne Müseler
 </center>
@@ -61,9 +61,11 @@ L'exploitation commerciale de l'analyse de données de téléphonie mobile comme
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGDS2SjpjYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>
+</center>
 
-<center>Fêtes de la Musique, Paris, 2008 (Orange & Faber Novel)</center>
+<center>
+Fêtes de la Musique, Paris, 2008 (Orange & Faber Novel)
+</center>
 
 **Cette technologie est intéressante pour visualiser l'évènement à grande échelle. L'utiliser temps réel est parfois difficile, et la granularité des mesures est limitée par la taille des cellules GSM.**
 
