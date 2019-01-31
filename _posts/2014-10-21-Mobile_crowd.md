@@ -41,19 +41,20 @@ En pratique, on peut acquérir des tweets soi-même en temps réel, via [l'API *
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CF6avObWiF0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-</center>
+</center><br><br>
 
 
 
-**Mesures à grande échelle : GSM**
+<center>**Mesures à grande échelle : GSM**</center>
 
 Si l'évènement s'étend sur une ville entière, on peut considérer l'utilisation de données de téléphonie mobile en temps réel. Illustrée pour la première fois en 2006 par des chercheurs du [Senseable City Lab](https://senseable.mit.edu/realtimerome/) du Massachussets Institude of Technology [25], cette technique permet d'observer le nombre de communications ou de messages textes, en temps réel ou différé, selon la technologie présente chez l'opérateur de téléphonie mobile.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RbhBz5UwRDQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
-
+<center>
 Real Time Rome (Senseable City Lab)
+</center>
 
 Plusieurs évènements ont ainsi été analysés, comme les Fêtes de la Musique à Paris [26], ou des matches de football au Brésil [27, 28].
 
@@ -65,15 +66,15 @@ L'exploitation commerciale de l'analyse de données de téléphonie mobile comme
 
 <center>
 Fêtes de la Musique, Paris, 2008 (Orange & Faber Novel)
-</center>
+</center><br>
 
 **Cette technologie est intéressante pour visualiser l'évènement à grande échelle. L'utiliser temps réel est parfois difficile, et la granularité des mesures est limitée par la taille des cellules GSM.**
 
 D'autres solutions émergent, venant des mesures techniques sur le réseau, permettant une granularité plus fine et [mesurant même les appareils qui ne sont pas en communication](http://www.arieso.com/products/applications/geo-insights/).
 
-**Mesures sur place :**
+<br><center>**Mesures sur place**</center>
 
-**capteurs Bluetooth, Wifi et GSM**
+**capteurs Bluetooth, Wifi et GSM**<br>
 
 Si l'on s'intéresse à l'évènement à plus petite échelle, par exemple aux flux entre différentes zones, on pourra se tourner vers des capteurs spécifiques. Certains sont capables de détecter les interfaces Bluetooth et/ou Wifi des smartphones, tandis que d'autres permettent de compter le nombre d'appareils GSM.
 
@@ -81,7 +82,7 @@ Le groupe CartoGIS de l'Université de Gand (Belgique) a par exemple étudié en
 
 **Permettant une granularité aussi fine que le permet l'installation des détecteurs, le prix à payer se situera dans l'installation du matériel.**
 
-**Apps**
+**Apps**<br>
 
 Les applications smartphone permettent d'enregistrer non seulement la localisation de l'utilisateur, mais également les actions effectuées sur l'application.
 
@@ -93,15 +94,16 @@ Dans le cadre du projet « Socionical », une équipe menée par l'ETH (Zurich) 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vrKLOGSOVYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
-
+<center>
 London Mayor show : utilisation d'une application smartphone pour gérer les risques liés à la foule.
+</center><br>
 
 **Utiliser une application smartphone présente plusieurs avantages : seules les personnes intéressés par l'évènement sont observées, l'observation peut se faire depuis le point d'origine jusqu'à l'évènement. L'inconvénient est ici que l'utilisateur devra installer l'application sur un smartphone et qu'un réseau GSM ou Wifi (non saturé) est nécessaire pour transmettre les informations en temps réel.**
 
-**Conclusion**\
+**Conclusion**<br>
 On le voit, chaque technique a son champ d'application et ses inconvénients. Dépendant de l'évènement projeté, une ou plusieurs d'entre elles pourra être mise en œuvre pour assurer le divertissement de chacun en toute sécurité.
 
-**Et vous ?**\
+**Et vous ?**<br>
 Quels problèmes rencontrez-vous ? Quelles solutions mettez-vous en place pour y répondre ? Avez-vous des besoins spécifiques ? N'hésitez pas à nous contacter pour en discuter par e-mail ou autour d'un café : <christophe@my-poppy.eu>.
 
 Cet article a été publié originalement en 2014 sur guideorganisateur.com.
