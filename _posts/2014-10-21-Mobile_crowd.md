@@ -7,7 +7,7 @@ title: Des données mobiles pour observer la foule
 Qu'on organise les Jeux Olympiques ou un concert local, un rassemblement de foule s'accompagne de risques spécifiques. Souvent, la taille de la foule, sa densité et son comportement influencent le bon déroulement de l'évènement. Des erreurs dans la gestion de foules importantes conduisent parfois à des catastrophes, pesant à long terme sur les communautés locales, détruisant vies, espoirs et réputations [1-8].
 
 <center>
-![enter image description here](http://upload.wikimedia.org/wikipedia/commons/c/c6/2010_07_24_arne_mueseler_0223.jpg)
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/c/c6/2010_07_24_arne_mueseler_0223.jpg)
 </center>
 <center>
 Love Parade de Duisburg, 2010 © Arne Müseler
