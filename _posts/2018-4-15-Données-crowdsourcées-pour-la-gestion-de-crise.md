@@ -9,7 +9,7 @@ La question revient de temps en temps de savoir comment suivre des informations 
 
 <b>Twitter</b>. Certains tweets sont géolocalisés et peuvent être retrouvés sur des cartes comme <a href="https://www.mapd.com/demos/tweetmap">tweetmap</a>, <a href="https://twimap.com">twimap</a> ou <a href="https://www.trendsmap.com">trendsmap</a>.<br>
 
-Vous pouvez aussi simplement rechercher des mots-clés ou des #hashtags directement sur <a href="https://twitter.com">twitter.com</a>, et ainsi trouver des infos, photos ou vidéos sur l'incident.<br>
+Vous pouvez aussi simplement rechercher des mots-clés ou des #hashtags directement sur <a href="https://twitter.com">twitter.com</a>, ou via <a href='https://tweetdeck.twitter.com/'>TweetDeck</a> et ainsi trouver des infos, photos ou vidéos sur l'incident.<br>
 
 <b>Périscope</b> est une application qui permet de (se) filmer en temps réel. Les vidéos sont disponibles via une carte dans l'application pour smartphone. Elles peuvent aussi être recherchées par mot-clé via l'interface web <a href="https://periscope.tv">periscope.tv</a>.<br>
 
