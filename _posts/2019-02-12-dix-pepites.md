@@ -20,7 +20,7 @@ Que ce soit au cours du développement de nouveaux produits ou au détour de cer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zahOSxBGQEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
-**8. [Comment l'armée fait-elle face à l'incertitude ?](https://youtu.be/Ewsk5fr0xe8)** (Général Jean-Marc Baquet). Une réflexion de haut vol sur des questions auxquelles tout gestionnaire de crise est confronté.e, par un général qui n'a pas sa langue en poche.
+**8. [Comment l'armée fait-elle face à l'incertitude ?](https://youtu.be/Ewsk5fr0xe8)** (Général Jean-Marc Baquet). Une réflexion de haut vol sur des questions pragmatiques auxquelles tout gestionnaire de crise est confronté.e, par un général qui n'a pas sa langue en poche.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ewsk5fr0xe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
