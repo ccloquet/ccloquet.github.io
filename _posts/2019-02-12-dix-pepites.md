@@ -19,9 +19,11 @@ Que ce soit au cours du développement de nouveaux produits ou au détour de cer
 **7.  [Leadership in the age of unconventional crises and chaotic environment](https://www.youtube.com/watch?v=zahOSxBGQEM)** (interview de Jim Young par Patrick Lagadec).  Vous y découvrirez notamment comment  Jim Young a innové pour résoudre la crise du SRAS au Canada.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zahOSxBGQEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 **8. [Comment l'armée fait-elle face à l'incertitude ?](https://youtu.be/Ewsk5fr0xe8)** (Général Jean-Marc Baquet). Une réflexion de haut vol sur des questions auxquelles tout gestionnaire de crise est confronté.e, par un général qui n'a pas sa langue en poche.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ewsk5fr0xe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **9 [Principes fondamentaux de stratégie militaire](https://www.librairiedialogues.fr/livre/211147-principes-fondamentaux-de-strategie-militaire-carl-von-clausewitz-mille-et-une-nuits)** (Clausewitz). Cet ouvrage est moins connu que *De la guerre*, mais aussi plus court et plus accessible. Vous y lirez notamment l'importance de prendre en compte la friction du terrain ("On se trompe souvent de plusieurs heures dans l'évaluation de la marche d'une colonne [...]". En clair : vos ambulances mettront toujours plus de temps que prévu à arriver, tenez-en compte dans vos plans, et anticipez!).
 
