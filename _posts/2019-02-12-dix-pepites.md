@@ -2,7 +2,7 @@
 title: Dix pépites en gestion de crise
 ---
 
-Que ce soit au cours du développement de nouveaux produits ou au détour de certaines missions de consultance, il m'arrive de tomber sur des pépites inspirantes qui apportent un éclairage particulier à la manière d'anticiper, planifier et gérer les crises. En voici quelques-unes que je vous laisse découvrir :
+Que ce soit au cours du développement de nouveaux produits ou au détour de certaines missions de consultance, il m'arrive de tomber sur des pépites inspirantes qui apportent un éclairage particulier à la manière d'anticiper, planifier et gérer les crises. En voici quelques-unes :
 
 **1. [Leçons de leadership à tirer du sauvetage des mineurs au Chili](https://www.hbrfrance.fr/content/uploads/2016/07/HBR16016_MONDE.pdf)** (Harvard Business Review). Comment André Sougarret, chef de l'opération de sauvetage, a mené au succès de l'opération en suscitant l'innovation et l'apprentissage au cours de la crise.
 
