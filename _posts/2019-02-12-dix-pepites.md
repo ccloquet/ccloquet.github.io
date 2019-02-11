@@ -1,5 +1,5 @@
 ---
-title: Dix pépites en gestion de crise
+title: Dix pépites pour la gestion de crise
 ---
 
 Que ce soit au cours du développement de nouveaux produits ou au détour de certaines missions de consultance, il m'arrive de tomber sur des pépites inspirantes qui apportent un éclairage particulier à la manière d'anticiper, planifier et gérer les crises. En voici quelques-unes :
