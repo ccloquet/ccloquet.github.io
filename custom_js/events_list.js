@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE, 'SOUS-TITRE, 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.politeia.be/mailing/html/polpub20190130je-plansdurgence.html', 'Séminaire plans d\'urgence et d\'intervention', 'UCLouvain / GEPS / Politeia', '19/3/2019 13-17 h', 'Louvain-la-Neuve', '135 €', '2019-03-19'],
   ['https://app.box.com/s/agulg2ailz2ljw00wmwwn9fnktzlvr31', 'Nouvelles formations CBRN pour urgentistes. Le temps court et la menace est réelle... Êtes-vous vraiment prêts ?', 'Séminaires du Certificat Universitaire en Gestion des situations d\'exception', '5/3/2019 18-21h', 'Brussels', 'free', '2019-03-05'],
   ['https://fosdem.org/2019/schedule/event/geo_osmqgis/', 'OpenStreetMaps for emergency prep: The view from San Francisco', 'FOSDEM 2019', '3/2/2019 14:45-15:15', 'Brussels', 'free', '2019-02-03'],
 ['https://formation-continue.ehesp.fr/formation/cycle-gestion-de-crise/', 'Gestion des situations sanitaires exceptionnelles', 'École des Hautes études de santé publique', '16 j du 18/3-22/11/2018', 'Internet', '1650 €', '2019-11-22'],
