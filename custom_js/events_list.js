@@ -1,6 +1,9 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE, 'SOUS-TITRE, 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.hcfdc.org/checkout/registration/colloque/80',	'Résilience 360° : quelle stratégie de résilience pour 2025-2030 ?', 	'Haut Comité Français pour la Défense Civile',	  '2/4/2019', 	'Paris', '100 €',  	'2019-04-02'],
+['http://www.entente-valabre.com/technosdays/',			'Vers les technologies 3.0, de la formation à la gestion de crise', 	'Technos Days Valabre',				  '8-10/10/2019', 	'Valabre', 'gratuit',  	'2019-10-10'],
+['https://eenaconference.org/',					'Conférence EENA (agence pour le numéro 112)', 						'',				  '10-12/4/2019', 	'Dubrovnik', '',  	'2019-04-12'],
 ['https://www.politeia.be/mailing/html/polpub20190130je-plansdurgence.html', 'Séminaire plans d\'urgence et d\'intervention', 'UCLouvain / GEPS / Politeia', '19/3/2019 13-17 h', 'Louvain-la-Neuve', '135 € <small>(merci à Nadia Mahi pour l\'info)</small>', '2019-03-19'],
   ['https://app.box.com/s/agulg2ailz2ljw00wmwwn9fnktzlvr31', 'Nouvelles formations CBRN pour urgentistes. Le temps court et la menace est réelle... Êtes-vous vraiment prêts ?', 'Séminaires du Certificat Universitaire en Gestion des situations d\'exception', '5/3/2019 18-21h', 'Brussels', 'free', '2019-03-05'],
   ['https://fosdem.org/2019/schedule/event/geo_osmqgis/', 'OpenStreetMaps for emergency prep: The view from San Francisco', 'FOSDEM 2019', '3/2/2019 14:45-15:15', 'Brussels', 'free', '2019-02-03'],
