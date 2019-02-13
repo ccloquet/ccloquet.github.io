@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE, 'SOUS-TITRE, 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['http://www.secours-expo.com/',  'Secours expo', '',  '4-6/4/2019',	'Paris',    'Gratuit', 	'2019-04-06'],
 ['https://diplomatie.belgium.be/fr/sur_lorganisation/travailler_aux_affaires_etrangeres/Formations/missions_civiles_ue/formation_gestion_crises',	'Formation générique gestion civile des crises - Appel à Candidatures', 	'SPF Affaires étrangères',	  '25/3-5/4/2019', 	'Bruxelles', 'sur dossier',  	'2019-04-05'],
 ['https://www.hcfdc.org/checkout/registration/colloque/80',	'Résilience 360° : quelle stratégie de résilience pour 2025-2030 ?', 	'Haut Comité Français pour la Défense Civile',	  '2/4/2019', 	'Paris', '100 €',  	'2019-04-02'],
 ['http://www.entente-valabre.com/technosdays/',			'Vers les technologies 3.0, de la formation à la gestion de crise', 	'Technos Days Valabre',				  '8-10/10/2019', 	'Valabre', 'gratuit',  	'2019-10-10'],
