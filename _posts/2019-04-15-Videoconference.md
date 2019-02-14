@@ -9,6 +9,7 @@ Comment faire ? À côté de solutions sur mesure et/ou d'entreprise, il existe 
 **Appear.in** vous permet de réserver un lien pour votre organisation, comme par exemple : <https://appear.in/jette>. Au moment voulu, les personnes concernées (maximum 4 pour la version gratuite) ouvrent ce lien dans leur navigateur et sont mises en connexion. Un mécanisme permettant de « frapper à la porte » évite les intrus.
 
 <center>
+<br>
 <img src='../images/3tZSH1eL_lowres.jpg'><br>
 <small>(source de l'image : appear.in)</small>
 </center><br>
