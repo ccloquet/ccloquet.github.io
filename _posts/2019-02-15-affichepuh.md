@@ -2,12 +2,14 @@
 title: Simplifier la communication des consignes en cas d\'urgence
 ---
 
-Quand nous disons que nous simplifions l'information pour la gestion de crise, nos clients nous prennent au mot, et ils ont raison. Qui a dit qu'il fallait nÈcessairement chaque fois mettre en place un systËme informatique ?
+Quand nous disons que nous simplifions l'information pour la gestion de crise, nos clients nous prennent au mot, et ils ont raison. Qui a dit qu'il fallait n√©cessairement chaque fois mettre en place un syst√®me informatique ?
 
-Une information sur un support imprimÈ est parfois la meilleure option. C'est le pari qu'a fait le CHR de Huy en nous demandant de revoir avec eux la communication de leurs consignes en cas d'urgence, notamment en vue de l'accrÈditation de l'hÙpital.
+Une information sur un support imprim√© est parfois la meilleure option. C'est le pari qu'a fait le CHR de Huy en nous demandant de revoir avec eux la communication de leurs consignes en cas d'urgence, notamment en vue de l'accr√©ditation de l'h√¥pital.
 
-DÈfi relevÈ en Èquipe, avec un consultant en communication et sÈcuritÈ (Thierry Van Keirsbilck de [360 Solutions - Risk & Safety](https://www.360-solutions.eu/)), une graphiste ([Malak](https://www.malak.be)) et un illustrateur ([Olivier Legrain](facebook.com/cinematmospheric)), qui ont travaillÈ en ensemble dans l'esprit Poppy. 
+D√©fi relev√© en √©quipe, avec un consultant en communication et s√©curit√© (Thierry Van Keirsbilck de [360 Solutions - Risk & Safety](https://www.360-solutions.eu/)), une graphiste ([Malak](https://www.malak.be)) et un illustrateur ([Olivier Legrain](facebook.com/cinematmospheric)), qui ont travaill√© en ensemble dans l'esprit Poppy. 
 
 <img src='../images/puh_affiche.png'>
 
-Une belle collaboration avec le client, chaque membre de l'Èquipe apportant son expertise tout en comprenant les contraintes des autres, qui a donnÈ un rÈsultat ‡ la fois esthÈtique et fonctionnel. En un mot : message reÁu !
+Une belle collaboration avec le client, chaque membre de l'√©quipe apportant son expertise tout en comprenant les contraintes des autres, qui a donn√© un r√©sultat √† la fois esth√©tique et fonctionnel. En un mot : message re√ßu !
+*Cet article a √©t√© publi√© originalement dans la revue <a href='https://www.diekeure.be/fr-be/professional/9346/be-prepared-nr-4-2018-tijdschrift-voor-noodplanning-en-crisisbeheer-be-prepared-n-4-2018-revue-de-planification-durgence-et-de-gestion-de-crise'>Be Prepared</a>*
+
