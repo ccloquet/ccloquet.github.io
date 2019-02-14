@@ -1,6 +1,5 @@
-
 ---
-title: Simplifier la communication des consignes en cas d'urgence
+title: Simplifier la communication des consignes en cas d\'urgence
 ---
 
 Quand nous disons que nous simplifions l'information pour la gestion de crise, nos clients nous prennent au mot, et ils ont raison. Qui a dit qu'il fallait nécessairement chaque fois mettre en place un système informatique ?
