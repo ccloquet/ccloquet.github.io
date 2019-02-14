@@ -8,8 +8,10 @@ Une information sur un support imprimé est parfois la meilleure option. C'est l
 
 Défi relevé en équipe, avec un consultant en communication et sécurité (Thierry Van Keirsbilck de [360 Solutions - Risk & Safety](https://www.360-solutions.eu/)), une graphiste ([Malak](https://www.malak.be)) et un illustrateur ([Olivier Legrain](facebook.com/cinematmospheric)), qui ont travaillé en ensemble dans l'esprit Poppy. 
 
-<img src='../images/puh_affiche.png'>
+<center>
+<img src='../images/puh_affiche.png' style='width:60%'>
+<center>
 
 Une belle collaboration avec le client, chaque membre de l'équipe apportant son expertise tout en comprenant les contraintes des autres, qui a donné un résultat à la fois esthétique et fonctionnel. En un mot : message reçu !
-*Cet article a été publié originalement dans la revue <a href='https://www.diekeure.be/fr-be/professional/9346/be-prepared-nr-4-2018-tijdschrift-voor-noodplanning-en-crisisbeheer-be-prepared-n-4-2018-revue-de-planification-durgence-et-de-gestion-de-crise'>Be Prepared</a>*
+ 
 
