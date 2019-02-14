@@ -1,6 +1,6 @@
 ---
 title: Vidéoconférence tout terrain
---
+---
 
 Une des clés de la gestion de crise est de discuter ensemble pour partager une même vision et élaborer des solutions. Dans les premiers moments, il n'est pas toujours possible de se rassembler, et une réunion à distance peut s'avérer nécessaire.
 
