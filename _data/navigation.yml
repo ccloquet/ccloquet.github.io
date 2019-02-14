@@ -10,6 +10,8 @@ main:
 sideb:
   - title: 
     children:
+    - title: "Ateliers"
+      url: /workshops/
     - title: "Présentations & documents"
       url: /presas/
     - title: "Open source & initiatives"
