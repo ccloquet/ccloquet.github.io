@@ -10,7 +10,8 @@ Défi relevé en équipe, avec un consultant en communication et sécurité (Thi
 
 <center>
 <img src='../images/puh_affiche.png' style='width:60%'>
-<center>
+</center>
+<br>
 
 Une belle collaboration avec le client, chaque membre de l'équipe apportant son expertise tout en comprenant les contraintes des autres, qui a donné un résultat à la fois esthétique et fonctionnel. En un mot : message reçu !
  
