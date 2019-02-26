@@ -1,3 +1,7 @@
+---
+title: Alerte des populations : table ronde à Secours Expo
+---
+
 Chouettes échanges d'idées hier lors de la table ronde sur l'**alerte aux populations** à Secours Expo !
 
 Mme Brossel (mairie de Paris) est revenue sur l'alerte lors de la **crue de la Seine** de 2016. Le public qui devait être évacué d'urgence : principalement des **personnes sans abri**, sans accès aux moyens d'alerte "modernes" (GSM, application SAIP, ...). Ils ont donc **activé le réseau des maraudes**. D'où l'importance de **pouvoir sortir du cadre** ! Les réflexions de la mairie de Paris vont également dans le sens d'une **plus grande implication des citoyens** dans leur propre sauvegarde.
