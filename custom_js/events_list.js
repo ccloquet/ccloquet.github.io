@@ -1,6 +1,10 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE, 'SOUS-TITRE, 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.eiseverywhere.com/ehome/402927',  'Comité des utilisateurs de la recherche en sécurité', 'Commission européenne',  '25-29/3/2019',	'Bruxelles',    'gratuit', 	'2019-03-29'],
+['https://www.wessex.ac.uk/conferences/2019/disaster-management-2019',  'Disaster Management 2019', '6th International Conference',  '25-27/9/2019',	'Ancona, IT',    '560 - 700 €', 	'2019-09-27'],
+['https://cbrneconference.fr/',  '3rd International Conference CBRNE', 'Research & Innovation',  '20-23/5/2019',	'Nantes, FR',    '100 - 780 €', 	'2019-05-20'],
+['http://www.brandweerwestvlaanderen.be/wintercongres-2019-2',  'Brandweer West-Vlaanderen', 'Wintercongres',  '2/3/2019',	'Veurne',    '', 	'2019-03-02'],
 ['https://overheid.vlaanderen.be/agenda/conferentie-risicos-en-crisissen-niets-om-bang-voor-te-zijn', 'Risico\'s en crisissen: (n)iets om bang voor te zijn?', 'Vlaamse Regering', '23/4/2019 10-17h', 'Brussel', 'Gratis', '2019-04-23'],
 ['http://www.secours-expo.com/',  'Secours expo', '',  '4-6/4/2019',	'Paris',    'Gratuit', 	'2019-04-06'],
 ['https://diplomatie.belgium.be/fr/sur_lorganisation/travailler_aux_affaires_etrangeres/Formations/missions_civiles_ue/formation_gestion_crises',	'Formation générique gestion civile des crises - Appel à Candidatures', 	'SPF Affaires étrangères',	  '25/3-5/4/2019', 	'Bruxelles', 'sur dossier',  	'2019-04-05'],
