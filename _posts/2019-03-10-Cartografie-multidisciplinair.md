@@ -16,28 +16,28 @@ Voor kleine evenementen, tools zoals [UMap](https://umap.openstreetmap.fr/fr/) o
 
 <center><img src=' ../images/w2015/20150619_232744.jpg'></center>
 <br><br>
-In elk geval, een gemeenschappelijke kartografische overzicht brengt onder andere;
+In elk geval, een gemeenschappelijke cartografische  overzicht brengt onder andere;
 
 - een  **betere voorbereiding** voor iedereen door:
-    -   **gemakkelijker zien of alles coherent is** door de informatie van elk partij op eenzelfde kaart te tonen (bv circulatieposten van de politie vs trafiek maatregelen) ;  
-    -  op voorhand over dezelfde acurate kaarten te beschikken voor schriftelijke en mondelinge briefings ;  
+    -   **gemakkelijker zien of alles coherent is** door de informatie van elk partij op eenzelfde kaart te tonen (bv circulatieposten van de politie vs trafiek maatregelen);  
+    -  op voorhand over dezelfde accurate kaarten te beschikken voor schriftelijke en mondelinge briefings; 
 
 -   een **betere coördinatie** tijdens het evenement, en sneller beslissingen nemen als er iets gebeurd (lokaal of grootschalig) door:
-    -   **eenzelfde kaart** in de verschillende plaatsen te vinden: monodisciplinair commandoposten, crisiscenter, organisator commandopost, ... Het is dus gemakkelijker te communiceren ;
+    -   **eenzelfde kaart** in de verschillende plaatsen te vinden: monodisciplinair commandoposten, crisiscenter, organisator commandopost, ... Het wordt dus gemakkelijker te communiceren ;
     -   **dezelfde woorden voor de zelfde concepten** gebruiken (ervoor zorgen dat er geen twee ingangen "A" zijn, of dat de politie en de organisator de zelfde benaming voor dezelfde ingang gebruiken) ;
     -   iedereen baseert zijn beslissingen op het meeste accurate, **meeste recente gegevens**.  
          
 -   een beter beheer door de geplande dispositief te kunnen vergelijken met de realiteit, door **de mogelijkheid van externe info te integreren**, o.a. :  
-    -   trafiek (bv: Be Mobile, HERE, Waze, Google Maps)  ;  
-    -   crowd te integreren (grootschalig: Proximus of Orange, of kleinschaalig: camera, Bluetooth & Wifi sensoren) ;
+    -   trafiek (bv: Be Mobile, HERE, Waze, Google Maps);  
+    -   crowd te integreren (grootschalig: Proximus of Orange, of kleinschalig: camera, Bluetooth & Wifi sensoren);
     -   geolokalisatie van bepaalde personen, voertuigen en goederen, ...
     
-CAD plannen en andere data bronnen kunnen in GIS tools geintegreerd worden, en die cartografische tools laten dan toe om gegevens te leveren in de meeste gepaste formaat voor de persoon die het zal gebruiken: 
-- acurate papier kaarten 
-- interactieve web kaarten
+CAD plannen en andere data bronnen kunnen in GIS tools geïntegreerd worden, en die cartografische tools laten dan toe om gegevens te leveren in de meeste gepaste formaat voor de persoon die het zal gebruiken: 
+- accurate papier kaarten;
+- interactieve web kaarten;
 - KML bestanden, ... 
 
-Bij voorbeeld is het dan mogelijk om de gegevens te integreren **in een tool zoals ICMS**, dat FOD Binnenlandse Zaken ter beschikking stelt voor crisis en grote evenementen management. Door (een deel van) de gegevens in deze systeem in te voeren zijn dan al de betrokkene partijen (dienst 112, dienst 101, geimpacteerde gemeenten, gouverneur of hoge ambtenaar, ...) automatisch op de hoogte van de toestand.
+Bij voorbeeld is het dan mogelijk om de gegevens te integreren **in een tool zoals ICMS**, dat FOD Binnenlandse Zaken ter beschikking stelt voor crisis en grote evenementen management. Door (een deel van) de gegevens in dit systeem in te voeren zijn dan al de betrokkene partijen (dienst 112, dienst 101, geimpacteerde gemeenten, Gouverneur / Hoge ambtenaar, ...) automatisch op de hoogte van de toestand.
 
 In kort, zelfs als de kaart en de realiteit nog verschillend zijn, biedt cartografie een coherent zicht over het geheel, zodanig dat de jullie beter op voorhand kunnen plannen en sneller beslissingen kunnen nemen zou er iets gebeuren.
 
