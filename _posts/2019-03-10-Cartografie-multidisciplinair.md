@@ -22,7 +22,7 @@ In elk geval, een gemeenschappelijke kartografische overzicht brengt onder ander
     -   **gemakkelijker zien of alles coherent is** door de informatie van elk partij op eenzelfde kaart te tonen (bv circulatieposten van de politie vs trafiek maatregelen) ;  
     -  op voorhand over dezelfde acurate kaarten te beschikken voor schriftelijke en mondelinge briefings ;  
 
--   een **betere coördinatie** tijdens het evenement, en sneller beslissingen nemen als er iets gebeurd (lokaal of grootschalig) door:
+-   een **betere coÃ¶rdinatie** tijdens het evenement, en sneller beslissingen nemen als er iets gebeurd (lokaal of grootschalig) door:
     -   **eenzelfde kaart** in de verschillende plaatsen te vinden: monodisciplinair commandoposten, crisiscenter, organisator commandopost, ... Het is dus gemakkelijker te communiceren ;
     -   **dezelfde woorden voor de zelfde concepten** gebruiken (ervoor zorgen dat er geen twee ingangen "A" zijn, of dat de politie en de organisator de zelfde benaming voor dezelfde ingang gebruiken) ;
     -   iedereen baseert zijn beslissingen op het meeste accurate, **meeste recente gegevens**.  
