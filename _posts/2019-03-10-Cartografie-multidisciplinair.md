@@ -9,13 +9,13 @@ In een wereld die exponentieel complexer wordt, zijn tools om informatie fluxen 
 Hulpdiensten werken steeds meer multidisciplinair (cf tools zoals de [multidisciplinair aanvraag formulier](https://be.brussels/siamu/bibliotheque-multimedia/fichiers/organiser-un-evenement-que-faire/fiche-signaletique), [ICMS](http://icmsystem.be/dutch/index.html), ...). Organisatoren kunnen zeker opvallen door informatie in praktische formaten met de overheid uit te wisselen.
 
 <center><img src='../images/w2015/20150618_165422.jpg'></center>
-
+<br><br>
 CAD (<i>Computer Assisted Design</i>) tools ([AutoCAD](https://www.autodesk.com/products/autocad/overview), [QCAD](https://www.qcad.org/en/), ...) zijn perfect voor de technische conceptie van evenementen, door elk klein nagel te klaten tekenen, maar wanneer het tot multiorganisatie samenwerking komt, komen andere tools op het podium. 
 
 Voor kleine evenementen, tools zoals [UMap](https://umap.openstreetmap.fr/fr/) of [Google My Maps](https://www.google.com/maps/d/) helpen om een gemeenschappelijke cartografie (organisator, hulpdiensten, overheid) te maken, maar hun beperkingen worden snel bereikt. Voor grootschalige evenementen, professionele GIS (<i>Geographical Information systems</i>) tools ([QGIS](https://www.qgis.org/en/site/), [ArcGIS](https://www.arcgis.com/index.html), [MapInfo](https://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html), ...) hebben de kracht om complex projecten te beheren.
 
 <center><img src=' ../images/w2015/20150619_232744.jpg'></center>
-
+<br><br>
 In elk geval, een gemeenschappelijke kartografische overzicht brengt onder andere;
 
 - een  **betere voorbereiding** voor iedereen door:
@@ -37,8 +37,8 @@ CAD plannen en andere data bronnen kunnen in GIS tools geintegreerd worden, en d
 - interactieve web kaarten
 - KML bestanden, ... 
 
-Bij voorbeeld is het dan mogelijk om de gegevens te integreren **in een tool zoals 'ICMS'**, dat FOD Binnenlandse Zaken ter beschikking stelt voor crisis en grote evenementen management. Door (een deel van) de gegevens in deze systeem in te voeren zijn dan al de betrokkene partijen (dienst 112, dienst 101, geimpacteerde gemeenten, gouverneur of hoge ambtenaar, ...) automatisch op de hoogte van de toestand.
+Bij voorbeeld is het dan mogelijk om de gegevens te integreren **in een tool zoals ICMS**, dat FOD Binnenlandse Zaken ter beschikking stelt voor crisis en grote evenementen management. Door (een deel van) de gegevens in deze systeem in te voeren zijn dan al de betrokkene partijen (dienst 112, dienst 101, geimpacteerde gemeenten, gouverneur of hoge ambtenaar, ...) automatisch op de hoogte van de toestand.
 
-In kort, zelfs als de kaart en de realiteit nog verschillend zijn, biedt cartografie een coherent zicht over het geheel, zodanig dat de verantwoordelijke beter op voorhand kunnen plannen en sneller kunnen beslissen zou er iets gebeuren.
+In kort, zelfs als de kaart en de realiteit nog verschillend zijn, biedt cartografie een coherent zicht over het geheel, zodanig dat de jullie beter op voorhand kunnen plannen en sneller beslissingen kunnen nemen zou er iets gebeuren.
 
 En jullie, hoe pakken jullie de complexiteit van jullie evenementen aan?
