@@ -41,3 +41,4 @@ Bij voorbeeld is het dan mogelijk om de gegevens te integreren **in een tool zoa
 
 In kort, zelfs als de kaart en de realiteit nog verschillend zijn, biedt cartografie een coherent zicht over het geheel, zodanig dat de verantwoordelijke beter op voorhand kunnen plannen en sneller kunnen beslissen zou er iets gebeuren.
 
+En jullie, hoe pakken jullie de complexiteit van jullie evenementen aan?
