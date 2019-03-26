@@ -1,7 +1,8 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE, 'SOUS-TITRE, 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
-// ['',  '', '',  '',	'',    '', 	''],
+//['','','','','','',''],
+['https://nuitdelagestiondecrises.jeunes-ihedn.fr/index.php/programme/','La Nuit de la gestion de crises','IHEDN','29-30 mars 2019','Paris','5 €','2019-03-30'],
 ['http://www.safecluster.com/essai/journee-numerique-et-securite-civile/', 'Journée numérique et sécurité civile', 'Safe Cluster/ENSOSP/UTT','7 mai 2019','Aix en Provence','40-150 €','2019-05-07'],
 ['http://www.planicom.be/nos-services/modules-complementaires/',  'Formation Grands Rassemblements', 'Planicom',  '25/4/2019',	'Liège',    '200 €', 	'2019-04-25'],
 ['https://www.eiseverywhere.com/ehome/402927',  '<a href="https://app.box.com/s/hbw8c5svmfo5rap1rmgr16ml7p6dz2e0">Comité des utilisateurs de la recherche en sécurité</a>', 'Commission européenne',  '<a href="https://www.eiseverywhere.com/ehome/402927">25-29/3/2019</a>',	'Bruxelles',    'gratuit', 	'2019-03-29'],
