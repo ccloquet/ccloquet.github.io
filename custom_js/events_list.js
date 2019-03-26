@@ -67,7 +67,7 @@ var events = [
 ['https://www.expoprotection.com/',												'Expoprotection',				'',				  '6-9/11/2018',	'Paris',    'Gratuit', 	'2018-11-09'],
 ['http://www.irma-grenoble.com/PDF/02institut/2018/formation_flyers_2018.pdf',							'Plan spécifique innondations',			'IRMA - Journée technique',	  '4/12/2018',		'Grenoble', '', 	'2018-12-04'],
 ['http://www.easyfairs.com/fileadmin/groups/6/SECURA_BE_2017/Downloads/WorkSafe_2019.pdf',					'Worksafe 2019',				'',				  '27-28/3/2019',	'Antwerpen','Gratuit', 	'2019-03-28'],
-['http://www.infopol-xpo112.be/fr/home/#.WbkqObJJaHs',										'Infopol | Xpo112 2019',					'',				  '23-25/4/2019',	'Kortrijk', 'Gratuit', 	'2019-04-25'],
+['http://www.infopol-xpo112.be/fr/home/#.WbkqObJJaHs',										'Infopol | Xpo112 2019',					'',				  '2-4/4/2019',	'Kortrijk', 'Gratuit', 	'2019-04-04'],
 ['https://www.osgeo.asso.fr/foss4gfr-2018/',											'FOSS4G France - géomatique libre, avec un probable track "Gestion de crise"', '', 	  '15-17/5/2018', 	'Paris', '', '2018-05-17'],
 ['https://web.jrc.ec.europa.eu/rem/#m101151', 											'Disaster Risk Management Knowledge Centre', '3rd Annual Scientific Seminar', 	  '26-27/4/2018', 'Sofia', '', '2018-04-27'],
 ['http://www.essenscia.be/fr/Calendar/Registration/476', 									'1er Forum Seveso', 				'Essencia', 			  '20/3/2018', 'La Hulpe', 'Gratuit', '2018-03-20'],
