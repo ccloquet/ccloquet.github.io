@@ -1,7 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE, 'SOUS-TITRE, 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
-//['http://www.irma-grenoble.com/02institut/formations-irma.php?id=56','Evénements extrêmes et changement climatique : Quelles conséquences pour les territoires ?','IRMA','14 mai 2019','Grenoble','gratuit','2019-05-14'],
+['http://www.irma-grenoble.com/02institut/formations-irma.php?id=56','Evénements extrêmes et changement climatique : Quelles conséquences pour les territoires ?','IRMA','14 mai 2019','Grenoble','gratuit','2019-05-14'],
 ['https://nuitdelagestiondecrises.jeunes-ihedn.fr/index.php/programme/','La Nuit de la gestion de crises','IHEDN','29-30 mars 2019','Paris','5 €','2019-03-30'],
 ['http://www.safecluster.com/essai/journee-numerique-et-securite-civile/', 'Journée numérique et sécurité civile', 'Safe Cluster/ENSOSP/UTT','7 mai 2019','Aix en Provence','40-150 €','2019-05-07'],
 ['http://www.planicom.be/nos-services/modules-complementaires/',  'Formation Grands Rassemblements', 'Planicom',  '25/4/2019',	'Liège',    '200 €', 	'2019-04-25'],
