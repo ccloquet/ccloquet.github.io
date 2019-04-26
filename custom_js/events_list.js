@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
-//['URL', 'TITRE, 'SOUS-TITRE, 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+//['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['http://www.irma-grenoble.com/02institut/formations-irma.php?id=58', 'Implication citoyenne en cas de catastrophe' , 'Réalités et perspectives pour les collectivités', '4/6/2019 8h30-17h30', 'Aix-en-Provence', 'TBD', '2019-06-04'],
 ['https://www.eventbrite.fr/e/billets-4emes-rencontres-parlementaires-de-la-securite-civile-59826395359 <https://ifrasec.us10.list-manage.com/track/click?u=93fd83c7ceb08a5c3948e33ac&id=5fc01509eb&e=c91870b154> ', '4èmes Rencontres parlementaires de la sécurité civile', 'IFRASEC', 'Mercredi 5 juin 2019', 'Paris', 'gratuit', '2019-06-05'],
 ['http://www.irma-grenoble.com/02institut/formations-irma.php?id=56','Evénements extrêmes et changement climatique : Quelles conséquences pour les territoires ?','IRMA','14 mai 2019','Grenoble','gratuit','2019-05-14'],
 ['https://nuitdelagestiondecrises.jeunes-ihedn.fr/index.php/programme/','La Nuit de la gestion de crises','IHEDN','29-30 mars 2019','Paris','5 €','2019-03-30'],
