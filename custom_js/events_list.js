@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://zoom.us/webinar/register/WN_sIfUZ8kwSpOemQsCdmocIw', 'La préparation des hôpitaux aux situations sanitaires exceptionnelles', 'Résilience France', '27 juin 2019 12h-13h', 'Talk vidéo', 'gratuit', '2019-06-27']
 ['https://www.airmap.fr/wp-content/uploads/2019/03/20190919_Oriane.pdf', 'Comprendre et renaître en présence du risque ?', '17ème colloque francophone sur le risque', '19-20/9/2019', 'Bayonne', '348 €', '2019-09-20'],
 ['https://www.imdr.eu/offres/gestion/events_818_46494_non-2229/professional-values-and-codes-of-practice-for-disaster-prevention.html', 'Professional values and codes of practice for disaster prevention', 'Université Paris Dauphine', '18/6/2019', 'Paris', 'gratuit', '2019-06-18'],
 ['https://univ-droit.fr/actualites-de-la-recherche/manifestations/31479-la-securisation-des-infrastructures-d-approvisionnement', 'La sécurité des infrastructures d\'approvisionnement', 'Université de Haute-Alsace', '29/5/2019', 'Mulhouse', '75 €', '2019-05-29'],
