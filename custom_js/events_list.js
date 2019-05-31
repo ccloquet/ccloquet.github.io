@@ -1,6 +1,8 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.civil-protection.com/', 'Climate Change - Challenges for Europe', 'European Congress on Disaster Management', '27-28/8/2019', 'Berlin', 'gratuit (volontaires) - taux réduit (services publics) - 498 € (entreprises)', '2019-08-28'],
+['https://www.eventbrite.com/e/cartographie-avec-qgis-pour-les-services-de-secours-et-de-prevention-initiation-tickets-62563630503', 'Cartographie avec QGIS pour les services de secours et de prévention - initiation', 'atelier Poppy', '11 juillet 2019 15h30-18h30', 'Bruxelles', 'sur invitation', '2019-07-11'],
 ['https://zoom.us/webinar/register/WN_sIfUZ8kwSpOemQsCdmocIw', 'La préparation des hôpitaux aux situations sanitaires exceptionnelles', 'Résilience France', '27 juin 2019 12h-13h', 'Talk vidéo', 'gratuit', '2019-06-27'],
 ['https://www.airmap.fr/wp-content/uploads/2019/03/20190919_Oriane.pdf', 'Comprendre et renaître en présence du risque ?', '17ème colloque francophone sur le risque', '19-20/9/2019', 'Bayonne', '348 €', '2019-09-20'],
 ['https://www.imdr.eu/offres/gestion/events_818_46494_non-2229/professional-values-and-codes-of-practice-for-disaster-prevention.html', 'Professional values and codes of practice for disaster prevention', 'Université Paris Dauphine', '18/6/2019', 'Paris', 'gratuit', '2019-06-18'],
