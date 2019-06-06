@@ -45,7 +45,7 @@ var events = [
 ['https://www.eventbrite.com/e/cartographie-avec-qgis-pour-les-services-de-secours-introduction-tickets-49687106473', 'QGIS pour les services de secours', 'Atelier Poppy', '18/10/2018', 'Bruxelles', 'gratuit', '2018-10-18'],
 ['https://academieairespace.com/grandsprojets', 'La gestion des grands projets - Retour d\'expérience', '', '10-11/12/2018', 'Paris', '500 € (étudiants : 50 €)', '2018-12-12'],
 ['http://www.jac.cerdacc.uha.fr/', 'La mémoire industrielle, facteur de prévention du risque. Le cas du démantèlement', '', '23/11/2018', 'Colmar', 'gratuit', '2018-11-23'],
-['https://milipol.com','Milipol', 'Salon de la sécurité intérieure des États', '19-22/11/2019', 'Paris', 'gratuit', '2019-11-22'],
+['https://milipol.com','Milipol', 'Salon de la sécurité intérieure des États', '19-22 novembre 2019', 'Paris', 'gratuit', '2019-11-22'],
 ['https://www.security-systems-valley.fr/festival', 'Festival du film de sécurité', '', '02/10/2018', 'Enghien-les-Bains (France)', '', '2018-10-02'],
 ['http://www.symposium-urgence-charleroi.be', 	 '18ème Symposium de médecine d\'urgence de Charleroi',              'Urgences extrêmes',    '23/11/2018', 'Charleroi', '',     '2018-11-23'],
 ['http://www.politiestudies.be/vrij.cfm?Id=416', 'Innovatie in de opsporing: kansen en bedreigingen van Blockchain', 'CPS-studievoormiddag', '20/9/2018',  'Brussel',   '95 €', '2018-09-20'],
