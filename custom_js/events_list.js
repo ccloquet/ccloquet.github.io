@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['http://www.safecluster.com/essai/club-resilience-et-environnement/', 'Club Résilience et Environnement', 'Safe Cluster', '2 juillet 2019 9h - 12h30', 'Aix-en-Provence', 'Gratuit', '2019-07-02'],
 ['https://www.weezevent.com/colloque-mba-sp-management-de-la-securite-2019-risques-et-resilience', 'Risques et résilience', 'Colloque MBAsp (Gendarmerie)', '21 février 2019', 'Paris', 'TBA', '2019-02-21'],
 ['https://www.eventbrite.fr/e/billets-2e-forum-securite-resilience-54529357777#', '2ème Forum sécurité et résilience', 'WE Demain', '19 février 2019', 'Issy-les-Moulineaux', '85 €', '2019-02-19'],
 ['http://www.irsd.be/website/index.php/fr/2-non-categorise/1421-conf-13june2019', 'Le changement climatique et son impact sur la sécurité internationale', 'Conférence de l\'Institut Royal Supérieur de Défense', '13 juin 2019 17h-19h30', 'Bruxelles', 'gratuit', '2019-06-13'],
