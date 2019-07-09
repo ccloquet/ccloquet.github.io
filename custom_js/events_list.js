@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.eventbrite.com/e/cartographie-avec-qgis-pour-les-services-de-secours-et-de-prevention-initiation-tickets-64358800906', 'Cartographie avec QGIS pour les services de secours et de prévention - initiation', 'atelier Poppy', '22 août 2019 15h00-17h30', 'Namur', 'sur invitation', '2019-08-22'],
 ['http://www.safecluster.com/essai/club-resilience-et-environnement/', 'Club Résilience et Environnement', 'Safe Cluster', '2 juillet 2019 9h - 12h30', 'Aix-en-Provence', 'Gratuit', '2019-07-02'],
 ['https://www.weezevent.com/colloque-mba-sp-management-de-la-securite-2019-risques-et-resilience', 'Risques et résilience', 'Colloque MBAsp (Gendarmerie)', '21 février 2019', 'Paris', 'TBA', '2019-02-21'],
 ['https://www.eventbrite.fr/e/billets-2e-forum-securite-resilience-54529357777#', '2ème Forum sécurité et résilience', 'WE Demain', '19 février 2019', 'Issy-les-Moulineaux', '85 €', '2019-02-19'],
