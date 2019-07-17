@@ -29,8 +29,10 @@ Que ce soit au cours du développement de nouveaux produits ou au détour de cer
 
 <br><br>
 **9. [Principes fondamentaux de stratégie militaire](https://www.librairiedialogues.fr/livre/211147-principes-fondamentaux-de-strategie-militaire-carl-von-clausewitz-mille-et-une-nuits)** (Clausewitz). Cet ouvrage est moins connu que *De la guerre*, mais aussi plus court et plus accessible. Vous y lirez notamment l'importance de prendre en compte la friction du terrain ("On se trompe souvent de plusieurs heures dans l'évaluation de la marche d'une colonne [...]". En clair : vos ambulances mettront toujours plus de temps que prévu à arriver, tenez-en compte dans vos plans, et anticipez!).
+<br><br>
+**10** [Dix principes pour penser dans un monde complexe](https://theconversation.com/dix-principes-pour-penser-dans-un-monde-complexe-107548) (Edgar Morin) : "N’ayez pas peur du désordre" et "devenez stratèges" !
 
-**10** Le dixième est le vôtre. Quelles sont vos références en gestion de crise ? Discutons-en sur [Twitter](https://twitter.com/mypoppy_eu) ou [Facebook](https://www.facebook.com/mypoppyeu/) !
+Et vous, quelles sont vos références en gestion de crise ? Discutons-en sur [Twitter](https://twitter.com/mypoppy_eu) ou [Facebook](https://www.facebook.com/mypoppyeu/) !
 
 
 
