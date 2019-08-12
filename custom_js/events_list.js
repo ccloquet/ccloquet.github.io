@@ -1,6 +1,11 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.eiseverywhere.com/emarketing/go.php?i=681447&e=Y2hyaXN0b3BoZUBteS1wb3BweS5ldQ==&l=https://www.eiseverywhere.com/ereg/newreg.php|Q|eventid|E|465574', '14th CoU Thematic Workshops', 'Committee of Users in Security Research', '16-20 september 2019', 'Brussels', 'gratuit', '2019-09-20'],
+['https://www.sre2019.eu/registration', 'Security Research Event 2019', 'Building Bridges', '6-7 novembre 2019', 'Helsinki', 'gratuit', '2019-11-07'],
+['http://www.safecluster.com/essai/hackers-citoyens/', 'Freemium, low tech et expertise citoyenne', 'Safe Cluster', '1er octobre 2019', 'Aix-en-Provence', 'gratuit', '2019-10-01'],
+['https://ec.europa.eu/eusurvey/runner/IndustryDay2019', 'International Forum to Advance First Responder Innovation', 'Commission Européenne', '15 octobre 2019', 'Bruxelles', 'gratuit', '2019-10-15'],
+['https://www.resiliency.fr/pilotage-gestion-de-crise', 'Gestion de crise : session nationale et exercice full scale de 36 h', 'HCFRN', '17/9-13/12/2019', '80 h - 70 % à distance, 30 % à Paris', '2500-5000 €', '2019-12-13'],
 ['http://2019.foss4g.be/en/', 'Conférence sur les logiciels cartographiques open source', 'FOSS4G', '24 octobre 2019', 'Bruxelles', 'Gratuit', '2019-10-24'],
 ['https://iea.u-cergy.fr/fr/manifestations-scientifiques/conferences-et-workhops/conference-europeenne-sur-les-perceptions-du-risque.html', 'Conférence européenne sur les perceptions du risque', 'Université de Cergy-Pontoise', '13 mars 2019 - 14 mars 2019', 'Paris', '2019-03-14'],
 ['https://idrim2019.com/', 'The 10th conference of the international society for Integrated Disaster Risk Management', 'iDRiM 2019', '16-18 octobre 2019', 'Nice (France)', '100-450 €', '2019-10-18'],
