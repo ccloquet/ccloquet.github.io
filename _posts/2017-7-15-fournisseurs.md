@@ -11,15 +11,19 @@ Cela passe nécessairement par un renforcement des liens entre les personnes, au
 <li>Traduction : <a href="http://hannevandenbroeck.wordpress.com">HanneV</a> (Zemst)</li>
 <li>Impression : <a href="https://www.colorimpact.eu/">Color Impact</a> (Ixelles -- flyers publicitaires), <a href="https://www.printdeal.be">PrintDeal</a> (Antwerpen -- brochures), <a href="http://www.dpi.be/">DPI</a> (Anderlecht -- roll-ups & impressions grand format) & <a href="https://denacopy.be/">DenaCopy</a> (Jette -- posters)</li>
 <li>Livraisons à vélo : <a href="http://dioxyde-de-gambettes.com">Dioxyde De Gambettes</a></li>
-<li>Salles de réunion : <a href="http://eebic.be">EEBIC</a> (Anderlecht)</li>
+<li>Salles de formation : <a href="http://eebic.be">EEBIC</a> (Anderlecht) & <a href="https://digityser.org/">DigitYser</a> (Bruxelles)</li>
 <li>Code review : <a href="http://passwerk.be/">Passwerk (Antwerpen) </a></li>
 <li>Certificats SSL : <a href="http://globalsign.be">Globalsign</a> (Leuven)</li>
 <!--li>Conseil en sécurité : <a href="http://ofep.be">OFEP</a> (Wemmel)</li-->
 <li>Développement web : <a href="https://tomsondevelopment.com">Tomson Développement</a> (Namur)</li>
+<li>Développement électronique : LinuxFan (Ixelles)</li>
 <li>Intérim : <a href="http://www.elite-interim.be">Elite Intérim</a> (Laeken)</li>
-<li>Électronique : <a href="https://shop.mchobby.be/">mcHobby</a> (Wavre)</li>
+<li>Électronique : <a href="https://shop.mchobby.be/">mcHobby</a> (Wavre) & <a href="https://www.cotubex.be//">Cotubex</a> (Ixelles)</li>
+<li>Informatique : <a href="https://www.redcorp.com/fr">Redcrop</a> (Saint-Gilles)</li>
 <li>PeliCases : <a href="http://www.studiofrancine.be/">Studio Francine</a> (Bruxelles)</li>
 <li>Traiteur : <a href="http://kamilou.be/">Kamilou</a> (Ixelles)</li>
 <li>Comptabilité : <a href="https://www.bls-fiduciaire.be/">BLS</a> (Braine l'Alleud)</li>
+<li>Facturation : <a href="https://www.koalaboox.com/">Koalaboox</a></li>
+<li>Assistance Administrative : Aube Consultance (Visé)</li>
 <li>Matériel d'exposition : <a href="http://www.rentevent.be">Rent Event</a> (Asse)</li>
 </ul> 
