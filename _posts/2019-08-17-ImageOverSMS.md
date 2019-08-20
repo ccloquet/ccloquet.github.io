@@ -1,5 +1,5 @@
 ---
-title: Mode dégradé - envoyer des images par SMS
+title: Envoyer des images par SMS
 ---
 
 En tant que travailleur humanitaire, vous est-il déjà arrivé de devoir transmettre des photos alors que vous aviez seulement accès à un réseau GSM 2G ? Dans ce cas, impossible d'utiliser une appli comme Whatsapp, voire le mail classique.
