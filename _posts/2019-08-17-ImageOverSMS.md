@@ -3,7 +3,7 @@ title: RÃ©silience et fournisseurs locaux
 ---
 
 En
-En tant que travailleur humanitaire, vous est-il déjà arrivé de devoir transmettre des photos alors que vous aviez seulement accès à un réseau GSM 2G ? Dans ce cas, impossible d'utiliser une appli comme Whatsapp, voire le mail classique.
+Vous êtes travailleu.s.e.r humanitaire, vous est-il déjà arrivé de devoir transmettre des photos alors que vous aviez seulement accès à un réseau GSM 2G ? Dans ce cas, impossible d'utiliser une appli comme Whatsapp, voire le mail classique.
 
 Il est bien sûr possible d'utiliser une liaison de données via satellite, mais c'est coûteux. Il existe aussi des solutions d'envoi de [données](http://www.stonepower.se/Images/WINO_ICT.pdf) et d'[images par radio](http://www.arrl.org/image-modes), que ce soit avec du matériel [radioamateur](http://www.nordichf.org/hf98/programmehf98.htm) ou [professionnel](https://www.rapidm.com/), et dans certains cas [avec une infrastructure très réduite](https://gotenna.com/), mais que faire si vous n'avez que votre smartphone en mains ?
 
