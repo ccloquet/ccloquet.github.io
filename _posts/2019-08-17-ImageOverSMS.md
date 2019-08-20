@@ -20,7 +20,7 @@ Pour plus de sécurité, vous pouvez même héberger ce lien sur votre ordinateu
 Pour envoyer les images, seuls un smartphone et une connexion 2G sont dès lors nécessaires. Et pour les consulter, une simple connexion à internet suffit. 
 
 Plus d'infos sur le fonctionnement et la configuration sur https://github.com/ccloquet/image_over_sms.
-L'appli est disponible pour Android sur le Play Store et le code source est disponible en [open source sur GitHub](https://github.com/ccloquet/image_over_sms).
+L'appli est disponible en version beta, nous vous y donnons volontiers accès ! Le code source est disponible en [open source sur GitHub](https://github.com/ccloquet/image_over_sms).
 
 Dans le futur, on pourrait même imaginer l'envoi d'images entre deux smartphones, entièrement au moyen de SMS, sans passer par internet !
 
