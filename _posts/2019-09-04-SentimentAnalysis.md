@@ -10,7 +10,7 @@ En gestion d'évènement comme en situation de crise, il est crucial d'analyser 
 
 Tapez simplement un terme de recherche (p. ex. ici : "francorchamps") et cliquez sur "query". Vous obtenez après quelques secondes un graphe qui vous indique si les tweets sont plutôt positifs ou négatifs (axe horizontal), et si leur émotion est plutôt contenue ou fort exprimée (axe vertical).
 
-Grâce à l'onglet "Topics", vous pouvez identifier les sujets qui sont à l'origine de certains sentiments. Par exemple, à Francorchamps cette année, le décès tragique du pilote Anthoine Hubert :
+Grâce à l'onglet "Topics", vous pouvez identifier les sujets qui sont à l'origine de certains sentiments. Par exemple, à Francorchamps cette année, le décès tragique du pilote Anthoine Hubert (en haut à gauche) :
 
 <img  style='border:4px solid white; border-radius:4px' src="../images/sv2.png">
 
