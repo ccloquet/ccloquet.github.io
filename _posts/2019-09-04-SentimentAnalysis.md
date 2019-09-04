@@ -4,7 +4,7 @@ title: SentimentViz, un outil pour analyser le sentiment des tweets
 
 En gestion d'évènement comme en situation de crise, il est crucial d'analyser et de comprendre le ressenti des participants ou de la population, afin de pouvoir y répondre adéquatement et/ou de mesurer l'efficacité des mesures prises.
 
-À côté des outils commerciaux commepar exemple <a href='https://blog.hootsuite.com/social-media-sentiment-analysis-tools/'>Hootsuite</a>, <a href='https://mention.com/en/sentiment-analysis/'>Mention</a>, ou <a href='https://sproutsocial.com/insights/sentiment-analysis/'>Sproutsocial</a>, il existe un petit outil en ligne gratuit développé par la <a href='https://www.ncsu.edu/'>NC State University</a> : <a href='https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/'>Sentiment Viz</a>.
+À côté d'outils commerciaux comme par exemple <a href='https://blog.hootsuite.com/social-media-sentiment-analysis-tools/'>Hootsuite</a>, <a href='https://mention.com/en/sentiment-analysis/'>Mention</a>, ou encore <a href='https://sproutsocial.com/insights/sentiment-analysis/'>Sproutsocial</a>, il existe un petit outil en ligne gratuit développé par la <a href='https://www.ncsu.edu/'>NC State University</a> : <a href='https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/'>Sentiment Viz</a>.
 
 <img style='border:2px solid white; border-radius:4px' src="../images/sv1.png">
 
