@@ -1,7 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
-['https://www.meetup.com/fr-FR/OpenStreetMap-Belgium/events/264468195/', 'Missing Maps : am�liorer OpenStreetMap pour MSF', 'atelier pratique', '24 septembre 2019 de 18-21 h', 'Bruxelles', 'gratuit', '2019-09-24'],
+['https://www.meetup.com/fr-FR/OpenStreetMap-Belgium/events/264468195/', 'Missing Maps : améliorer OpenStreetMap pour MSF', 'atelier pratique', '24 septembre 2019 de 18-21 h', 'Bruxelles', 'gratuit', '2019-09-24'],
 ['https://www.eiseverywhere.com/emarketing/go.php?i=681447&e=Y2hyaXN0b3BoZUBteS1wb3BweS5ldQ==&l=https://www.eiseverywhere.com/ereg/newreg.php|Q|eventid|E|465574', '14th CoU Thematic Workshops', 'Committee of Users in Security Research', '16-20 september 2019', 'Brussels', 'gratuit', '2019-09-20'],
 ['https://www.sre2019.eu/registration', 'Security Research Event 2019', 'Building Bridges', '6-7 novembre 2019', 'Helsinki', 'gratuit', '2019-11-07'],
 ['http://www.safecluster.com/essai/hackers-citoyens/', 'Freemium, low tech et expertise citoyenne', 'Safe Cluster', '1er octobre 2019', 'Aix-en-Provence', 'gratuit', '2019-10-01'],
@@ -12,7 +12,7 @@ var events = [
 ['https://idrim2019.com/', 'The 10th conference of the international society for Integrated Disaster Risk Management', 'iDRiM 2019', '16-18 octobre 2019', 'Nice (France)', '100-450 €', '2019-10-18'],
 ['https://www.facebook.com/gestioncrise/', '7ème session du MOOC Gestion de crise', 'Université Paris II & École des Officiers de la Gendarmerie Nationale', 'à partir du 6 janvier 2020', 'internet', 'gratuit', '2020-03-01'],
 ['https://www.imdr.eu/offres/gestion/events_818_46997_non-2229/idees-recues-en-gestion-de-crise-etudes-de-cas-interactives.html', 'Idées reçues en gestion de crise Etudes de cas interactives', 'IMDR', '8 octobre 2019 9-17h30 ', 'IRSN, Fontenay-aux-Roses', '120 €', '2019-10-08'],
-['https://planu.be/pages/articles.php?rub=articles&pg=34', 'Colloque annuel', 'planu.be', '21 octobre 2019', 'Namur', '80 �', '2019-10-21'],
+['https://planu.be/pages/articles.php?rub=articles&pg=34', 'Colloque annuel', 'planu.be', '21 octobre 2019', 'Namur', '80 eur', '2019-10-21'],
 ['https://www.gemeente.nu/events-veiligheid/evenementenveiligheid-informatie/', 'Jaarcongres Evenementenveiligheid', 'De laatste actualiteiten en ontwikkelingen', '31 octobre 2019', 'Apeldoorn', '250-999 €', '2019-10-31'],
 ['https://letscrowd.eu/event/international-security-expo-ise/', 'International Security Expo', 'ISE', '3 décembre 2019', 'Olympia London', 'gratuit', '2019-12-03'],
 ['https://mailchi.mp/eena/save-the-date-communicating-with-multicultural-crowds-webinar?e=fdb164a9cc/', 'Communicating with multicultural crowds at mass gatherings', 'EENA', '12 septembre 2019', 'internet', 'gratuit', '2019-09-12'],
