@@ -6,7 +6,7 @@ En gestion d'évènement comme en situation de crise, il est crucial d'analyser 
 
 À côté des outils commerciaux commepar exemple <a href='https://blog.hootsuite.com/social-media-sentiment-analysis-tools/'>Hootsuite</a>, <a href='https://mention.com/en/sentiment-analysis/'>Mention</a>, ou <a href='https://sproutsocial.com/insights/sentiment-analysis/'>Sproutsocial</a>, il existe un petit outil en ligne gratuit développé par la <a href='https://www.ncsu.edu/'>NC State University</a> : <a href='https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/'>Sentiment Viz</a>.
 
-<img src="../images/sv1.png">
+<img style='border:2px solid white; border-radius:4px' src="../images/sv1.png">
 
 Tapez simplement un terme de recherche (p. ex. ici : "francorchamps") et cliquez sur "query". Vous obtenez après quelques secondes un graphe qui vous indique si les tweets sont plutôt positifs ou négatifs (axe horizontal), et si leur émotion est plutôt contenue ou fort exprimée (axe vertical).
 
