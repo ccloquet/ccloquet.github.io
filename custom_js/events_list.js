@@ -12,7 +12,7 @@ var events = [
 ['https://idrim2019.com/', 'The 10th conference of the international society for Integrated Disaster Risk Management', 'iDRiM 2019', '16-18 octobre 2019', 'Nice (France)', '100-450 €', '2019-10-18'],
 ['https://www.facebook.com/gestioncrise/', '7ème session du MOOC Gestion de crise', 'Université Paris II & École des Officiers de la Gendarmerie Nationale', 'à partir du 6 janvier 2020', 'internet', 'gratuit', '2020-03-01'],
 ['https://www.imdr.eu/offres/gestion/events_818_46997_non-2229/idees-recues-en-gestion-de-crise-etudes-de-cas-interactives.html', 'Idées reçues en gestion de crise Etudes de cas interactives', 'IMDR', '8 octobre 2019 9-17h30 ', 'IRSN, Fontenay-aux-Roses', '120 €', '2019-10-08'],
-['https://planu.be/pages/index.php', 'Colloque annuel', 'planu.be', '21 octobre 2019', 'TBA', 'TBA', '2019-10-21'],
+['https://planu.be/pages/articles.php?rub=articles&pg=34', 'Colloque annuel', 'planu.be', '21 octobre 2019', 'Namur', '80 �', '2019-10-21'],
 ['https://www.gemeente.nu/events-veiligheid/evenementenveiligheid-informatie/', 'Jaarcongres Evenementenveiligheid', 'De laatste actualiteiten en ontwikkelingen', '31 octobre 2019', 'Apeldoorn', '250-999 €', '2019-10-31'],
 ['https://letscrowd.eu/event/international-security-expo-ise/', 'International Security Expo', 'ISE', '3 décembre 2019', 'Olympia London', 'gratuit', '2019-12-03'],
 ['https://mailchi.mp/eena/save-the-date-communicating-with-multicultural-crowds-webinar?e=fdb164a9cc/', 'Communicating with multicultural crowds at mass gatherings', 'EENA', '12 septembre 2019', 'internet', 'gratuit', '2019-09-12'],
