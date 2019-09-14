@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://racoli.be/nl/aankondiging-6e-racoli-symposium/', 'NOODPLANNING 3.0', '6de Racoli Symposium', '3 octobre 2019', 'Bilzen', '125 �', '2019-10-03'],
 ['https://www.meetup.com/fr-FR/OpenStreetMap-Belgium/events/264468195/', 'Missing Maps : améliorer OpenStreetMap pour MSF', 'atelier pratique', '24 septembre 2019 de 18-21 h', 'Bruxelles', 'gratuit', '2019-09-24'],
 ['https://www.eiseverywhere.com/emarketing/go.php?i=681447&e=Y2hyaXN0b3BoZUBteS1wb3BweS5ldQ==&l=https://www.eiseverywhere.com/ereg/newreg.php|Q|eventid|E|465574', '14th CoU Thematic Workshops', 'Committee of Users in Security Research', '16-20 september 2019', 'Brussels', 'gratuit', '2019-09-20'],
 ['https://www.sre2019.eu/registration', 'Security Research Event 2019', 'Building Bridges', '6-7 novembre 2019', 'Helsinki', 'gratuit', '2019-11-07'],
