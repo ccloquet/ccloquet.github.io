@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['http://www.irma-grenoble.com/PDF/02institut/2019/matinales/matinale_06_flyer.pdf', 'Risques nucléaires et évolution de la doctrine nationale de sécurité civile', 'IRMA', '16 octobre 2019', 'Rousillon - France', 'gratuit', '2019-10-16'],
 ['https://www.eventbrite.com/e/prenez-de-meilleures-decisions-grace-a-la-cartographie-avec-qgis-tickets-63645427186', 'QGIS pour les services de secours et de prévention', 'Formation', '7 & 21 novembre 2019', 'Bruxelles', '835 €', '2019-11-07'],
 ['https://www.eventbrite.com/e/prenez-de-meilleures-decisions-grace-a-la-cartographie-avec-qgis-tickets-63645427186', 'QGIS pour les services de secours et de prévention', 'Formation', '5 & 12 décembre 2019', 'Bruxelles', '835 €', '2019-12-05'],
 ['https://www.eventbrite.com/e/prenez-de-meilleures-decisions-grace-a-la-cartographie-avec-qgis-tickets-63645427186', 'QGIS pour les services de secours et de prévention', 'Formation', '3 & 10 octobre 2019', 'Bruxelles', '835 €', '2019-10-03'],
