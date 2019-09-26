@@ -1,8 +1,9 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://idrim2019.com/', 'The 10th conference of the international society for Integrated Disaster Risk Management', 'iDRiM 2019', '16-18 octobre 2019', 'Nice (France)', '100-450 €', '2019-10-18'],
 ['https://www.eventbrite.com/e/securite-informatique-pour-coordinateurs-planus-et-gestionnaires-de-crise-tickets-74273322507', 'Sécurité informatique pour coordinateurs planus et gestionnaires de crise', 'Formation Poppy', '10 décembre 2019 de 13 à 17 h', 'Bruxelles', '120 €', '2019-12-10'],
-['https://www.eventbrite.com/e/belgian-emergency-services-developers-gathering-tickets-71822227215', 'Belgian Emergency Services Developers Gathering', '', '19 décembre 2019 de 14 à 17 h', 'Namur', 'gratuit', '2019-12-19'],
+['https://www.eventbrite.com/e/belgian-emergency-services-developers-gathering-tickets-71822227215', 'Belgian Emergency Services Developers Gathering', 'Atelier Poppy', '19 décembre 2019 de 14 à 17 h', 'Namur', 'gratuit', '2019-12-19'],
 ['http://www.safecluster.com/inscription-envirorisk-2019/', 'La gestion des risques à l\'ère du numérique', 'ENVIRORISK 2019', '12-13 décembre 2019', 'Arbois, France', '90-150 €', '2019-12-13'],
 ['https://sparkconferences.com/mesures-durgence/', 'Planification des mesures d’urgence dans les établissements de soins de santé', '', '3-4 décembre 2020', 'Montréal', '150-700 $CAN', '2020-12-04'],
 ['https://www.diekeure.be/nl-be/opleidingen/9859/kb-lokale-noodplanning-2019', 'KB Lokale Noodplanning 2019', 'Analyse van de belangrijkste nieuwigheden', '21 octobre 2019', 'Kessel-Lo (Leuven)', '75 €', '2019-10-21'],
@@ -20,7 +21,6 @@ var events = [
 ['https://www.resiliency.fr/pilotage-gestion-de-crise', 'Gestion de crise : session nationale et exercice full scale de 36 h', 'HCFRN', '17/9-13/12/2019', '80 h - 70 % à distance, 30 % à Paris', '2500-5000 €', '2019-12-13'],
 ['http://2019.foss4g.be/en/', 'Conférence sur les logiciels cartographiques open source', 'FOSS4G', '24 octobre 2019', 'Bruxelles', 'Gratuit', '2019-10-24'],
 ['https://iea.u-cergy.fr/fr/manifestations-scientifiques/conferences-et-workhops/conference-europeenne-sur-les-perceptions-du-risque.html', 'Conférence européenne sur les perceptions du risque', 'Université de Cergy-Pontoise', '13 mars 2019 - 14 mars 2019', 'Paris', '2019-03-14'],
-['https://idrim2019.com/', 'The 10th conference of the international society for Integrated Disaster Risk Management', 'iDRiM 2019', '16-18 octobre 2019', 'Nice (France)', '100-450 €', '2019-10-18'],
 ['https://www.facebook.com/gestioncrise/', '7ème session du MOOC Gestion de crise', 'Université Paris II & École des Officiers de la Gendarmerie Nationale', 'à partir du 6 janvier 2020', 'internet', 'gratuit', '2020-03-01'],
 ['https://www.imdr.eu/offres/gestion/events_818_46997_non-2229/idees-recues-en-gestion-de-crise-etudes-de-cas-interactives.html', 'Idées reçues en gestion de crise Etudes de cas interactives', 'IMDR', '8 octobre 2019 9-17h30 ', 'IRSN, Fontenay-aux-Roses', '120 €', '2019-10-08'],
 ['https://planu.be/pages/articles.php?rub=articles&pg=34', 'Colloque annuel', 'planu.be', '21 octobre 2019', 'Namur', '80 eur', '2019-10-21'],
