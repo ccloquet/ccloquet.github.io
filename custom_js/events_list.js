@@ -1,6 +1,10 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.eventbrite.com/e/securite-informatique-pour-coordinateurs-planus-et-gestionnaires-de-crise-tickets-74273322507', 'Sécurité informatique pour coordinateurs planus et gestionnaires de crise', 'Formation Poppy', '10 décembre 2019 de 13 à 17 h', 'Bruxelles', '120 €', '2019-12-10'],
+['https://www.eventbrite.com/e/belgian-emergency-services-developers-gathering-tickets-71822227215', 'Belgian Emergency Services Developers Gathering', '', '19 décembre 2019 de 14 à 17 h', 'Namur', 'gratuit', '2019-12-19'],
+['http://www.safecluster.com/inscription-envirorisk-2019/', 'La gestion des risques à l\'ère du numérique', 'ENVIRORISK 2019', '12-13 décembre 2019', 'Arbois, France', '90-150 €', '2019-12-13'],
+['https://sparkconferences.com/mesures-durgence/', 'Planification des mesures d’urgence dans les établissements de soins de santé', '', '3-4 décembre 2020', 'Montréal', '150-700 $CAN', '2020-12-04'],
 ['https://www.diekeure.be/nl-be/opleidingen/9859/kb-lokale-noodplanning-2019', 'KB Lokale Noodplanning 2019', 'Analyse van de belangrijkste nieuwigheden', '21 octobre 2019', 'Kessel-Lo (Leuven)', '75 €', '2019-10-21'],
 ['https://zoom.us/webinar/register/WN_x5cs7KwWTDmYF9_E8abHhw', 'La préparation des hôpitaux aux situations sanitaires exceptionneles', 'Talk vidéo du HCFDC', '23 octobre 2019 - 12 h', 'Internet', 'gratuit', '2019-10-23'],
 ['http://www.irma-grenoble.com/PDF/02institut/2019/matinales/matinale_06_flyer.pdf', 'Risques nucléaires et évolution de la doctrine nationale de sécurité civile', 'IRMA', '16 octobre 2019', 'Rousillon - France', 'gratuit', '2019-10-16'],
