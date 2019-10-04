@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.diekeure.be/fr-be/formations/9860/ar-planification-durgence-locale-2019', 'AR Planification d’urgence locale 2019', 'Analyse des nouveautés les plus importantes', '14 novembre 2019', 'Wavre', '75 €', '2019-11-14'],
 ['https://idrim2019.com/', 'The 10th conference of the international society for Integrated Disaster Risk Management', 'iDRiM 2019', '16-18 octobre 2019', 'Nice (France)', '100-450 €', '2019-10-18'],
 ['https://www.eventbrite.com/e/securite-informatique-pour-coordinateurs-planus-et-gestionnaires-de-crise-tickets-74273322507', 'Sécurité informatique pour coordinateurs planus et gestionnaires de crise', 'Formation Poppy', '10 décembre 2019 de 13 à 17 h', 'Bruxelles', '120 €', '2019-12-10'],
 ['https://www.eventbrite.com/e/belgian-emergency-services-developers-gathering-tickets-71822227215', 'Belgian Emergency Services Developers Gathering', 'Atelier Poppy', '19 décembre 2019 de 14 à 17 h', 'Namur', 'gratuit', '2019-12-19'],
