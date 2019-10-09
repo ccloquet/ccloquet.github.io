@@ -1,7 +1,8 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
-['https://www.diekeure.be/fr-be/formations/9860/ar-planification-durgence-locale-2019', 'AR Planification d’urgence locale 2019', 'Analyse des nouveautés les plus importantes', '14 novembre 2019', 'Wavre', '75 €', '2019-11-14'],
+['http://www.entente-valabre.com/technosdays/',			'Vers les technologies 3.0, de la formation à la gestion de crise', 	'Technos Days Valabre',				  'mai 2020', 	'Valabre', 'gratuit',  	'2020-05-01'],
+	['https://www.diekeure.be/fr-be/formations/9860/ar-planification-durgence-locale-2019', 'AR Planification d’urgence locale 2019', 'Analyse des nouveautés les plus importantes', '14 novembre 2019', 'Wavre', '75 €', '2019-11-14'],
 ['https://idrim2019.com/', 'The 10th conference of the international society for Integrated Disaster Risk Management', 'iDRiM 2019', '16-18 octobre 2019', 'Nice (France)', '100-450 €', '2019-10-18'],
 ['https://www.eventbrite.com/e/securite-informatique-pour-coordinateurs-planus-et-gestionnaires-de-crise-tickets-74273322507', 'Sécurité informatique pour coordinateurs planus et gestionnaires de crise', 'Formation Poppy', '10 décembre 2019 de 13 à 17 h', 'Bruxelles', '120 €', '2019-12-10'],
 ['https://www.eventbrite.com/e/belgian-emergency-services-developers-gathering-tickets-71822227215', 'Belgian Emergency Services Developers Gathering', 'Atelier Poppy', '19 décembre 2019 de 14 à 17 h', 'Namur', 'gratuit', '2019-12-19'],
@@ -24,7 +25,7 @@ var events = [
 ['https://iea.u-cergy.fr/fr/manifestations-scientifiques/conferences-et-workhops/conference-europeenne-sur-les-perceptions-du-risque.html', 'Conférence européenne sur les perceptions du risque', 'Université de Cergy-Pontoise', '13 mars 2019 - 14 mars 2019', 'Paris', '2019-03-14'],
 ['https://www.facebook.com/gestioncrise/', '7ème session du MOOC Gestion de crise', 'Université Paris II & École des Officiers de la Gendarmerie Nationale', 'à partir du 6 janvier 2020', 'internet', 'gratuit', '2020-03-01'],
 ['https://www.imdr.eu/offres/gestion/events_818_46997_non-2229/idees-recues-en-gestion-de-crise-etudes-de-cas-interactives.html', 'Idées reçues en gestion de crise Etudes de cas interactives', 'IMDR', '8 octobre 2019 9-17h30 ', 'IRSN, Fontenay-aux-Roses', '120 €', '2019-10-08'],
-['https://planu.be/pages/articles.php?rub=articles&pg=34', 'Colloque annuel', 'planu.be', '21 octobre 2019', 'Namur', '80 eur', '2019-10-21'],
+['https://planu.be/pages/articles.php?rub=articles&pg=34', 'Colloque annuel', 'planu.be', '21 octobre 2019', 'Namur', '80 €', '2019-10-21'],
 ['https://www.gemeente.nu/events-veiligheid/evenementenveiligheid-informatie/', 'Jaarcongres Evenementenveiligheid', 'De laatste actualiteiten en ontwikkelingen', '31 octobre 2019', 'Apeldoorn', '250-999 €', '2019-10-31'],
 ['https://letscrowd.eu/event/international-security-expo-ise/', 'International Security Expo', 'ISE', '3 décembre 2019', 'Olympia London', 'gratuit', '2019-12-03'],
 ['https://mailchi.mp/eena/save-the-date-communicating-with-multicultural-crowds-webinar?e=fdb164a9cc/', 'Communicating with multicultural crowds at mass gatherings', 'EENA', '12 septembre 2019', 'internet', 'gratuit', '2019-09-12'],
@@ -53,7 +54,7 @@ var events = [
 ['http://www.secours-expo.com/',  'Secours expo', '',  '4-6/4/2019',	'Paris',    'Gratuit', 	'2019-04-06'],
 ['https://diplomatie.belgium.be/fr/sur_lorganisation/travailler_aux_affaires_etrangeres/Formations/missions_civiles_ue/formation_gestion_crises',	'Formation générique gestion civile des crises - Appel à Candidatures', 	'SPF Affaires étrangères',	  '25/3-5/4/2019', 	'Bruxelles', 'sur dossier',  	'2019-04-05'],
 ['https://www.hcfdc.org/checkout/registration/colloque/80',	'Résilience 360° : quelle stratégie de résilience pour 2025-2030 ?', 	'Haut Comité Français pour la Défense Civile',	  '2/4/2019', 	'Paris', '100 €',  	'2019-04-02'],
-['http://www.entente-valabre.com/technosdays/',			'Vers les technologies 3.0, de la formation à la gestion de crise', 	'Technos Days Valabre',				  '8-10 octobre 2019', 	'Valabre', 'gratuit',  	'2019-10-10'],
+['http://www.entente-valabre.com/technosdays/',			'[ANNULÉ] Vers les technologies 3.0, de la formation à la gestion de crise', 	'Technos Days Valabre',				  '8-10 octobre 2019', 	'Valabre', 'gratuit',  	'2019-10-10'],
 ['https://eenaconference.org/',					'Conférence EENA (agence pour le numéro 112)', 						'',				  '10-12/4/2019', 	'Dubrovnik', '',  	'2019-04-12'],
 ['https://www.politeia.be/mailing/html/polpub20190130je-plansdurgence.html', 'Séminaire plans d\'urgence et d\'intervention' , 'UCLouvain / GEPS / Politeia', '19/3/2019 13-17 h', 'Louvain-la-Neuve', '135 €', '2019-03-19'],
 ['https://app.box.com/s/agulg2ailz2ljw00wmwwn9fnktzlvr31', 'Nouvelles formations CBRN pour urgentistes. Le temps court et la menace est réelle... Êtes-vous vraiment prêts ?', 'Séminaires du Certificat Universitaire en Gestion des situations d\'exception', '5/3/2019 18-21h', 'Brussels', 'free', '2019-03-05'],
