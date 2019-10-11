@@ -1,6 +1,7 @@
 ---
 title: Gestion de crise : service IT injoignable ? 
 ---
+
 Vendredi 22h30, vous venez de déclencher la cellule communale de crise et vous souhaitez installer un nouveau programme sur votre ordinateur.
 
 Pas de chance, vous ne disposez pas des droits d'administrateur et votre service IT est injoignable.
