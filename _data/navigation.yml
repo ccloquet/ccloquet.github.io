@@ -13,6 +13,8 @@ main:
 sideb:
   - title: 
     children:
+    - title: "Solutions"
+      url: "https://www.my-poppy.eu"
     - title: "Ateliers"
       url: /workshops/
     - title: "Présentations & documents"

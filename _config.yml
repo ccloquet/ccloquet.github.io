@@ -121,6 +121,9 @@ author:
     - label: "Website"
       icon: "fa fa-fw fa-link"
       url: "https://www.my-poppy.eu"
+    - label: "About us"
+      icon: "fa fa-fw fa-info"
+      url: "https://www.my-poppy.eu"
    
 # Site Footer
 footer:
