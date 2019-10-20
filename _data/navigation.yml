@@ -15,7 +15,7 @@ sideb:
     children:
     - title: "Solutions"
       url: "https://www.my-poppy.eu"
-    - title: "Ateliers"
+    - title: "Ateliers Poppy"
       url: /workshops/
     - title: "Présentations & documents"
       url: /presas/
