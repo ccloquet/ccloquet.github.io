@@ -6,7 +6,10 @@ main:
     url: /
   - title: "Ateliers"
     url: /workshops/
-
+ - title: "Events"
+      url: /events_upcoming/
+  - title: "Docs"
+      url: /presas/
 sideb:
   - title: 
     children:
