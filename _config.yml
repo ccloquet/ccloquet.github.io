@@ -115,7 +115,7 @@ author:
 			<a style='display:inherit' href='https://www.youtube.com/channel/UCybGJchrpkZO12J5Fumdudw'><i style='color:#eaeaea!important' class='fa fa-fw fa-youtube-square'></i></a>"
   #email            : ""
   links:
-    - label: "About us: why are we here?"
+    - label: "*About us*: why are we here?"
       icon: "fa fa-fw fa-info"
       #url: "https://blog.my-poppy.eu/why"
       url: "https://www.my-poppy.eu"
