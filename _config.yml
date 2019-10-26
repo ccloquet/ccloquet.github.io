@@ -125,10 +125,10 @@ author:
       url: "https://www.my-poppy.eu"
     - label: "Our customers"
       icon: "fa fa-fw fa-info"
-      url: "https://blog.my-poppy.eu/customers"
+      url: "/customers"
     - label: "Contact"
       icon: "fa fa-fw fa-envelope-square"
-      url: "mailto:info@my-poppy.eu"
+      url: "/contact"
    
 # Site Footer
 footer:
