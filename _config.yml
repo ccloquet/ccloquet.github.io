@@ -126,7 +126,7 @@ author:
     - label: "Our customers"
       icon: "fa fa-fw fa-info"
       url: "/customers"
-    - label: "Contact"
+    - label: "Contact & legal"
       icon: "fa fa-fw fa-envelope-square"
       url: "/contact"
    
