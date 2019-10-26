@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : "The Poppy workshop"
+name                     : "Poppy"
 description              : "Information management to improve decision-making in crises & complex events"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "The Poppy workshop"
+  name             : "Poppy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "<i>We help you saving lives & goods in crises & complex events by simplifying the information fluxes. We are located in Brussels, at the heart of Europe</i>"
   location         : "  <a style='display:inherit' href='https://twitter.com/mypoppy_eu'><i style='color:#eaeaea!important' class='fa fa-fw fa-twitter-square'></i></a>&nbsp;
@@ -115,15 +115,17 @@ author:
 			<a style='display:inherit' href='https://www.youtube.com/channel/UCybGJchrpkZO12J5Fumdudw'><i style='color:#eaeaea!important' class='fa fa-fw fa-youtube-square'></i></a>"
   #email            : ""
   links:
+    - label: "Why are we here?"
+      icon: "fa fa-fw fa-info"
+      #url: "https://blog.my-poppy.eu/why"
+      url: "https://www.my-poppy.eu"
+    - label: "What do we do?"
+      icon: "fa fa-fw fa-link"
+      #url: "https://blog.my-poppy.eu/what"
+      url: "https://www.my-poppy.eu"
     - label: "Contact"
       icon: "fa fa-fw fa-envelope-square"
       url: "mailto:info@my-poppy.eu"
-    - label: "Website"
-      icon: "fa fa-fw fa-link"
-      url: "https://www.my-poppy.eu"
-    - label: "About us"
-      icon: "fa fa-fw fa-info"
-      url: "https://www.my-poppy.eu"
    
 # Site Footer
 footer:

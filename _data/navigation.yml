@@ -13,15 +13,13 @@ main:
 sideb:
   - title: 
     children:
-    - title: "Solutions"
-      url: "https://www.my-poppy.eu"
     - title: "Ateliers Poppy"
       url: /workshops/
+    - title: "Gestion de crise/évènements à venir"
+      url: /events_upcoming/
     - title: "Présentations & documents"
       url: /presas/
     - title: "Open source & initiatives"
       url: /open_source/
-    - title: "Gestion de crise/évènements à venir"
-      url: /events_upcoming/
 
   
