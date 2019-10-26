@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Solutions"
+  - title: "Products & Services"
     url: "https://www.my-poppy.eu"
   - title: Blog
     url: /
-  - title: "Ateliers"
+  - title: "Workshops"
     url: /workshops/
   - title: "Events"
     url: /events_upcoming/
