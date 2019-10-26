@@ -65,7 +65,7 @@ var events = [
 ['https://zoom.us/webinar/register/WN_8TIEWGyoRy-O_1mwq0-eMQ', 'Regards croisés sur l\'alerte', 'Talk vidéo HCFDC', '20/12/2018', 'Internet', 'gratuit', '2018-12-20'],
 ['https://www.fun-mooc.fr/courses/course-v1:Paris2+09004+session06/about', 'Gestion de crise', 'Cours en ligne', '14/1/2019', 'Internet', 'gratuit', '2019-02-04'],
 ['https://cap-alert2019.sciencesconf.org/', 'Cap\'Alert', 'Colloque sur l\'alerte des populations', '19-21/3/2019', 'Avignon', '40-100 €', '2019-03-21'],
-	['https://milipol.com','Milipol', 'Salon de la sécurité intérieure des États', '19-22 novembre 2019', 'Paris', 'gratuit', '2019-11-22'],
+['https://milipol.com','Milipol', 'Salon de la sécurité intérieure des États', '19-22 novembre 2019', 'Paris', 'gratuit', '2019-11-22'],
 ['https://www.facebook.com/events/293680187897381', 'Mass Gathering Solutions', 'Wetenschappelijke avond rond eindejaarsevenementen', '13/11/2018', 'Jette, Brussels', 'gratis', '2018-11-13'],
 ['https://www.pmrexpo.de/en/pmrexpo/', 'PMRExpo 2018', 'Professional Mobile Radio & Control rooms', '27-29/11/2018', 'Cologne', '35-500 €', '2018-11-29'],
 ['https://www.weezevent.com/de-la-securite-globale-a-la-gestion-des-crises-sanitaires', 'Crise sanitaire, une épreuve humanitaire', 'Rendez-vous de la réflexion stratégique', '14/11/2018', 'Paris', 'gratuit', '2018-11-14'],
