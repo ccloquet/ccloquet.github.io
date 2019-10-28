@@ -22,4 +22,4 @@ Bien entendu, les résultats d'une telle analyse automatique sont toujours à pr
 
 Et vous, comment utilisez-vous les réseaux sociaux en situation de crise ? Privilégiez-vous certains outils ? Qu'est-ce qui est important pour vous ?
 
-
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php">
