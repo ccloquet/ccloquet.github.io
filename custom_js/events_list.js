@@ -4,7 +4,6 @@ var events = [
 ['https://www.facebook.com/gestioncrise/', 		'7ème session du MOOC Gestion de crise', 'Université Paris II & École des Officiers de la Gendarmerie Nationale', 'à partir du 6 janvier 2020', 'internet', 'gratuit', '2020-03-01'],
 ['https://sparkconferences.com/mesures-durgence/', 	'Planification des mesures d’urgence dans les établissements de soins de santé', '', '3-4 décembre 2020', 'Montréal', '150-700 CAN', 	'2020-12-04'],
 ['http://www.entente-valabre.com/technosdays/',		'Vers les technologies 3.0, de la formation à la gestion de crise', 	'Technos Days Valabre',	'mai 2020', 	'Valabre', 'gratuit',  	'2020-05-01'],
-
 ['https://www.chl.lu/fr/agenda/journee-securite-et-hopital-2019', 'Protection des hôpitaux face aux risques émergents', 'Société Luxembourgeoise de Médecine d’Urgence (info de <a href="https://www.linkedin.com/in/thomastonneau/">T. Tonneau</a>, formateur)', '17 octobre 2019', 'Luxembourg', '65-85 €', '2019-10-17'],
 ['https://www.diekeure.be/fr-be/formations/9860/ar-planification-durgence-locale-2019', 'AR Planification d’urgence locale 2019', 'Analyse des nouveautés les plus importantes', '14 novembre 2019', 'Wavre', '75 €', '2019-11-14'],
 ['https://idrim2019.com/', 'The 10th conference of the international society for Integrated Disaster Risk Management', 'iDRiM 2019', '16-18 octobre 2019', 'Nice (France)', '100-450 €', '2019-10-18'],
