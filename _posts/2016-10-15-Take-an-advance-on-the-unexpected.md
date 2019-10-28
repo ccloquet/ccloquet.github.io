@@ -9,3 +9,5 @@ Recently, we wrote a short review of some <b>(emerging) tools</b> that can be us
 
 You can <a href='https://docs.my-poppy.eu/2016_kta_poppy_devancer_inattendu.pdf'>download it</a>, spread the word and comment it on <a href="http://www.twitter.com/mypoppy_eu"><i class="fa fa-twitter fa-fw fa-1x"></i></a>&nbsp; or our <a href="https://www.facebook.com/mypoppyeu"><i class="fa fa-facebook fa-fw fa-1x"></i></a> page!
 
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
+

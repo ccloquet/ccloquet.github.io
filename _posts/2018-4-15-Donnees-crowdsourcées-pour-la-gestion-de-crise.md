@@ -45,3 +45,5 @@ Et pour terminer par un moyen plus traditionnel, il est aussi possible de vision
 </center> 
 
 <br>De votre côté, utilisez-vous d'autres sources d'information publiques ? N'hésitez pas à les partager par email, via Twitter <a href="https://twitter.com/mypoppy_eu">@mypoppy_eu</a> ou Facebook&nbsp;: <a href="https://facebook.com/mypoppyeu">facebook.com/mypoppyeu</a>, et cliquez <a href='https://mypoppy.typeform.com/to/sww4k6' target='_blank' >ici</a> pour rester informés sur l'actualité de la gestion de crise.
+
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">

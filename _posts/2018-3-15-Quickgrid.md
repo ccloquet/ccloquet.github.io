@@ -9,3 +9,5 @@ Just launch <a href="https://grid.my-poppy.eu">grid.my-poppy.eu</a> and follows 
 This works best in Belgium, as it is based on the Lambert 72 coordinates system. The app is free to adapt on <a href="https://github.com/ccloquet/quickgrid/">Github</a>. Contributions welcome!
 <br><br>
 <b>Update (déc 2018)</b> Quickgrid now works worldwide and has been improved thanks to users' feedbacks during the whole summer. It has been used in particular by the Police at the Belgian Grand Prix. It has also been featured in <a href='https://www.diekeure.be/fr-be/professional/9163/be-prepared-3-2018'>Be-Prepared</a> the Belgian magazine for emergency preparedness & crisis management.
+
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">

