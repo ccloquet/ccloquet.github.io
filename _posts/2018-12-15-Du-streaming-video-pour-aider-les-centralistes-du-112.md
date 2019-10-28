@@ -23,3 +23,5 @@ Testez aussi <a href='https://112.camera'>112.camera</a>. Le principe est le mê
 Ce projet est également open source, disponible sur <a href='https://github.com/ccloquet/112.camera/'>GitHub</a>.
 
 Qu'en pensez-vous ? Avez-vous d'autres idées ? Tweetez <a href='https://twitter.com/mypoppy_eu'>@mypoppy_eu</a> ou partagez vos idées sur GitHub ou via <a href='https://facebook.com/mypoppyeu'>Facebook</a> !
+
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">

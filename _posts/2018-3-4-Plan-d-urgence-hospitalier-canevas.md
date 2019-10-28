@@ -33,3 +33,5 @@ Lorsque le SPF publie une nouvelle version du canevas, vos données ne sont pas 
 <br>
 Avez-vous des questions ? Nous vous aidons volontiers ! Contactez-nous via : <a href="mailto:info@my-poppy.eu">info@my-poppy.eu</a>
 
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
+

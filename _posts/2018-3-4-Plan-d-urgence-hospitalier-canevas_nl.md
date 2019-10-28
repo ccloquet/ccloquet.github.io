@@ -32,3 +32,5 @@ Als de FOD een nieuwe versie van de sjabloon publiceert, zijn jullie gegevens ni
 </ol>
 <br>
 Heeft u vragen?  We helpen u graag! Neem contact met ons mee via: <a href="mailto:info@my-poppy.eu">info@my-poppy.eu</a>
+
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">

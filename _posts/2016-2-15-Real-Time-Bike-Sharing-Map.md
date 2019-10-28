@@ -15,3 +15,4 @@ See it in real time on <a href="http://www.my-poppy.eu/bikes">http://www.my-popp
 Based on real time bike sharing data by <a href="http://developer.jcdecaux.com">JCDecaux</a> from 2016-02-10 to 2016-02-16.</small>
 </center>
 
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">

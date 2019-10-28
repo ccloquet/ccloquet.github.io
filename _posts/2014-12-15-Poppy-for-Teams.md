@@ -11,3 +11,5 @@ Poppy for Teams increases your efficiency using apps and mobile technologies:
 
 <iframe src="https://www.youtube.com/embed/NUQqL1nAPvY" width="640" height="385"></iframe>
 </center>
+
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
