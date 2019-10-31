@@ -38,7 +38,7 @@ En parallèle, on peut s'inspirer des succès et échecs de nos contemporains et
 Pour se prémunir de telles erreurs, pas de recette miracle : il nous faut **prendre conscience de nos biais**, et réapprendre à penser : d'après l'auteur de [Thinking,  Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)  ([vidéo](https://www.youtube.com/watch?v=Et8W0skDF6E), [résumé 1](https://medium.com/leadership-motivation-and-impact/what-i-learned-from-thinking-fast-and-slow-a4a47cf8b5d5), [résumé 2](
 https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol.-56-no.-2/thinking-fast-and-slow.html)), pour une décision technique, votre intuition (Système 1) vous trompera tant que vous n'avez pas une expérience poussée de la problématique (comme l'aurait un pompier ou un médecin expérimenté dans son domaine d'expertise), auquel cas il vaut mieux utiliser votre Système 2 (plus lent, mais aboutissant à de meilleurs résultats). 
 
-C'est là qu'interviennent les **méthodes de raisonnement**, qui permettent d'étudier une situation de manière rigoureuse. On y trouve par exemple la [méthode de raisonnement tactique](https://www.fun-mooc.fr/c4x/Paris2/09004/asset/Video41.pdf), le modèle [OODA](https://en.wikipedia.org/wiki/OODA_loop?oldid=655195138) ou encore l'[IBOBO](https://www.diekeure.be/nl-be/professional/6924/help-een-crisis).
+C'est là qu'interviennent les **méthodes de raisonnement** et de planification, qui permettent d'étudier une situation de manière rigoureuse. On y trouve par exemple la [méthode de raisonnement tactique](https://www.fun-mooc.fr/c4x/Paris2/09004/asset/Video41.pdf), le modèle [OODA](https://en.wikipedia.org/wiki/OODA_loop?oldid=655195138) ou encore l'[IBOBO](https://www.diekeure.be/nl-be/professional/6924/help-een-crisis). À cet égard, le guide "[Decision making during a crisis: a practical guide](https://www.organisationalresilience.gov.au/resources/Documents/decision-making-during-a-crisis-a-practical-guide.pdf)" (2018) est particulièrement utile, en identifiant 6 caractéristiques pour aider à la décision en situation de crise. Par exemple, établir une sécurité psychologique ("I want all of your cards on the table, in this situation there is no such thing as a stupid question or a stupid solution").
 
 La rigueur de la méthode ne doit cependant pas occulter la [prise en compte de nos émotions](https://en.wikipedia.org/wiki/Emotions_in_decision-making), ne fût-ce qu'en tant qu'information à prendre en compte dans l'analyse. A défaut, on risque une décision parfaitement rationnelle, mais complètement à côté de la plaque.
 
@@ -53,3 +53,7 @@ Et vous, quelles sont vos expériences en matière de décision dans des situati
 [*] ⚠️ cela ne signifie cependant pas foncer à tort et à travers : lorsqu'on a le temps, ça vaut la peine d'[élaborer une stratégie](http://goodbadstrategy.com/) en bonne et due forme.
 
 [**] pour les décisions personnelles, on pourra par exemple se référer à un ouvrage comme [_Décider !_](https://www.editionsjesuites.com/fr/livre-decider--622.html), même si la séparation des deux domaines n'est pas figée
+
+Cet article vous a été utile ?  <a href='https://paypal.me/ccloquet'>Sponsorisez-le</a> !
+
+<iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
