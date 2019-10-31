@@ -1,6 +1,8 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.eventbrite.com/e/cartographie-pragmatique-pour-coordinateurstrices-planu-tickets-77124931747', 'Cartographie pragmatique pour coordinateurs/trices planu', 'Formation Poppy', '13 février 2019 de 13 à 17h', 'Bruxelles', '120 €', '2019-02-13'],
+['https://www.eventbrite.com/e/cartographie-pragmatique-pour-coordinateurstrices-planu-tickets-77124929741', 'Cartographie pragmatique pour coordinateurs/trices planu', 'Formation Poppy', '23 janvier 2019 de 13 à 17h', 'Bruxelles', ' 120 €', '2019-01-23'],
 ['https://www.facebook.com/gestioncrise/', 		'7ème session du MOOC Gestion de crise', 'Université Paris II & École des Officiers de la Gendarmerie Nationale', 'à partir du 6 janvier 2020', 'internet', 'gratuit', '2020-03-01'],
 ['https://sparkconferences.com/mesures-durgence/', 	'Planification des mesures d’urgence dans les établissements de soins de santé', '', '3-4 décembre 2020', 'Montréal', '150-700 CAN', 	'2020-12-04'],
 ['http://www.entente-valabre.com/technosdays/',		'Vers les technologies 3.0, de la formation à la gestion de crise', 	'Technos Days Valabre',	'mai 2020', 	'Valabre', 'gratuit',  	'2020-05-01'],
