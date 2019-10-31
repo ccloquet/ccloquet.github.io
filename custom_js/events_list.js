@@ -1,6 +1,16 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://europa.eu/regions-and-cities/programme/sessions/465_en', 'Investing in forests - a clear contribution to solving the climate and biodiversity crises', 'European Week of Regions and Cities', '7 au 10 octobre 2019', 'Bruxelles', 'gratuit', '2019-10-10'],
+['http://www.irma-grenoble.com/PDF/02institut/2019/matinales/matinale_06_flyer.pdf', 'Risques nucléaires et évolution de la doctrine nationale de sécurité civile', 'IRMA', '16 octobre 2019', 'Roussillon - France', 'gratuit', '2019-10-16'],
+['https://www.psc-europe.eu/news-events/events/psce-conference-in-paris-2019.html', 'PSCE Conference in Paris 2019', 'PSC Europe', '3 au 5 décembre 2019', 'Paris', 'gratuit', '2019-12-05'],
+['http://www.gidmc.org/', '2nd Edition of the Global Inclusive Disaster Management Conference and Exhibition', 'GIDMC', '1 et 2 juillet 2019', 'New Delhi', 'gratuit', '2019-07-02'],
+['http://www.gi4dm2019.org/', 'GeoInformation For Disaster Management', 'GI4DM 2019', '3 au 6 septembre 2019', 'Prague', 'gratuit', '2019-09-06'],
+['https://www.imdr.eu/offres/gestion/actus_818_38533-2252/entretiens-du-risque-2019.html', 'Dimension éthique dans la maîtrise des risques', 'entretiens IMDR', '3 et 4 décembre 2019', 'Paris', '75-420 €', '2019-12-04'],
+['https://lambdamu22.sciencesconf.org/', 'Les risques au coeur des transitions', 'congrès IMDR', '12 au 15 octobre 2020', 'Le Havre', 'gratuit', '2020-10-15'],
+['https://www.securityresearch-cou.eu/SRE-2020', 'SECURITY RESEARCH EVENT 2020', 'European commission', '25 et 26 novembre 2020', 'Bonn', 'gratuit', '2020-11-26'],
+['https://www.eventbrite.com/e/cartographie-pragmatique-pour-coordinateurstrices-planu-tickets-77124931747', 'Cartographie pragmatique pour coordinateurs/trices planu', 'Formation Poppy', '13 février 2019 de 13 à 17h', 'Bruxelles', '120 €', '2019-02-13'],
+['https://www.eventbrite.com/e/cartographie-pragmatique-pour-coordinateurstrices-planu-tickets-77124929741', 'Cartographie pragmatique pour coordinateurs/trices planu', 'Formation Poppy', '23 janvier 2019 de 13 à 17h', 'Bruxelles', ' 120 €', '2019-01-23'],
 ['https://www.facebook.com/gestioncrise/', 		'7ème session du MOOC Gestion de crise', 'Université Paris II & École des Officiers de la Gendarmerie Nationale', 'à partir du 6 janvier 2020', 'internet', 'gratuit', '2020-03-01'],
 ['https://sparkconferences.com/mesures-durgence/', 	'Planification des mesures d’urgence dans les établissements de soins de santé', '', '3-4 décembre 2020', 'Montréal', '150-700 CAN', 	'2020-12-04'],
 ['http://www.entente-valabre.com/technosdays/',		'Vers les technologies 3.0, de la formation à la gestion de crise', 	'Technos Days Valabre',	'mai 2020', 	'Valabre', 'gratuit',  	'2020-05-01'],
