@@ -5,7 +5,7 @@ var events = [
 ['http://www.gidmc.org/', '2nd Edition of the Global Inclusive Disaster Management Conference and Exhibition', 'GIDMC', '1 et 2 juillet 2019', 'New Delhi', 'gratuit', '2019-07-02'],
 ['http://www.gi4dm2019.org/', 'GeoInformation For Disaster Management', 'GI4DM 2019', '3 au 6 septembre 2019', 'Prague', 'gratuit', '2019-09-06'],
 ['https://www.imdr.eu/offres/gestion/actus_818_38533-2252/entretiens-du-risque-2019.html', 'Dimension éthique dans la maîtrise des risques', 'entretiens IMDR', '3 et 4 décembre 2019', 'Paris', '75-420 €', '2019-12-04'],
-['https://lambdamu22.sciencesconf.org/', 'Les risques au coeur des transitions', 'congrès IMDR', '12 au 15 octobre 2020', 'Le Havre', 'gratuit', '2020-10-15']
+['https://lambdamu22.sciencesconf.org/', 'Les risques au coeur des transitions', 'congrès IMDR', '12 au 15 octobre 2020', 'Le Havre', 'gratuit', '2020-10-15'],
 ['https://www.securityresearch-cou.eu/SRE-2020', 'SECURITY RESEARCH EVENT 2020', 'European commission', '25 et 26 novembre 2020', 'Bonn', 'gratuit', '2020-11-26'],
 ['https://www.eventbrite.com/e/cartographie-pragmatique-pour-coordinateurstrices-planu-tickets-77124931747', 'Cartographie pragmatique pour coordinateurs/trices planu', 'Formation Poppy', '13 février 2019 de 13 à 17h', 'Bruxelles', '120 €', '2019-02-13'],
 ['https://www.eventbrite.com/e/cartographie-pragmatique-pour-coordinateurstrices-planu-tickets-77124929741', 'Cartographie pragmatique pour coordinateurs/trices planu', 'Formation Poppy', '23 janvier 2019 de 13 à 17h', 'Bruxelles', ' 120 €', '2019-01-23'],
