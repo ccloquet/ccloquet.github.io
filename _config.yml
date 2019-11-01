@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Poppy"
+  name             : "Poppy<img src=""/>"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "<i>We help you saving lives & goods in crises & complex events by simplifying the information fluxes. We are located in Brussels, at the heart of Europe</i>"
   location         : "  <a style='display:inherit' href='https://twitter.com/mypoppy_eu'><i style='color:#eaeaea!important' class='fa fa-fw fa-twitter-square'></i></a>&nbsp;
