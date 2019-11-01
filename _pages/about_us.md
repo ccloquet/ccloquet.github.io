@@ -10,6 +10,7 @@ permalink: /about_us/
 ---
 
 
+** In times always more complex and uncertain, we boost our society's resilience through seamless information technology for the public authorities **
 
 **Poppy** (Living Apps sprl) is a **private technological company** helping the authorities and emergency services to **better prepare** and **manage crisis situations** through a better use and understanding of information technologies.  
 
