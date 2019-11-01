@@ -286,6 +286,8 @@ defaults:
       path: ""
       type: posts
     values:
+      header:
+        overlay_image: /images/event.jpg
       layout: single
       author_profile: true
       read_time: true
