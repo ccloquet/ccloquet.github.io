@@ -13,11 +13,11 @@ main:
 sideb:
   - title: 
     children:
-    - title: "Ateliers Poppy"
+    - title: "Poppy Workshops"
       url: /workshops/
-    - title: "Gestion de crise/évènements à venir"
+    - title: "External events"
       url: /events_upcoming/
-    - title: "Présentations & documents"
+    - title: "Documents"
       url: /presas/
     - title: "Open source & initiatives"
       url: /open_source/
