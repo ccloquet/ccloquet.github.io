@@ -106,8 +106,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Poppy"
-  avatar           : "/images/logo_poppy_square.png?a=1"
+  name             : "We are Poppy"
+  #avatar           : "/images/logo_poppy_square.png?a=1"
   bio              : "<i>We help you saving lives & goods in crises & complex events by simplifying the information fluxes. We are located in Brussels, at the heart of Europe</i>"
   location         : "  <a style='display:inherit' href='https://twitter.com/mypoppy_eu'><i style='color:#eaeaea!important' class='fa fa-fw fa-twitter-square'></i></a>&nbsp;
 			<a style='display:inherit' href='https://facebook.com/mypoppyeu'><i style='color:#eaeaea!important' class='fa fa-fw fa-facebook-square'></i></a>&nbsp;
