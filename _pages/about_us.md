@@ -65,6 +65,6 @@ Founded in 2014 by [Christophe Cloquet](https://www.linkedin.com/in/ccloquet/), 
 
 In coherence with our vision, we proudly and actively support the [**OSGeo**](http://foss4g.be) (Open source Software for Geography) and in particular QGIS,  [**Singa**](https://www.singa-belgium.org/) (creating links between migrant and local people) and the [**Zinne**](https://www.zinne.brussels/) (Brussels' local "money") (see our blog post) and share voluntarily our knowledge with the working group « resilience and crisis management » of Brussels Prevention and Security.  
 
-By collaborating with us, you not only help your insitution to progress but also -- trough the profits margins you allow us to make to invest in that direction -- help the society as a whole.
+By collaborating with us, you not only help your insitution to progress but also -- trough the profits you allow us to make to invest in that direction -- help the society as a whole.
 
 
