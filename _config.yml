@@ -286,6 +286,7 @@ defaults:
       path: ""
       type: posts
     values:
+      excerpt: "This post should [...]"
       header:
         overlay_image: /images/event.jpg
         overlay_filter: 0.9 # same as adding an opacity of 0.5 to a black background
