@@ -11,6 +11,7 @@ permalink: /about_us/
 
 
 <p ><center><strong>In times always more complex and uncertain, we boost our society’s resilience through seamless information technology for the public authorities</strong></center></p>
+
 <p ><strong>Poppy</strong> (Living Apps sprl) is a <strong>private technological company</strong> helping the authorities and emergency services to <strong>better prepare</strong> and <strong>manage crisis situations</strong> through a better use and understanding of information technologies.</p>
 <p >We design products and provide advices to <strong>speedup decision making</strong> by simplifying and accelerating information transmission, with a deep understanding of their limitations and interaction with the users, particularly in crisis situations. Bits and bytes are our daily lunch and <strong>telecoms</strong>, <strong>maps</strong>, <strong>real time</strong> and <strong>data analytics</strong> are some of our core competencies.</p>
 <p >Founded in 2014 by <a href="https://www.linkedin.com/in/ccloquet/">Christophe Cloquet</a>, PhD, Poppy is proud a GovTech member of <a href="https://software.brussels">software.brussels</a>.</p>
@@ -23,6 +24,7 @@ permalink: /about_us/
 
 <strong>Resiliency requires agility and diversity</strong><br>
 
+<div style="margin-left: 40px">
 <p >We believe that our <strong>independence</strong> makes us complementary to public and para-public structures in collaboration with which we want to do our bit.</p>
 
 <p >Our <strong>small size</strong> is definitely an asset for your organization. It allows us to quickly <strong>adapt</strong> to change and to adopt a <strong>human approach</strong>. Small also means a sharp answer to your needs: we are integrated in a <strong>network of carefully selected professionnals</strong>, that we sollicitate every time that it is needed.</p>
@@ -38,9 +40,10 @@ permalink: /about_us/
 <p >Constant and active adjustments of the balance between local and global scales should be made, in order to stay far from both extremes. Currently, our way to help requilibrate the balance is to <a href="BLOG">choose local suppliers when possible</a>, and be part of the <strong><a href="ZINNE">Zinne</a></strong> network. We must do all that is in our power to make more connections and not staying closed on ourselves.</p>
 
 <p ><strong>Migration</strong> is to us key to diversity. This is much debated and we do not ignore the issues it carries, which must be adressed. At our scale, we want to be part to a better welcome of refugees in Belgium, by supporting <strong><a href="SINGA">Singa</a></strong>. This association has as goals the creation of links between refugees and local people. Links, again!</p>
+</div>
 
 <strong>Security</strong>
-
+<div style="margin-left: 40px">
 <p >Whereas the positive impact of disaster rescue makes quite the unanimity, security is sometimes more disputed, particularly when it is conflicting with freedom.</p>
 
 <p >We acknowledge that in the state of today’s mankind, there is no perfect solution to the freedom-security paradox, because no one is perfect.</p>
@@ -50,7 +53,7 @@ permalink: /about_us/
 <p >Security must therefore be subordoned to a strong ethics, at the very least encompassing the Human Rights Declaration, and be exerced with that vision in mind.</p>
 
 <p >To us, technical security measures are therefore a mean, and no solution in themselves. On the long term, education, solidarity, culture, and strenghtening of bonds will be the best warrants of a peaceful society.</p>
-
+</div>
 </div>
 <div style="margin-left: 40px">
 <strong>Our approach</strong>
