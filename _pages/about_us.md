@@ -67,6 +67,8 @@ permalink: /about_us/
 
 <p >We are not perfect, tough, and we engage agreely in conversations with you to better respect our values, and make them evolve.</p>
 
+<p><center><strong>Our societal engagement</strong></center></p>
+
 <p >In coherence with our vision, we proudly and actively support the <a href="http://foss4g.be"><strong>OSGeo</strong></a> (Open source Software for Geography) and in particular QGIS,  <a href="https://www.singa-belgium.org/"><strong>Singa</strong></a> (creating links between migrant and local people) and the <a href="https://www.zinne.brussels/"><strong>Zinne</strong></a> (Brussels’ local “money”) (see our blog post) and share voluntarily our knowledge with the working group « resilience and crisis management » of Brussels Prevention and Security.</p>
 <p >By collaborating with us, you not only help your insitution to progress but also – trough the profits you allow us to make to invest in that direction – help the society as a whole.</p>
 
