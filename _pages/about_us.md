@@ -16,9 +16,7 @@ permalink: /about_us/
 <p >We design products and provide advices to <strong>speedup decision making</strong> by simplifying and accelerating information transmission, with a deep understanding of their limitations and interaction with the users, particularly in crisis situations. Bits and bytes are our daily lunch and <strong>telecoms</strong>, <strong>maps</strong>, <strong>real time</strong> and <strong>data analytics</strong> are some of our core competencies.</p>
 <p >Founded in 2014 by <a href="https://www.linkedin.com/in/ccloquet/">Christophe Cloquet</a>, PhD, Poppy is proud a GovTech member of <a href="https://software.brussels">software.brussels</a>.</p>
 
-<strong>How we see the world</strong><br>
-
-<div style="margin-left: 20px">
+<p><center><strong>How we see the world</strong></center></p>
 
 <p>We want to be a <strong>positive actor of change</strong> towards a better society, and for us, technics of any kind (information technology, security technologies, finance, …) should be at the service of both the human beings and the mankind.</p>
 
@@ -54,9 +52,8 @@ permalink: /about_us/
 
 <p >To us, technical security measures are therefore a mean, and no solution in themselves. On the long term, education, solidarity, culture, and strenghtening of bonds will be the best warrants of a peaceful society.</p>
 </div>
-</div>
-<div style="margin-left: 20px">
-<strong>Our approach</strong>
+
+<p><center><strong>Our approach</strong></center></p>
 
 <p >If you agree with our vision, we work with you to <strong>serve</strong> your objectives, your organisation, your members and beneficiaries through <strong>innovation</strong> and <strong>co-creation</strong> of solutions, thanks to the meeting of our expertise and your knowledge of the field.</p>
 
@@ -69,7 +66,7 @@ permalink: /about_us/
 <p ><strong>Confidence</strong>, that goes through <strong>ethics</strong> and <strong>integrity</strong> and <strong>open collaboration</strong> at each step and towards every person involved or impacted.</p>
 
 <p >We are not perfect, tough, and we engage agreely in conversations with you to better respect our values, and make them evolve.</p>
-</div>
+
 <p >In coherence with our vision, we proudly and actively support the <a href="http://foss4g.be"><strong>OSGeo</strong></a> (Open source Software for Geography) and in particular QGIS,  <a href="https://www.singa-belgium.org/"><strong>Singa</strong></a> (creating links between migrant and local people) and the <a href="https://www.zinne.brussels/"><strong>Zinne</strong></a> (Brussels’ local “money”) (see our blog post) and share voluntarily our knowledge with the working group « resilience and crisis management » of Brussels Prevention and Security.</p>
 <p >By collaborating with us, you not only help your insitution to progress but also – trough the profits you allow us to make to invest in that direction – help the society as a whole.</p>
 
