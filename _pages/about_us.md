@@ -57,7 +57,7 @@ permalink: /about_us/
 
 <p >If we both agree on the vision, we work with you to <strong>serve</strong> your objectives, your organisation, your members and beneficiaries through <strong>innovation</strong> and <strong>co-creation</strong> of solutions, thanks to the meeting of our expertise and your knowledge of the field.</p>
 
-<p >We feel inspired by complexity thinkers such as <a href="http://chaire-edgar-morin-complexite.essec.edu/">Edgar Morin</a>, by statement such as the <a href="https://agilemanifesto.org/">Agile Manifesto and principles</a> and by frameworks such as <a href="https://www.sysaid.com/blog/entry/the-7-guiding-principles-of-itil-4-practical-advice-to-help-you-make-decisions">ITIL v4</a>.</p>
+<p >We feel inspired by complexity thinkers such as <a href="http://chaire-edgar-morin-complexite.essec.edu/">Edgar Morin</a>, by statements such as the <a href="https://agilemanifesto.org/">Agile Manifesto and principles</a> and by frameworks such as <a href="https://www.sysaid.com/blog/entry/the-7-guiding-principles-of-itil-4-practical-advice-to-help-you-make-decisions">ITIL v4</a>.</p>
 
 <p >Our holistic and systemic approach allows to consider the objectives, people and means within the same living picture. This ensures strategies are applicable, people are respected and means are used at their full potential.</p>
 
