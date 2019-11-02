@@ -10,3 +10,5 @@ permalink: /about_us/
 ---
 
 
+** In times always more complex and uncertain, we boost our society's resilience through seamless information technology for the public authorities **
+
