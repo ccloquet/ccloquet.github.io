@@ -18,13 +18,13 @@ permalink: /about_us/
 
 <strong>How we see the world</strong><br>
 
-<div style="margin-left: 40px">
+<div style="margin-left: 20px">
 
 <p>We want to be a <strong>positive actor of change</strong> towards a better society, and for us, technics of any kind (information technology, security technologies, finance, …) should be at the service of both the human beings and the mankind.</p>
 
 <strong>Resiliency requires agility and diversity</strong><br>
 
-<div style="margin-left: 40px">
+<div style="margin-left: 20px">
 <p >We believe that our <strong>independence</strong> makes us complementary to public and para-public structures in collaboration with which we want to do our bit.</p>
 
 <p >Our <strong>small size</strong> is definitely an asset for your organization. It allows us to quickly <strong>adapt</strong> to change and to adopt a <strong>human approach</strong>. Small also means a sharp answer to your needs: we are integrated in a <strong>network of carefully selected professionnals</strong>, that we sollicitate every time that it is needed.</p>
@@ -43,7 +43,7 @@ permalink: /about_us/
 </div>
 
 <strong>Security</strong>
-<div style="margin-left: 40px">
+<div style="margin-left: 20px">
 <p >Whereas the positive impact of disaster rescue makes quite the unanimity, security is sometimes more disputed, particularly when it is conflicting with freedom.</p>
 
 <p >We acknowledge that in the state of today’s mankind, there is no perfect solution to the freedom-security paradox, because no one is perfect.</p>
@@ -55,7 +55,7 @@ permalink: /about_us/
 <p >To us, technical security measures are therefore a mean, and no solution in themselves. On the long term, education, solidarity, culture, and strenghtening of bonds will be the best warrants of a peaceful society.</p>
 </div>
 </div>
-<div style="margin-left: 40px">
+<div style="margin-left: 20px">
 <strong>Our approach</strong>
 
 <p >If you agree with our vision, we work with you to <strong>serve</strong> your objectives, your organisation, your members and beneficiaries through <strong>innovation</strong> and <strong>co-creation</strong> of solutions, thanks to the meeting of our expertise and your knowledge of the field.</p>
