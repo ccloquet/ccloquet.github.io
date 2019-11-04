@@ -103,12 +103,11 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "We are Poppy"
   #avatar           : "/images/logo_poppy_square.png?a=1"
-  bio              : "<i>We help you saving lives & goods in crises & complex events by simplifying the information fluxes. We are located in Brussels, at the heart of Europe</i>"
+  bio              : "<i>We assist you and your organisation in saving lives thanks to a better match between humans and technology. We are resilience-focused, with a touch of Belgian pragmatism. That's why we are located in Brussels, at the heart of Europe</i>"
   location         : "  <a style='display:inherit' href='https://twitter.com/mypoppy_eu'><i style='color:#eaeaea!important' class='fa fa-fw fa-twitter-square'></i></a>&nbsp;
 			<a style='display:inherit' href='https://facebook.com/mypoppyeu'><i style='color:#eaeaea!important' class='fa fa-fw fa-facebook-square'></i></a>&nbsp;
 			<a style='display:inherit' href='https://github.com/ccloquet'><i style='color:#eaeaea!important' class='fa fa-fw fa-github-square'></i></a>&nbsp;
