@@ -9,7 +9,6 @@ header:
 permalink: /about_us/
 ---
 
-
 <p><center><strong><i>In times always more complex and uncertain, we boost our society’s resilience through seamless information technology for the public authorities</i></strong></center></p>
 
 <p ><strong>Poppy</strong> (Living Apps sprl) is a <strong>private technological company</strong> helping the authorities and emergency services to <strong>better prepare</strong> and <strong>manage crisis situations</strong> through a better use and understanding of information technologies.</p>
@@ -37,7 +36,7 @@ permalink: /about_us/
 
 <p >Continuous adjustments of the balance between local and global scales should actively be made, in order to stay far from both extremes. Currently, our way to help requilibrate the balance is to <a href="https://blog.my-poppy.eu/fournisseurs2019/">choose local suppliers when possible</a>, and be part of the <strong><a href="https://blog.my-poppy.eu/zinne/">Zinne</a></strong> network. We must do all that is in our power to make more connections and not staying closed on ourselves.</p>
 
-<p ><strong>Migration</strong> is to us one enabler of diversity. This theme is much debated and we do not ignore the practical issues it carries, which must be properly adressed. At our scale, however, we want to be part to a better welcome of refugees in Belgium, by supporting <strong><a href="https://www.singa-belgium.org/">Singa</a></strong>. This association has as goals the creation of links between refugees and local people. Links, again!</p>
+<p ><strong>Migration</strong> is to us one enabler of diversity. This theme is much debated and we do not ignore the practical issues it carries. We are convinced that these issues can be solved if adressed with humanity. At our scale, we want to be part to a better welcome of refugees in Belgium, by supporting <strong><a href="https://www.singa-belgium.org/">Singa</a></strong>. This association has as goals the creation of links between refugees and local people. Links, again!</p>
 </div>
 
 <strong>Security is at the service of the weakest of us</strong>
