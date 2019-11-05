@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://ec.europa.eu/jrc/en/event/training-course/evidence-policy-school-disaster-risk-management', 'Evidence for policy school – disaster risk management', 'DRMKC', '13-15 janvier 2020', 'Florence, Italie', 'prix : TBD', '2020-01-15'],  
 ['https://europa.eu/regions-and-cities/programme/sessions/465_en', 'Investing in forests - a clear contribution to solving the climate and biodiversity crises', 'European Week of Regions and Cities', '7 au 10 octobre 2019', 'Bruxelles', 'gratuit', '2019-10-10'],
 ['http://www.irma-grenoble.com/PDF/02institut/2019/matinales/matinale_06_flyer.pdf', 'Risques nucléaires et évolution de la doctrine nationale de sécurité civile', 'IRMA', '16 octobre 2019', 'Roussillon - France', 'gratuit', '2019-10-16'],
 ['https://www.psc-europe.eu/news-events/events/psce-conference-in-paris-2019.html', 'PSCE Conference in Paris 2019', 'PSC Europe', '3 au 5 décembre 2019', 'Paris', 'gratuit', '2019-12-05'],
