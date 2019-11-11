@@ -1,6 +1,6 @@
 ---
 title: Des outils pour gérer les crises, oui mais...
-published: true
+published: false
 ---
 
 La semaine passée, nous avons vu quelques outils intéressants en planification d'urgence et en gestion de crise. Mais la forge ne fait pas le forgeron. À quels critères ces outils doivent-il répondre ? Dans quelle mesure sont-ils nécessaires ? Et dans quel cadre s'inscrivent-ils ? Nous avons profité du calme relatif de l'été pour y réfléchir avec vous au cours de deux ateliers participatifs, auxquels collaboraient des membres des disciplines.
@@ -67,5 +67,6 @@ Qu'en ressort-il par exemple ?
 	* les outils, ça coûte cher... ;
 	* avec de l'imagination, des choses sont possibles, ex. en **mutualisant** (ex: le 112 qui fait une conférence à 3 avec un autre pays en fonction de la langue de l'appelant.e).
 
+Ces réflexions sont un point de départ, à approfondir ! Qu'en pensez-vous ?
 
 <iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
