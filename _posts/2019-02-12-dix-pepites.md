@@ -34,8 +34,6 @@ Que ce soit au cours du développement de nouveaux produits ou au détour de cer
 
 Et vous, quelles sont vos références en gestion de crise ? Discutons-en sur [Twitter](https://twitter.com/mypoppy_eu) ou [Facebook](https://www.facebook.com/mypoppyeu/) !
 
-Cet article vous a été utile ? <a href='https://paypal.me/ccloquet'>Sponsorisez-le</a> !
-
 <iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
 
 
