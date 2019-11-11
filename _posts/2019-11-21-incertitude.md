@@ -1,9 +1,9 @@
 ---
-title: Décider à vue
+title: Décider à vue - un guide au travers des nombreuses références sur le sujet
 published: false
 ---
 
-Quel est le point commun entre une opération militaire, la gestion de crise et l'entrepreneuriat ? 
+Quel est le point commun entre une opération militaire, la gestion de crise et l'entrepreneuriat ?
 
 À chaque fois, on **navigue à vue dans l'incertitude**, le fameux _brouillard de la guerre_ de [Clausewitz](https://www.librairiedialogues.fr/livre/211147-principes-fondamentaux-de-strategie-militaire-carl-von-clausewitz-mille-et-une-nuits). Or c'est dans ces moments-là qu'il faut **décider** le plus. 
 
@@ -49,6 +49,8 @@ La rigueur de la méthode ne doit cependant pas occulter la [prise en compte de 
 Au-delà de toute technique, il semble enfin primordial d'instaurer un [**climat de sécurité**](https://www.organisationalresilience.gov.au/resources/Documents/decision-making-during-a-crisis-a-practical-guide.pdf), dans lequel **l'erreur est permise**, et qui accepte qu'une [décision n'est qu'une hypothèse](https://fr.wikipedia.org/wiki/Boucle_OODA) en sursis. Dans son livre : [_Décider dans l'incertitude_](https://www.agoravox.fr/culture-loisirs/extraits-d-ouvrages/article/decider-dans-l-incertitude-par-37347), le Général Vincent Desportes nous rappelle d'aileurs l'importance de la confiance comme facteur favorisant la prise de décision.
 
 Cela se prépare bien [en amont ](https://www.imd.org/research-knowledge/books/care-to-dare/) des situations critiques. Chacun a d'ailleurs avantage à se rappeler que l'[**erreur est une condition du succès**](https://www.youtube.com/watch?v=4KFpG6coE9o), pour autant qu'on en apprenne quelque chose.
+
+Plus de détails sur certains aspects dans de prochains billets ! 
 
 Et vous, quelles sont vos expériences en matière de décision dans des situations critiques ? Discutons-en [ici](https://hackmd.io/0Sbqc7_WQlWaYE0BG91f5g?edit), ou [autour d'un café](mailto://christophe@my-poppy.eu) !
 
