@@ -25,14 +25,10 @@ Voici comment vous y prendre :
 7. exécutez QGIS en double-cliquant sur ...
 8. configurez ensuite QGIS comme vous le souhaitez, en ajoutant par exemple les plugins dont vous avez besoin, ou encore des fonds de carte hors-ligne (ex, ceux de la [Région Wallonne](https://geoportail.wallonie.be/telecharger), de Bruxelles ([Urbis](http://urbisdownload.gis.irisnet.be/fr/temporality/)) ou de la Région Flamande ([Geopunt](http://www.geopunt.be/))).
 	
-Vous pouvez même utiliser QGIS au quotidien à partir de cette clé USB (comme toujours, pensez à faire régulièrement un backup de vos données, et à conserver votre clé en sécurité pour éviter des accès malveillants).
+Vous pouvez même utiliser QGIS **au quotidien** à partir de cette clé USB (conservez votre clé en sécurité pour éviter des accès malveillants, et, si possible, chiffrez-là).
 
 Si, en gestion de crise, vous n'avez pas besoin d'un système d'information géographique complet, la prochaine mise à jour de QGIS (3.10.1) vous permettra d'[exporter les cartes en geoPDF](https://blog.my-poppy.eu/qgis3_10), permettant de sélectionner et désélectionner les couches comme dans un vrai SIG.
 
-? droits d'administrateur ? / mscrvt.dll
-
-Est-ce que cela peut vous aider dans votre pratique
 Voulez-vous en savoir plus ? Venez [suivre une formation](https://blog.my-poppy.eu/workshops/) ou [contactez-nous](info@my-poppy.eu) pour des conseils personnalisés.
 
-Merci à Coralie De Decker (Zone NAGE) et à Didier Lanotte (Habay) pour leur question stimulante !
 
