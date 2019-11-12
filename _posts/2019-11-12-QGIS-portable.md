@@ -1,0 +1,33 @@
+---
+title: Utiliser QGIS sans internet
+published: false
+---
+
+Imaginez : toute la cartographie de votre plan d'urgence tient sur une clé USB, ainsi que le programme qui permet de créer et de modifier des cartes, que vous pouvez dès lors utiliser sur n'importe quel ordinateur sous Windows...
+
+De nombreux outils de cartographie sont très simples à utiliser ([Google My Maps](https://www.google.com/maps/d/), [UMap](https://umap.openstreetmap.fr/nl/), [SarTopo](https://sartopo.com/map.html), ...) et peuvent suffire pour notre usage, mais ils sont uniquement disponibles en ligne. 
+
+Or, en situation de crise, on ne peut pas toujours compter sur un accès à internet : connexion fixe indisponible, réseau mobile saturé, ... S'il existe des mesures de mitigation (ex: cartes SIM ["Astrid Blue Light Mobile"](https://www.astrid.be/fr/services/blue-light-mobile) en Belgique), celles-ci ont également leurs limitations, et il est prudent de prévoir des outils qui fonctionnent hors réseau également.
+
+[QGIS](https://www.qgis.org/)  permet exactement cela. Il s'agit d'un [système d'information géographique](https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique) (SIG) professionnel et open source. C'est un peu le couteau suisse de la cartographie. Grâce à lui, vous pouvez **créer les cartes dont vous avez besoin** en planification d'urgence et en gestion de crise. Son caractère **open-source** signifie que vous pouvez le télécharger gratuitement (le modèle économique ne repose pas sur des coûts de licence, mais plutôt sur le service), et qu'il peut s'adapter à vos besoins.
+
+Par exemple, [@archaeogeek](https://gitlab.com/archaeogeek) a "emballé" QGIS 3 pour qu'il puisse être utilisé sous Windows **à partir d'une simple clé USB**. C'est le projet "[portableGIS](https://portablegis.xyz/post/get/)".
+
+Rendez-vous simplement sur http://download.astuntechnology.com/home/ (login : pgis, mot de passe : pgis) et téléchargez... mettez sur clé USB ...
+
+plugins, historisue, ... sont dans ...
+
+Il vous faudra encore télécharger des fonds de carte hors-ligne (ex, ceux de la [Région Wallonne](https://geoportail.wallonie.be/telecharger), de Bruxelles ([Urbis](http://urbisdownload.gis.irisnet.be/fr/temporality/)) ou de la Région Flamande ([Geopunt](http://www.geopunt.be/))) et les intégrer à votre projet QGIS.
+
+Si, en gestion de crise, vous n'avez pas besoin d'un système d'information géographique complet, la prochaine mise à jour de QGIS (3.10.1) vous permettra d'[exporter les cartes en geoPDF](https://blog.my-poppy.eu/qgis3_10), permettant de sélectionner et désélectionner les couches comme dans un vrai SIG.
+
+? droits d'administrateur ? / mscrvt.dll
+
+Voulez-vous en savoir plus ? Venez [suivre une formation](https://blog.my-poppy.eu/workshops/) ou [contactez-nous](info@my-poppy.eu) pour des conseils personnalisés.
+
+Merci à Coralie De Decker (Zone NAGE) et à Didier Lanotte (Habay) pour leur question stimulante !
+
+
+
+
+
