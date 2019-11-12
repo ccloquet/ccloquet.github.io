@@ -17,17 +17,20 @@ Voici comment vous y prendre :
 
 	1. Prévoyez une clé USB de 8 Gb ou plus
 	2. Rendez-vous sur http://download.astuntechnology.com/home/ (login : pgis, mot de passe : pgis) 
-	3. Téléchargez le fichier "portablegis_setup_v60.zip"
+	3. Téléchargez le fichier "portablegis_setup_v60.zip" (2 Gb)
 	4. déplacez-le sur votre clé USB
-	5. dézippez-le
+	5. décompressez-le
 	6. effacez le fichier .zip
 	7. exécutez QGIS en double-cliquant sur ...
 	8. configurez ensuite QGIS comme vous le souhaitez, en ajoutant par exemple les plugins dont vous avez besoin, ou encore des fonds de carte hors-ligne (ex, ceux de la [Région Wallonne](https://geoportail.wallonie.be/telecharger), de Bruxelles ([Urbis](http://urbisdownload.gis.irisnet.be/fr/temporality/)) ou de la Région Flamande ([Geopunt](http://www.geopunt.be/))).
 	
+En réalité, vous pouvez même utiliser QGIS au quotidien à partir de cette clé USB (pensez à faire régulièrement un backup de vos données).
+
 Si, en gestion de crise, vous n'avez pas besoin d'un système d'information géographique complet, la prochaine mise à jour de QGIS (3.10.1) vous permettra d'[exporter les cartes en geoPDF](https://blog.my-poppy.eu/qgis3_10), permettant de sélectionner et désélectionner les couches comme dans un vrai SIG.
 
 ? droits d'administrateur ? / mscrvt.dll
 
+Est-ce que cela peut vous aider dans votre pratique
 Voulez-vous en savoir plus ? Venez [suivre une formation](https://blog.my-poppy.eu/workshops/) ou [contactez-nous](info@my-poppy.eu) pour des conseils personnalisés.
 
 Merci à Coralie De Decker (Zone NAGE) et à Didier Lanotte (Habay) pour leur question stimulante !
