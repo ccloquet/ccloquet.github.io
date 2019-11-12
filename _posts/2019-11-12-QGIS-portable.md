@@ -17,7 +17,7 @@ Par exemple, [@archaeogeek](https://gitlab.com/archaeogeek) a "emballé" QGIS 3 
 Voici comment vous y prendre :
 
 1. Prévoyez une clé USB de 8 Gb ou plus
-2. Rendez-vous sur http://download.astuntechnology.com/home/ (login : pgis, mot de passe : pgis) 
+2. Rendez-vous sur [download.astuntechnology.com/home](http://download.astuntechnology.com/home/) (login : pgis, mot de passe : pgis) 
 3. Téléchargez le fichier "portablegis_setup_v60.zip" (2 Gb)
 4. déplacez-le sur votre clé USB
 5. décompressez-le
