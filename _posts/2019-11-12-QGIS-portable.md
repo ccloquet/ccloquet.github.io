@@ -1,7 +1,7 @@
 ---
 title: Utiliser QGIS sans internet
 permalink: portablegis
-published: false
+published: true
 ---
 
 Imaginez : toute la cartographie de votre plan d'urgence tient sur une clé USB, ainsi que le programme qui permet de créer et de modifier des cartes, que vous pouvez dès lors utiliser sur n'importe quel ordinateur sous Windows...
