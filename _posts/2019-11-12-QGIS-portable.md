@@ -13,12 +13,17 @@ Or, en situation de crise, on ne peut pas toujours compter sur un accès à inte
 
 Par exemple, [@archaeogeek](https://gitlab.com/archaeogeek) a "emballé" QGIS 3 pour qu'il puisse être utilisé sous Windows **à partir d'une simple clé USB**. C'est le projet "[portableGIS](https://portablegis.xyz/post/get/)".
 
-Rendez-vous simplement sur http://download.astuntechnology.com/home/ (login : pgis, mot de passe : pgis) et téléchargez... mettez sur clé USB ...
+Voici comment vous y prendre :
 
-plugins, historisue, ... sont dans ...
-
-Il vous faudra encore télécharger des fonds de carte hors-ligne (ex, ceux de la [Région Wallonne](https://geoportail.wallonie.be/telecharger), de Bruxelles ([Urbis](http://urbisdownload.gis.irisnet.be/fr/temporality/)) ou de la Région Flamande ([Geopunt](http://www.geopunt.be/))) et les intégrer à votre projet QGIS.
-
+	1. Prévoyez une clé USB de 8 Gb ou plus
+	2. Rendez-vous sur http://download.astuntechnology.com/home/ (login : pgis, mot de passe : pgis) 
+	3. Téléchargez le fichier "portablegis_setup_v60.zip"
+	4. déplacez-le sur votre clé USB
+	5. dézippez-le
+	6. effacez le fichier .zip
+	7. exécutez QGIS en double-cliquant sur ...
+	8. configurez ensuite QGIS comme vous le souhaitez, en ajoutant par exemple les plugins dont vous avez besoin, ou encore des fonds de carte hors-ligne (ex, ceux de la [Région Wallonne](https://geoportail.wallonie.be/telecharger), de Bruxelles ([Urbis](http://urbisdownload.gis.irisnet.be/fr/temporality/)) ou de la Région Flamande ([Geopunt](http://www.geopunt.be/))).
+	
 Si, en gestion de crise, vous n'avez pas besoin d'un système d'information géographique complet, la prochaine mise à jour de QGIS (3.10.1) vous permettra d'[exporter les cartes en geoPDF](https://blog.my-poppy.eu/qgis3_10), permettant de sélectionner et désélectionner les couches comme dans un vrai SIG.
 
 ? droits d'administrateur ? / mscrvt.dll
@@ -26,8 +31,4 @@ Si, en gestion de crise, vous n'avez pas besoin d'un système d'information géo
 Voulez-vous en savoir plus ? Venez [suivre une formation](https://blog.my-poppy.eu/workshops/) ou [contactez-nous](info@my-poppy.eu) pour des conseils personnalisés.
 
 Merci à Coralie De Decker (Zone NAGE) et à Didier Lanotte (Habay) pour leur question stimulante !
-
-
-
-
 
