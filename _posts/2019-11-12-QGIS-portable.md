@@ -1,5 +1,6 @@
 ---
 title: Utiliser QGIS sans internet
+permalink: portablegis
 published: false
 ---
 
@@ -24,7 +25,7 @@ Voici comment vous y prendre :
 	7. exécutez QGIS en double-cliquant sur ...
 	8. configurez ensuite QGIS comme vous le souhaitez, en ajoutant par exemple les plugins dont vous avez besoin, ou encore des fonds de carte hors-ligne (ex, ceux de la [Région Wallonne](https://geoportail.wallonie.be/telecharger), de Bruxelles ([Urbis](http://urbisdownload.gis.irisnet.be/fr/temporality/)) ou de la Région Flamande ([Geopunt](http://www.geopunt.be/))).
 	
-En réalité, vous pouvez même utiliser QGIS au quotidien à partir de cette clé USB (pensez à faire régulièrement un backup de vos données).
+Vous pouvez même utiliser QGIS au quotidien à partir de cette clé USB (comme toujours, pensez à faire régulièrement un backup de vos données, et à conserver votre clé en sécurité pour éviter des accès malveillants).
 
 Si, en gestion de crise, vous n'avez pas besoin d'un système d'information géographique complet, la prochaine mise à jour de QGIS (3.10.1) vous permettra d'[exporter les cartes en geoPDF](https://blog.my-poppy.eu/qgis3_10), permettant de sélectionner et désélectionner les couches comme dans un vrai SIG.
 
