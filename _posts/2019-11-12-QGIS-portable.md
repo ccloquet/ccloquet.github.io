@@ -4,7 +4,7 @@ permalink: portablegis
 published: true
 ---
 
-Imaginez : toute la cartographie de votre plan d'urgence tient sur une clé USB, ainsi que le programme qui permet de créer et de modifier des cartes, que vous pouvez dès lors utiliser sur n'importe quel ordinateur sous Windows...
+Imaginez : toute la cartographie de votre plan d'urgence tient sur une clé USB, tout comme le programme qui permet de créer et de modifier des cartes. Grâce à cela, vous pouvez consulter les cartes et les modifier sur n'importe quel ordinateur qui fonctionne sous Windows...
 
 De nombreux outils de cartographie sont très simples à utiliser ([Google My Maps](https://www.google.com/maps/d/), [UMap](https://umap.openstreetmap.fr/nl/), [SarTopo](https://sartopo.com/map.html), ...) et peuvent suffire pour notre usage, mais ils sont uniquement disponibles en ligne. 
 
