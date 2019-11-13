@@ -1,5 +1,5 @@
 ---
-title: Utiliser QGIS sans internet
+title: Utiliser QGIS sans Internet
 permalink: portablegis
 published: true
 tags: [tools,qgis,gis]
