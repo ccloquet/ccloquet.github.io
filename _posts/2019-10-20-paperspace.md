@@ -1,5 +1,6 @@
 ---
 title: Gestion de crise - service IT injoignable ? 
+tags: [tools]
 ---
 
 Vendredi 22h30, vous venez de déclencher la cellule communale de crise et vous souhaitez installer un nouveau programme sur votre ordinateur.

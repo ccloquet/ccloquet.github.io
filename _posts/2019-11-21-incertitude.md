@@ -1,6 +1,7 @@
 ---
 title: Décider à vue - un guide au travers des nombreuses références sur le sujet
 published: false
+tags: [soft skills]
 ---
 
 Quel est le point commun entre une opération militaire, la gestion de crise et l'entrepreneuriat ?
