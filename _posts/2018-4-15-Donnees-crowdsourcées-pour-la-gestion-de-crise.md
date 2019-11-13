@@ -1,5 +1,6 @@
 ---
 title: Données crowdsourcées pour la gestion de crise
+tags:[tools,data,citizens,social media]
 ---
 <b>Gestion de crise et informations fournies par les citoyens en temps réel : quelques canaux privilégiés</b>
  
