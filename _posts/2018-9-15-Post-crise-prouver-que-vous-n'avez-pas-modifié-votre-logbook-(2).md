@@ -1,6 +1,6 @@
 ---
 title: Post-crise - prouver que vous n'avez pas modifié votre logbook (2/2)
-permalink: logbook2/
+permalink: logbook2
 tags: [tools,blockchain,logbook]
 ---
 <center><i>Attention : post special pour les gestionnaires de crise geeks !</i></center><br>
