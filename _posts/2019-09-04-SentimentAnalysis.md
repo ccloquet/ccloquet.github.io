@@ -1,9 +1,5 @@
 ---
 title: SentimentViz, un outil pour analyser le sentiment des tweets
-<<<<<<< HEAD
-tags: [socialmedia,tools]
-=======
->>>>>>> parent of 1225525... tags
 ---
 
 En gestion d'évènement comme en situation de crise, il est crucial d'analyser et de comprendre le ressenti des participants ou de la population, afin de pouvoir y répondre adéquatement et/ou de mesurer l'efficacité des mesures prises.

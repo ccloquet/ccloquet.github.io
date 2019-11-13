@@ -1,9 +1,5 @@
 ---
 title: Envoyer des images par SMS
-<<<<<<< HEAD
-tags: [SMS,tools]
-=======
->>>>>>> parent of 1225525... tags
 ---
 
 Vous êtes travailleur ou travailleuse humanitaire ? Vous est-il déjà arrivé de devoir transmettre des photos alors que vous aviez seulement accès à un réseau GSM 2G ? Dans ce cas, impossible d'utiliser une appli comme Whatsapp ou vos emails.
