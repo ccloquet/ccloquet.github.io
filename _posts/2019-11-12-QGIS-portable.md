@@ -4,9 +4,9 @@ permalink: portablegis
 published: true
 ---
 
-Imaginez : toute la cartographie de votre plan d'urgence tient sur une clé USB, tout comme le programme qui permet de créer et de modifier des cartes. Grâce à cela, vous pouvez consulter les cartes et les modifier sur n'importe quel ordinateur qui fonctionne sous Windows...
+Imaginez : toute la cartographie de votre plan d'urgence tient sur une clé USB, tout comme le programme qui permet de créer et de modifier des cartes. Grâce à cela, vous pouvez consulter votre cartographie et l'éditer sur n'importe quel ordinateur Windows...
 
-De nombreux outils de cartographie sont très simples à utiliser ([Google My Maps](https://www.google.com/maps/d/), [UMap](https://umap.openstreetmap.fr/nl/), [SarTopo](https://sartopo.com/map.html), ...) et peuvent suffire pour notre usage, mais ils sont uniquement disponibles via une connexion internet. 
+De nombreux outils de cartographie sont très simples à utiliser ([Google My Maps](https://www.google.com/maps/d/), [UMap](https://umap.openstreetmap.fr/nl/), [SarTopo](https://sartopo.com/map.html), ...) et peuvent suffire pour notre usage, mais ne sont disponibles que sur le web. 
 
 Or, en situation de crise, on ne peut pas toujours compter sur un accès à internet : connexion fixe indisponible, réseau mobile saturé, ... Il existe des moyens de garantir un accès prioritaire à l'internet mobile (ex: cartes SIM ["Astrid Blue Light Mobile"](https://www.astrid.be/fr/services/blue-light-mobile) en Belgique), mais ceux-ci ont également leurs limites (ex: si le relais GSM est lui-même en panne), et il est prudent de prévoir des outils qui fonctionnent hors réseau également.
 
