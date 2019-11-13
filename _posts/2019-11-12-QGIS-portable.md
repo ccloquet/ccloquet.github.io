@@ -32,6 +32,6 @@ Vous pouvez même utiliser QGIS **au quotidien** à partir de cette clé USB (co
 
 Si, en gestion de crise, vous n'avez pas besoin d'un système d'information géographique complet, la prochaine mise à jour de QGIS (3.10.1) devrait vous permettre d'[exporter vos cartes en geoPDF](https://blog.my-poppy.eu/qgis3_10), ce qui donne par exemple la possibilité de sélectionner et désélectionner des couches, ou de faire des recherches, comme dans un vrai SIG.
 
-Voulez-vous en savoir plus ? Venez [suivre une formation](https://blog.my-poppy.eu/workshops/) ou [contactez-nous](info@my-poppy.eu) pour des conseils personnalisés.
+Voulez-vous en savoir plus ? Venez [suivre une formation](https://blog.my-poppy.eu/workshops/) ou [contactez-nous](mailto:info@my-poppy.eu) pour des conseils personnalisés.
 
 
