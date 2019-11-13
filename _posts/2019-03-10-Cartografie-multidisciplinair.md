@@ -1,5 +1,6 @@
 ---
 title: Voordelen van een gemeenschappelijke cartografie voor evenementen 
+tags:[tools,gis]
 ---
 
 Poppy is regelmatig gesolliciteerd om een cartografische steun aan evenementen te brengen, zowel voor de productie zelf, als voor bepaalde onderdelen zoals de logistiek of de mobiliteit. In december 2018 hebben we de gelegenheid gehad om enkele [zichten met de studenten evenement management](https://docs.my-poppy.eu/20181203_carto_101_charles_peguy_pour_diffusion.pdf) te delen in het kader van het cursus evenement veiligheid van Th. Van Keisbilck ([360 solutions](https://www.360-solutions.eu/)) bij het [Charles Peguy instituut](https://www.charlespeguy.be/formations/creation-devenements/).
