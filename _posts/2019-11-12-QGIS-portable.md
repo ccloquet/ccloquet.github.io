@@ -25,7 +25,8 @@ Voici comment vous y prendre :
 7. allez dans le folder **portablegis_setup_v60** ;
 8. exécutez QGIS en double-cliquant sur **portablegis.exe** ;
 9. cliquez sur "**Desktop Modules**", puis "**QGIS**" ;
-10. configurez ensuite QGIS comme vous le souhaitez, en ajoutant par exemple les plugins dont vous avez besoin, ou encore des fonds de carte hors-ligne (ex, ceux de la [Région Wallonne](https://geoportail.wallonie.be/telecharger), de Bruxelles ([Urbis](http://urbisdownload.gis.irisnet.be/fr/temporality/)) ou de la Région Flamande ([Geopunt](http://www.geopunt.be/))).
+10. configurez ensuite QGIS comme vous le souhaitez, en ajoutant par exemple les plugins dont vous avez besoin, ou encore des fonds de carte hors-ligne (ex, ceux de la [Région Wallonne](https://geoportail.wallonie.be/telecharger), de Bruxelles ([Urbis](http://urbisdownload.gis.irisnet.be/fr/temporality/)) ou de la Région Flamande ([Geopunt](http://www.geopunt.be/))) ;
+11. testez votre clé sur un autre PC.
 	
 Vous pouvez même utiliser QGIS **au quotidien** à partir de cette clé USB (conservez votre clé en sécurité pour éviter des accès malveillants, et, si possible, chiffrez-là).
 
