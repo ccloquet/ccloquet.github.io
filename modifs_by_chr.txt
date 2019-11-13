@@ -3,7 +3,7 @@ _includes/footer/custom.html
 fas / fab -> fa (font awesome) (footer.html, social-share.html, ...)
 
 _data/navigation.yml
-_pages (dont tags...)
+_pages
 _posts
 
 _saas/minimal-mistakes/
@@ -13,7 +13,5 @@ _saas/minimal-mistakes/
 
 custom_js
 images
-
-
 
 _config.yml

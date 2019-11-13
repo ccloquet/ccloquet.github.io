@@ -1,7 +1,6 @@
 ---
 title: Post-crise - prouver que vous n'avez pas modifié votre logbook (2/2)
 permalink: logbook2
-tags: [tools,blockchain,logbook]
 ---
 <center><i>Attention : post special pour les gestionnaires de crise geeks !</i></center><br>
 Le mois passé, nous avons vu quelques possibilités de prouver que votre logbook n'a pas été modifié après la situation de crise, dont l'une basée sur la technologie blockchain. Alors, comment faire en pratique ?<br><br>

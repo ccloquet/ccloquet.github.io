@@ -1,6 +1,5 @@
 ---
 title: Plan d'urgence hospitalier - mise à jour du canevas
-tags: [PUH]
 ---
 <center>
 <img src='../images/puh_2_fr.png' style="height:300px">&nbsp;<img src='../images/puh_2_nl.png' style="height:300px">

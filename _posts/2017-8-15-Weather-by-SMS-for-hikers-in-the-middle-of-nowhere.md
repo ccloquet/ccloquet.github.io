@@ -1,6 +1,5 @@
 ---
 title: Weather by SMS for the hikers in the middle of nowhere
-tags: [tools,SMS]
 ---
 <img src='../images/2017_chartreuse.jpg'>
 <div style="font-size:smaller">Mount Granier, Chartreuse, France. C. Cloquet (2017). lic <a href='https://creativecommons.org/licenses/by/2.0/'>CC BY 2.0</a></div><br>
