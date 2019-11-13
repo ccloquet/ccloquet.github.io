@@ -1,8 +1,7 @@
 ---
 title: Quickgrid - 1-click crashmap and get your grid square on your phone
-tags:[tools,gis,quickgrid]
+tags: [tools,gis,quickgrid]
 ---
-<br><br>
 <img src='../images/quickgrid.png?a=1' style="height:600px">
 <div style="font-size:smaller">Left: 1-click grid configuration. Right: get your grid square on your phone</div><br>
 
