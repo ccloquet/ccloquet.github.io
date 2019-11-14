@@ -8,9 +8,9 @@ tags: [softskills]
 
 Quel est le point commun entre la gestion de crise et l'entrepreneuriat ?
 
-Dans les deux cas, toutes proportions gardées, on **navigue à vue dans l'incertitude**, le fameux _brouillard de la guerre_ de [Clausewitz](https://www.librairiedialogues.fr/livre/211147-principes-fondamentaux-de-strategie-militaire-carl-von-clausewitz-mille-et-une-nuits). Or c'est dans ces moments-là qu'il faut **décider** le plus. 
+Dans les deux cas, toutes proportions gardées, on **navigue à vue dans l'incertitude**, le fameux _brouillard de la guerre_ de [Clausewitz](https://www.librairiedialogues.fr/livre/211147-principes-fondamentaux-de-strategie-militaire-carl-von-clausewitz-mille-et-une-nuits). Or c'est dans ces moments-là qu'il faut **décider** le plus, et si possible, le mieux.
 
-Décider est un art difficile... S'il suffisait de déduire quoi faire à partir des données à l'instant _t_, ce serait à la fois facile et déprimant : une machine pourrait s'en charger... Or tous les outils du monde --  ordinateurs, logiciels, théories, stratégies, plans, procédures, fiches réflexe, ... -- pour cruciaux qu'ils soient, se basent sur des **présupposés très limités** qui ne prennent pas en compte la [**complexité**](https://www.youtube.com/watch?v=6UT57Jm371w) d'une situation à un moment donné. 
+Or, décider est un art difficile... S'il suffisait de déduire quoi faire à partir des données à l'instant _t_, ce serait à la fois facile et déprimant : une machine pourrait s'en charger... Or tous les outils du monde --  ordinateurs, logiciels, théories, stratégies, plans, procédures, fiches réflexe, ... -- pour cruciaux qu'ils soient, se basent sur des **présupposés très limités** qui ne prennent pas en compte la [**complexité**](https://www.youtube.com/watch?v=6UT57Jm371w) d'une situation à un moment donné. 
 
 **C'est donc à l'être humain de décider**. Or, dans les situations critiques, on a rarement le temps d'acquérir une certitude raisonnable... 
 
