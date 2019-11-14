@@ -1,5 +1,5 @@
 ---
-title: Quelque pistes pour décider en situation incertaine
+title: "Décider en situation incertaine : quelques pistes à approfondir"
 permalink: incertitudedraft
 published: true
 search: false
