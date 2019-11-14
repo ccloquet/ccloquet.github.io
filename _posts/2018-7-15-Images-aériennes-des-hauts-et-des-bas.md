@@ -1,5 +1,6 @@
 ---
 title: Images aériennes - des hauts et des bas
+tags: [tools,gis]
 ---
 <table>
   <tr>

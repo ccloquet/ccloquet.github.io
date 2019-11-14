@@ -1,5 +1,6 @@
 ---
 title: Ziekenhuisnoodplan - sjabloon-update
+tags: [ZNP]
 ---
 <center>
 <img src='../images/puh_2_fr.png' style="height:300px">&nbsp;<img src='../images/puh_2_nl.png' style="height:300px">
