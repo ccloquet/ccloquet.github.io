@@ -20,10 +20,10 @@ Pour s'exercer à la complexité de la décision, **pratiquer**, **échouer** et
 
 Pour nous aider, nous pouvons également dégager **quelques facteurs pour orienter nos décisions de crise dans une bonne direction** [**], que nous soyons un décideur isolé ou à la tête d'un groupe de pilotage.
 
-- Le sociologue Christian Morel nous met ainsi en garde contre les **décisions absurdes**, et nous enseigne comment les éviter :
-    - [I _Sociologie des erreurs radicales et persistantes_](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-essais/Les-decisions-absurdes-I-II)
-    - [II _Comment les éviter_](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-essais/Les-decisions-absurdes-I-II) 
-    - [III _L’enfer des règles. Les pièges relationnels_](https://journals.openedition.org/lectures/25188)
+- Dans ses trois ouvrages, le sociologue Christian Morel nous met ainsi en garde contre les **décisions absurdes**, et nous enseigne comment les éviter :
+    - [I _Sociologie des erreurs radicales et persistantes_](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-essais/Les-decisions-absurdes-I-II) ;
+    - [II _Comment les éviter_](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-essais/Les-decisions-absurdes-I-II) ;
+    - [III _L’enfer des règles. Les pièges relationnels_](https://journals.openedition.org/lectures/25188).
 
 - Certaines décisions funestes sont parfois provoquées par l'[effet Janis ou **_group think_**](https://fr.wikipedia.org/wiki/Pens%C3%A9e_de_groupe), par lequel les individus essayent de se conformer au groupe. Pour le contrer, il existe des techniques d'intelligence collective, parfois spécifiques à un domaine donné, telles que le [planning poker](https://fr.wikipedia.org/wiki/Planning_poker). 
 
