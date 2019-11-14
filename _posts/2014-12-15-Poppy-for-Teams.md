@@ -1,5 +1,6 @@
 ---
 title:Poppy for Teams: teams collaboration
+tags: [tools,geolocation]
 ---
 
 Poppy for Teams increases your efficiency using apps and mobile technologies: 

@@ -1,5 +1,6 @@
 ---
 title: The Waterloo 2015 case
+tag: [event,qgis,gis]
 ---
 
 In June 2015, 200,000 people on three days to remember the battle of Waterloo.<br><br>

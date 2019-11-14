@@ -1,5 +1,6 @@
 ---
 title: Des données mobiles pour observer la foule
+tags: [tools,event]
 ---
 
 **Cet article examine différentes possibilités offertes aux organisateurs pour observer, voire anticiper, la foule et son état d'esprit. Nous abordons successivement les réseaux sociaux, les données de téléphonie mobile, les capteurs Bluetooth et Wifi, et les applications smartphone.**

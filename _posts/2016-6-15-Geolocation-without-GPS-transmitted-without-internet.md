@@ -1,5 +1,6 @@
 ---
 title: Geolocation without GPS, transmitted to your server without internet
+tags: [tools,geolocation,gis]
 ---
 <center><img src='../images/20160604_115632_mod.jpg' style="width:40%; height:auto"></center>
 <br>
