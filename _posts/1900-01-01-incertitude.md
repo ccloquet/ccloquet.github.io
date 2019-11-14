@@ -1,5 +1,6 @@
 ---
 title: Décider à vue - un guide au travers les nombreuses références sur le sujet
+permalink: incertitudedraft
 published: true
 search: false
 tags: [softskills]
