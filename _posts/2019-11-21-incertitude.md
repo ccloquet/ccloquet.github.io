@@ -1,5 +1,5 @@
 ---
-title: "Décider en situation incertaine : quelques pistes à approfondir"
+title: "Décider en situation incertaine : quelques points de départ"
 permalink: decider
 published: false
 tags: [softskills]
