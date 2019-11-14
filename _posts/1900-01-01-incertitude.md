@@ -29,13 +29,13 @@ Pour nous aider, nous pouvons également tirer avantage des succès et échecs d
 
 - Certaines décisions funestes sont parfois provoquées par l'[effet Janis ou **_group think_**](https://fr.wikipedia.org/wiki/Pens%C3%A9e_de_groupe), par lequel les individus essayent de se conformer au groupe. Pour le contrer, il existe des techniques d'intelligence collective, parfois spécifiques à un domaine donné, telles que le [planning poker](https://fr.wikipedia.org/wiki/Planning_poker). 
 
-Ce group think est un exemple de [**biais cognitif**](https://fr.wikipedia.org/wiki/Biais_cognitif) parmi d'autres, susceptibles de plomber vos décisions, [individuelles](https://www.eyrolles.com/Loisirs/Livre/petite-philosophie-de-nos-erreurs-quotidiennes-9782212552416/) ou collectives. 
+- Ce group think est un exemple de [**biais cognitif**](https://fr.wikipedia.org/wiki/Biais_cognitif) parmi d'autres, susceptibles de plomber vos décisions, [individuelles](https://www.eyrolles.com/Loisirs/Livre/petite-philosophie-de-nos-erreurs-quotidiennes-9782212552416/) ou collectives. 
   
-   -  par exemple : le **biais de confirmation** décrit notre tendance à rechercher les éléments qui confirment ce que nous pensons ;
+   - par exemple : le **biais de confirmation** décrit notre tendance à rechercher les éléments qui confirment ce que nous pensons ;
        
    - avec le **biais des coûts irrécupérables**, nous avons tendance à nous enfoncer dans l'erreur d'autant plus que nous y avons déjà investi beaucoup de temps et/ou d'argent.
 
-Deux vidéos pour en savoir plus : en [2 minutes](https://www.youtube.com/watch?v=FxaV_Fi-GkY), ou en [1 heure](https://www.youtube.com/watch?v=Et8W0skDF6E).
+	Deux vidéos pour en savoir plus : en [2 minutes](https://www.youtube.com/watch?v=FxaV_Fi-GkY), ou en [1 heure](https://www.youtube.com/watch?v=Et8W0skDF6E).
 
 Dès lors, comment se prémunir de telles erreurs ? Pas de recette miracle : il nous faut **prendre conscience de nos biais**, en particulier [ceux qui se manifestent en situation de crise](http://www.performance2.net/blog/wp-content/uploads/2013/10/Decision-Making-in-Crisis.pdf), et réapprendre à penser : d'après Daniel Kahneman, prix Nobel auteur de [Thinking,  Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)  ([vidéo](https://www.youtube.com/watch?v=Et8W0skDF6E), [résumé 1](https://medium.com/leadership-motivation-and-impact/what-i-learned-from-thinking-fast-and-slow-a4a47cf8b5d5), [résumé 2](
 https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol.-56-no.-2/thinking-fast-and-slow.html)), pour une décision complexe, votre intuition (Système 1) vous trompera tant que vous n'avez pas une expérience poussée de la problématique (comme l'aurait un pompier ou un médecin expérimenté dans son domaine d'expertise), auquel cas il vaut mieux utiliser votre Système 2 (plus lent, mais aboutissant à de meilleurs résultats). 
