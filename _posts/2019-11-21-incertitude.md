@@ -42,7 +42,7 @@ C'est là qu'interviennent les **méthodes de raisonnement**, qui permettent d'�
 
 Ces méthodes s'intègrent idéalement dans un processus de décision et d'exécution  structuré, tel que le modèle [OODA](https://en.wikipedia.org/wiki/OODA_loop?oldid=655195138) militaire (Observe-Orient-Decide-Act) ou encore la boucle [IBOBO](https://www.diekeure.be/nl-be/professional/6924/help-een-crisis) (Informatieverzameling - Beeldvorming - Oordeelvorming - Bevelgeving - Opvolging) pour la gestion de crise civile.
 
-A ces méthodes s'ajoutent cependant une attitude, qu'[Olivier Sibony](https://www.youtube.com/watch?v=FZJwRRsmeyY) appelle un **système de prise de décisions, formel et systématique**, au sein duquel la "contradiction [est] recherchée, les désaccords exprimés, les incertitudes discutées et les critères excplicités".
+A ces méthodes s'ajoutent une attitude, qu'[Olivier Sibony](https://www.youtube.com/watch?v=FZJwRRsmeyY) appelle un **système de prise de décisions, formel et systématique**, au sein duquel la "contradiction [est] recherchée, les désaccords exprimés, les incertitudes discutées et les critères excplicités".
 
 La rigueur de la méthode ne doit cependant pas occulter la [prise en compte de nos émotions](https://en.wikipedia.org/wiki/Emotions_in_decision-making), ne fût-ce qu'en tant qu'information à intégrer dans l'analyse. À défaut, on risque une décision parfaitement rationnelle, mais complètement inhumaine.
 
