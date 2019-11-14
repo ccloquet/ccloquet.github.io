@@ -1,5 +1,5 @@
 ---
-title: Décider à vue - un guide au travers les nombreuses références sur le sujet
+title: Décider à vue - un guide au travers des nombreuses références sur le sujet
 permalink: incertitudedraft
 published: true
 search: false
