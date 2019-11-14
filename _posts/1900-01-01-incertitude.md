@@ -1,6 +1,7 @@
 ---
-title: Décider à vue - un guide au travers des nombreuses références sur le sujet
-published: false
+title: Décider à vue - un guide au travers les nombreuses références sur le sujet
+published: true
+search: false
 tags: [softskills]
 ---
 
@@ -54,8 +55,6 @@ Cela se prépare bien [en amont ](https://www.imd.org/research-knowledge/books/c
 Plus de détails sur certains aspects dans de prochains billets ! 
 
 Et vous, quelles sont vos expériences en matière de décision dans des situations critiques ? Discutons-en [ici](https://hackmd.io/0Sbqc7_WQlWaYE0BG91f5g?edit), ou [autour d'un café](mailto://christophe@my-poppy.eu) !
-
-Cet article vous a été utile ? Pourquoi ne pas le <a href='https://paypal.me/ccloquet'>sponsoriser</a> ?
 
 ---------------------------
 
