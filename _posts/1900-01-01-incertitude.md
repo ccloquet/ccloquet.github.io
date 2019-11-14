@@ -1,5 +1,5 @@
 ---
-title: Décider à vue - un guide au travers des nombreuses références sur le sujet
+title: Quelque pistes pour décider en situation incertaine
 permalink: incertitudedraft
 published: true
 search: false
