@@ -1,5 +1,6 @@
 ---
 title: Alerte des populations - table ronde à Secours Expo 2017
+tags: [publicwarning,conference]
 ---
 Chouettes échanges d'idées hier lors de la table ronde sur l'**alerte aux populations** à Secours Expo !
 

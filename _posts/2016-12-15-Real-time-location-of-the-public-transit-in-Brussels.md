@@ -1,5 +1,6 @@
 ---
 title: Real-time location of public transit vehicles in Brussels
+tags: [opendata,mobility]
 ---
 <b>The first app using the STIB-MIVB open data</b>
 

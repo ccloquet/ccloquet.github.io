@@ -1,5 +1,6 @@
 ---
 title: A large open source map with its streets list
+tag: [gis,opensource]
 ---
 
 A Walloon hospital recently asked the French company <a href='http://www.tanit-developpement.com/'>Tanit</a> to deliver a wall map for their Prehospital Advanced Life support team (SMUR). <a href='http://www.tanit-developpement.com/'>Tanit</a> partnered with us for the infographics.
