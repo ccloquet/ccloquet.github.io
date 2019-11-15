@@ -1,5 +1,5 @@
 ---
-title: Plan d'urgence hospitalier - mise à jour du canevas
+title: "Plan d'urgence hospitalier : mise à jour du canevas"
 tags: [PUH]
 ---
 <center>

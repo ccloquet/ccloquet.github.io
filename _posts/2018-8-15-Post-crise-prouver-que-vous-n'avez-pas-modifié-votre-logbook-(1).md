@@ -1,5 +1,5 @@
 ---
-title: Post-crise - prouver que vous n'avez pas modifié votre logbook (1/2)
+title: "Post-crise : prouver que vous n'avez pas modifié votre logbook (1/2)"
 permalink: logbook1
 tags: [tools,blockchain,logbook]
 ---

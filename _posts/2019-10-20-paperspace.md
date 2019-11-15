@@ -1,5 +1,5 @@
 ---
-title: Gestion de crise - service IT injoignable ? 
+title: "Gestion de crise : service IT injoignable ?"
 tags: [tools]
 ---
 

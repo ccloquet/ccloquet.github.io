@@ -1,5 +1,5 @@
 ---
-title: Ziekenhuisnoodplan - sjabloon-update
+title: "Ziekenhuisnoodplan: sjabloon-update"
 tags: [ZNP]
 ---
 <center>
