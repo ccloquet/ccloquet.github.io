@@ -47,7 +47,7 @@ permalink: /about_us/
 
 <p >That means we all must progress every day. We strongly believe that <strong>security must be at the service of democracy</strong> in the sense of a peaceful public space where citizens – minorities included – can make the society evolve by making their voice heared. Security should be the tool that <strong>protects the weak against the strong</strong> in view of the common good.</p>
 
-<p >Security must therefore be subordoned to a strong ethics, at the very least encompassing the Human Rights Declaration, and be applied with that vision in mind.</p>
+<p >Security must therefore be subordoned to a strong ethics, at least encompassing the Human Rights Declaration, and be applied with that vision in mind.</p>
 
 <p >To us, technical security measures are therefore a mean, and no solution in themselves. On the long term, education, solidarity, culture, and strenghtening of bonds will be the best warrants of a peaceful society.</p>
 </div>
