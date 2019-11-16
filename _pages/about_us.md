@@ -45,7 +45,7 @@ permalink: /about_us/
 
 <p >We acknowledge that in today’s society, there is no perfect solution to the freedom-security paradox, because no one is perfect.</p>
 
-<p >That means we all must progress every day. We strongly believe that <strong>security must be at the service of democracy</strong> in the sense of a peaceful public space where citizens – minorities included – can make the society evolve by making their voice heared. Security should be the tool that <strong>protects the weak against the strong</strong> in view of the common good. Security must therefore be subordoned to a strong ethics, at least encompassing the Human Rights Declaration.</p>
+<p >That means we all must progress every day. We strongly believe that <strong>security must be at the service of democracy</strong> in the sense of a peaceful public space where citizens – minorities included – can make the society evolve by making their voice heared. Security should be the tool that <strong>protects the weak against the strong</strong> in view of the common good, and that is why security must be subordoned to a strong ethics, at least encompassing the Human Rights Declaration.</p>
 
 <p >To us, technical security measures are therefore a mean, and no solution in themselves. On the long term, education, solidarity, culture, and strenghtening of bonds will be the best warrants of a peaceful society.</p>
 </div>
