@@ -116,8 +116,7 @@ author:
   links:
     - label: "About us"
       icon: "fa fa-fw fa-info"
-      #url: "https://blog.my-poppy.eu/about_us"
-      url: "https://www.my-poppy.eu"
+      url: "https://blog.my-poppy.eu/about_us"
     - label: "Products & services"
       icon: "fa fa-fw fa-link"
       #url: "https://blog.my-poppy.eu/what"
