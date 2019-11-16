@@ -47,14 +47,14 @@ permalink: /about_us/
 
 <p >That means we all must progress every day. We strongly believe that <strong>security must be at the service of democracy</strong> in the sense of a peaceful public space where citizens – minorities included – can make the society evolve by making their voice heared. Security should be the tool that <strong>protects the weak against the strong</strong> in view of the common good, and that is why security must be subordoned to a strong ethics, at least encompassing the Human Rights Declaration.</p>
 
-<p >To us, technical security measures are therefore a mean, and no solution in themselves. On the long term, education, solidarity, culture, and strenghtening of bonds will be the best warrants of a peaceful society.</p>
+<p >To us, technical security measures are therefore a mean, and no solution in themselves. On the long term, education, solidarity, culture, and strenghtening of bonds between will be the best warrants of a peaceful society.</p>
 </div>
 
 <p><center><strong>Our approach</strong></center></p>
 
 <p >When we both agree on a common vision, we work with you to <strong>serve</strong> your objectives, your organisation, your members and beneficiaries through <strong>innovation</strong> and <strong>co-creation</strong> of solutions, thanks to the meeting of our expertise and your knowledge of the field.</p>
 
-<p >We feel inspired by complexity thinkers such as <a href="http://chaire-edgar-morin-complexite.essec.edu/">Edgar Morin</a>, by statements such as the <a href="https://agilemanifesto.org/">Agile Manifesto and principles</a> and by frameworks such as <a href="https://www.sysaid.com/blog/entry/the-7-guiding-principles-of-itil-4-practical-advice-to-help-you-make-decisions">ITIL v4</a>.</p>
+<p >We feel inspired by complexity thinkers such as <a href="http://chaire-edgar-morin-complexite.essec.edu/">Edgar Morin</a>, by statements like the <a href="https://agilemanifesto.org/">Agile Manifesto and principles</a> and by frameworks such as <a href="https://www.sysaid.com/blog/entry/the-7-guiding-principles-of-itil-4-practical-advice-to-help-you-make-decisions">ITIL v4</a>.</p>
 
 <p >Our holistic and systemic approach allows to consider the objectives, people and means within the same living picture. This ensures strategies are applicable, people are respected and means are used at their full potential.</p>
 
