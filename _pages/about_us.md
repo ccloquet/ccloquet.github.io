@@ -36,7 +36,7 @@ permalink: /about_us/
 
 <p >To stay far from both extremes, the balance between local and global scales should continuously be adjusted. Currently, our way to help requilibrate the balance is to <a href="https://blog.my-poppy.eu/fournisseurs2019/">choose local suppliers when possible</a>, and be part of the <strong><a href="https://blog.my-poppy.eu/zinne/">Zinne</a></strong> network. In any event, we must do all that is in our power to make more connections and not staying closed on ourselves.</p>
 
-<p ><strong>Migration</strong> is to us one enabler of diversity. This theme is much debated and we do not ignore the practical issues it carries. We are convinced that these issues can be solved if adressed with creativity and humanity. At our scale, we want to be part to a better welcome of refugees in Belgium, by supporting <strong><a href="https://www.singa-belgium.org/">Singa-Belgium</a></strong>. This association has as goals the creation of links between refugees and local people. Links, again!</p>
+<p ><strong>Migration</strong> is to us one enabler of diversity. This theme is much debated and we do not ignore the practical issues it carries. We are convinced that these issues can be solved if adressed with creativity and humanity. At our scale, we want to be part of a better welcome of refugees in Belgium, by supporting <strong><a href="https://www.singa-belgium.org/">Singa-Belgium</a></strong>. This association has as goals the creation of links between refugees and local people. Links, again!</p>
 </div>
 
 <strong>Security is at the service of the weakest of us</strong>
