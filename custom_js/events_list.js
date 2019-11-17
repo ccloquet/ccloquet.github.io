@@ -5,7 +5,7 @@ var events = [
 ['https://ec.europa.eu/jrc/en/event/training-course/evidence-policy-school-disaster-risk-management', 'Evidence for policy school  disaster risk management', 'DRMKC', '13-15 janvier 2020', 'Florence, Italie', 'prix : TBD', '2020-01-15'],  
 ['https://europa.eu/regions-and-cities/programme/sessions/465_en', 'Investing in forests  a clear contribution to solving the climate and biodiversity crises', 'European Week of Regions and Cities', '7 au 10 octobre 2019', 'Bruxelles', 'gratuit', '2019-10-10'],
 ['http://www.irma-grenoble.com/PDF/02institut/2019/matinales/matinale_06_flyer.pdf', 'Risques nucléaires et évolution de la doctrine nationale de sécurité civile', 'IRMA', '16 octobre 2019', 'Roussillon - France', 'gratuit', '2019-10-16'],
-['https://www.psc-europe.eu/news-events/events/psce-conference-in-paris-2019.html', 'PSCE Conference in Paris 2019', 'PSC Europe', '3 au 5 décembre 2019', 'Paris', 'gratuit', '2019-12-05'],
+['https://www.psc-europe.eu/news-events/events/psce-conference-in-paris-2019.html', 'PSCE Conference in Paris 2019', 'PSC Europe', '3 au 5 décembre 2019', 'Paris', '320-400 €', '2019-12-05'],
 ['http://www.gidmc.org/', '2nd Edition of the Global Inclusive Disaster Management Conference and Exhibition', 'GIDMC', '1 et 2 juillet 2019', 'New Delhi', 'gratuit', '2019-07-02'],
 ['http://www.gi4dm2019.org/', 'GeoInformation For Disaster Management', 'GI4DM 2019', '3 au 6 septembre 2019', 'Prague', 'gratuit', '2019-09-06'],
 ['https://www.imdr.eu/offres/gestion/actus_818_38533-2252/entretiens-du-risque-2019.html', 'Dimension éthique dans la maîtrise des risques', 'entretiens IMDR', '3 et 4 décembre 2019', 'Paris', '75-420 €', '2019-12-04'],
