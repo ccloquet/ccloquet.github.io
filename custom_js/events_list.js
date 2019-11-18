@@ -1,6 +1,8 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.dr2020.ca/', 'Désastre et résilience', 'UQAM', '16-18 juin 2020', 'Montreal', 'TBD', '2020-06-18'],
+['https://dr2020.ca/world-innovation-games/', 'World innovation games in disaster resilience', 'EGIDE, IAEM & EMNCC', '16-18 juin 2020', 'Montreal', 'TBD', '2020-06-18'],
 ['https://ciprovot-project.eu/final-event-in-brussels/', 'How to Best Train Volunteers in Civil Protection', 'projet CiProVoT / évènement de clôture', '30 novembre 2019', 'Bruxelles', 'gratuit', '2019-11-30'],
 ['https://www.hcfdc.org/fr/guest/Actualites', 'Échanges sur les bonnes pratiques des Plans Communaux de Sauvegarde', 'Haut Comité Français pour la Résilience Nationale', '22 novembre 2019', 'Paris', '25 €', '2019-11-22'],
 ['https://ec.europa.eu/jrc/en/event/training-course/evidence-policy-school-disaster-risk-management', 'Evidence for policy school  disaster risk management', 'DRMKC', '13-15 janvier 2020', 'Florence, Italie', 'prix : TBD', '2020-01-15'],  
