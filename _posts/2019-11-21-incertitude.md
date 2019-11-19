@@ -41,7 +41,7 @@ Par exemple, pour éviter le piège du biais de confirmation, on a avantage à i
 
 C'est là qu'interviennent les **méthodes de raisonnement**, qui permettent d'étudier une situation de manière rigoureuse et détachée. On y trouve par exemple la [**méthode de raisonnement tactique**](https://www.fun-mooc.fr/c4x/Paris2/09004/asset/Video41.pdf) et la matrice militaire « [**facteurs d'appréciation x élements de manoeuvre**](https://www.penseemiliterre.fr/-france-et-belgique-vers-une-doctrine-commune_775_1013077.html) » [\*\*\*] visant à prendre en compte un maximum de facteurs dans la décision. 
 
-Ces méthodes s'intègrent idéalement dans un processus de décision et d'exécution  structuré, tel que le modèle [OODA](https://en.wikipedia.org/wiki/OODA_loop?oldid=655195138) militaire (Observe-Orient-Decide-Act) ou encore la boucle [IBOBO](https://www.diekeure.be/nl-be/professional/6924/help-een-crisis) (Informatieverzameling - Beeldvorming - Oordeelvorming - Bevelgeving - Opvolging) pour la gestion de crise civile.
+Ces méthodes s'intègrent idéalement dans un processus de décision et d'exécution structuré, tel que le modèle [OODA](https://en.wikipedia.org/wiki/OODA_loop?oldid=655195138) militaire (Observe-Orient-Decide-Act) ou encore la boucle [IBOBO](https://www.diekeure.be/nl-be/professional/6924/help-een-crisis) (Informatieverzameling - Beeldvorming - Oordeelvorming - Bevelgeving - Opvolging) pour la gestion de crise civile.
 
 A ces méthodes s'ajoutent des attitudes, qu'[Olivier Sibony](https://www.youtube.com/watch?v=FZJwRRsmeyY) résume par la notion de **système de prise de décisions, formel et systématique**, au sein duquel la "contradiction [est] recherchée, les désaccords exprimés, les incertitudes discutées et les critères explicités". 
 
