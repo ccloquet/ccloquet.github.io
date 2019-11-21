@@ -1,7 +1,7 @@
 ---
 title: "Décider en situation incertaine : quelques points de départ"
 permalink: decider
-published: false
+published: true
 tags: [softskills]
 ---
 
