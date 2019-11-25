@@ -30,7 +30,7 @@ permalink: /about_us/
 
 <p >Our external position allows us to <strong>bridge the gap between public entities</strong> that would otherwise be disconnected, allowing for relevant and non-confidential but often unaccessible information and innovation to flow when appropriate.</p>
 
-<p ><strong>Diversity</strong> and <strong>inclusion</strong> are key to resiliency and we want to promote them. When appropriate, we for instance collaborate with the consultants of <a href='https://passwerk.be'>Passwerk</a>, who are carrying an autistic syndrom disorder (ASD) to test the software we develop.</p>
+<p ><strong>Diversity</strong> and <strong>inclusion</strong> are key to resiliency and we want to promote them. <a href='https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/'>Diversity makes us smarter</a>. When appropriate, we for instance collaborate with the consultants of <a href='https://passwerk.be'>Passwerk</a>, who are carrying an autistic syndrom disorder (ASD) to test the software we develop.</p>
 
 <p >We believe that resiliency is built by <strong>strengthening</strong> both the <strong>links</strong> within local communities and the exchanges – knowledge, experiences, arts and necessary goods and services – with distant communities.</p>
 
@@ -58,7 +58,7 @@ permalink: /about_us/
 
 <p >Our holistic and systemic approach allows to consider the objectives, people and means within the same living picture. This ensures strategies are applicable, people are respected and means are used at their full potential.</p>
 
-<p ><strong>Confidence</strong>, that goes through <strong>ethics</strong> and <strong>integrity</strong> and <strong>open collaboration</strong> at each step and towards every person involved or impacted are core for us. We value your <strong>autonomy</strong>, through which we try to stay away from position revenues. It goes through <strong>open products</strong> each time it is possible (<a href="https://blog.my-poppy.eu/open_source/">open-source</a>, open data, …) and the open sharing of our expertise, like on our <a href='https://blog.my-poppy.eu'>blog</a>. </p>
+<p ><strong>Confidence</strong>, that goes through <strong>ethics</strong> and <strong>integrity</strong> and <strong>open collaboration</strong> at each step and towards every person involved or impacted are core for us. We value your <strong>autonomy</strong>, through which we try to stay away from position revenues. It goes through <strong>open products</strong> each time it is possible (<a href="https://blog.my-poppy.eu/open_source/">open-source</a>, open data, …) and the open sharing of our expertise, like on our <a href='https://blog.my-poppy.eu'>blog</a>, even though <a href='https://docs.my-poppy.eu/20181027_geong_poppy_v2.pdf'>both open-source and proprietary</a> are needed at this time. </p>
 
 <p >We are not perfect, tough, and we engage willingly in conversations with you to better respect our values, and make them evolve.</p>
 
