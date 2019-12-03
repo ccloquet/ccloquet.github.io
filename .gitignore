@@ -1,8 +1,8 @@
 
-*.swp
+*.un~
+*.md~
+*.html~
 *.yml~
 *.scss~
-*.md~
-*.txt~
-*.html~
 *.js~
+*.swp

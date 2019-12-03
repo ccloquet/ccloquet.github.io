@@ -1,10 +1,10 @@
 _includes/footer/custom.html
 
-fas / fab -> fa (font awesome) (footer.html, social-share.html, ...)
+fas / fab -> fa (font awesome) (footer.html, social-share.html, tag-list.html, ...)
 
 _data/navigation.yml
-_pages
-_posts
+_pages (dont tag-archive.md)
+_posts 
 
 _saas/minimal-mistakes/
 	_reset.scss
