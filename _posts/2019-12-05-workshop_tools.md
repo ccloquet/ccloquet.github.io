@@ -4,7 +4,7 @@ published: true
 tags: [tools,strategy]
 ---
 
-La semaine passée, nous avons vu quelques outils intéressants en planification d'urgence et en gestion de crise. Mais la forge ne fait pas le forgeron... À quels critères ces outils doivent-il répondre ? Dans quelle mesure sont-ils nécessaires ? Et dans quel cadre s'inscrivent-ils ? Nous avons profité du calme relatif de l'été pour y réfléchir avec vous au cours de deux ateliers participatifs destnés aux membres des disciplines et des autorités.
+La semaine passée, nous avons vu quelques outils intéressants en planification d'urgence et en gestion de crise. Mais la forge ne fait pas le forgeron... À quels critères ces outils doivent-il répondre ? Dans quelle mesure sont-ils nécessaires ? Et dans quel cadre s'inscrivent-ils ? Nous avons profité du calme relatif de l'été pour y réfléchir avec vous au cours de deux ateliers participatifs destinés aux membres des disciplines et des autorités.
 
 Qu'en ressort-il notamment ?
 
