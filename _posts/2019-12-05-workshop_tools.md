@@ -4,7 +4,7 @@ published: true
 tags: [tools]
 ---
 
-La semaine passée, nous avons vu quelques outils intéressants en planification d'urgence et en gestion de crise. Mais la forge ne fait pas le forgeron... À quels critères ces outils doivent-il répondre ? Dans quelle mesure sont-ils nécessaires ? Et dans quel cadre s'inscrivent-ils ? Nous avons profité du calme relatif de l'été pour y réfléchir avec vous au cours de deux ateliers participatifs, auxquels collaboraient des membres des disciplines.
+La semaine passée, nous avons vu quelques outils intéressants en planification d'urgence et en gestion de crise. Mais la forge ne fait pas le forgeron... À quels critères ces outils doivent-il répondre ? Dans quelle mesure sont-ils nécessaires ? Et dans quel cadre s'inscrivent-ils ? Nous avons profité du calme relatif de l'été pour y réfléchir avec vous au cours de deux ateliers participatifs destnés aux membres des disciplines et des autorités.
 
 Qu'en ressort-il notamment ?
 
@@ -18,24 +18,24 @@ Qu'en ressort-il notamment ?
 2. Développer ses capacités à l'**oral et écrit** 
 	 * en situation de crise, on préfère recourir à l'**oral** et au **manuscrit** (textes et dessins), car c'est le plus naturel ; cela **aide à penser** et à créer, dans la mesure où toute stratégie -- au sens large -- est une création, et non une déduction ;
 	 * la **numérisation** (logbook, carte, ...) ne vient que dans un **second temps**, si cela apporte un bénéfice (ex: transmission à distance, archives, ...) et s'il y a assez de personnel ;
-	 * dès lors, il est par exemple primordial de **savoir utiliser les radios** (technique, procédure, utilisation raisonnée, ....) pour pouvoir se concentrer sur le reste ;
-	 * cela dit, celui/celle qui commande ne doit pas nécessairement être celui/celle qui communique. Principe du transmetteur militaire, qui assiste l'officier.
+	 * dès lors, il est par exemple primordial de **savoir utiliser les radios efficacement** (technique, procédure, utilisation raisonnée, ....) pour pouvoir se concentrer sur le reste ;
+	 * cela dit, celui/celle qui commande ne doit pas nécessairement être celui/celle qui communique par radio. Principe du transmetteur militaire, qui assiste l'officier.
  
 3. Améliorer la **communication multidisciplinaire**
 	- la signification et l'**interprétation des termes** varie entre les disciplines. Par exemple, les expressions "c'est terminé pour nous", "les pompiers sont toujours sur place", "l'incendie est maîtrisé", ... n'ont pas la même signification selon les disciplines ;
 	-  d'où un besoin de **terminologies communes**, rendues notamment possibles par les plans préalables ;
-	-  en situation, déclencher rapidement une **phase de coordination** pour permettre la compréhension entre les disciplines grâce à la coordination multidisciplinaire que permet le PC-OPS ;
+	-  en situation, déclencher rapidement une **phase de coordination** pour faciliter la compréhension entre les disciplines grâce à la coordination multidisciplinaire que permet le PC-OPS ;
 	-  en préparation, besoin de formations à la **communication active** spécifique "situation de crise" (se mettre à la place de l'autre, reformuler, ...) ;
 	 - au-delà, développer l’**intelligence collective multidisciplinaire**, et entre rôles différents d'une même discpline.
 
 4. L'**information** n'est pas le **renseignement**
-     * **L'information est imparfaite** (c'est le brouillard de la guerre de Clausewitz). On dit aussi que « la carte n’est pas le territoire ». Ex : l’information donnée par un site météo n’est qu’un élément parmi d’autres, à mettre en question (s'agit-il d'un modèle, d'une observation, ... ?), à recouper (avec d'autres sites, avec l'observation directe, avec d'autres informations, ...).
+     * **L'information est imparfaite** (c'est le brouillard de la guerre de Clausewitz). On dit aussi que « la carte n’est pas le territoire ». Ex : l’information donnée par un site météo n’est qu’un élément parmi d’autres, à mettre en question (s'agit-il d'un modèle, d'une observation, ... ?), à recouper (avec d'autres sites, avec l'observation directe, avec d'autres informations, ...) ;
 	 * Un renseignement est une information vérifiée et recoupée. Or, **capter et vérifier l’information prend du temps**. Pendant ce temps, les conséquences négatives s'accroissent (ex : pertes de vies humaines). Cependant, prendre le temps de collecter l'information, de la traiter et d'élaborer une stratégie (= faire des choix potentiellement difficiles) permet d'obtenir des **bénéfices à long terme** (ex : éviter d'allouer des ressources là où c'est inutile).  
 	 
 5. **Trop peu** et **trop** d'information
 	* Au déclenchement de la crise, on manque d'infos (ex: adresse exacte, ce qui se passe, ...) ;
-	* Ensuite, rapidement **trop d'information non validée**, ce qui engendre une perte d'énergie (si je reçois l'info, je dois la traiter, que ce soit par moi-même ou en y dédiant du personnel et des ressources pour la vérifier (ex: hélicoptère)) ;
-	* Il faut dès lors planifier en tenant compte de ce **besoin de trier** et de **qualifier** l'information (en situation de crise, plus de personnel sera nécessaire pour résoudre une situation qui paraîtrait simple a posteriori, et ce notamment à cause de l'énergie nécessaire à lever les incertitudes).
+	* Ensuite, rapidement **trop d'information non validée**, ce qui engendre une perte d'énergie (si je reçois l'info, je dois la traiter, que ce soit par moi-même ou en y dédiant du personnel et des ressources pour la vérifier (ex: faire voler un hélicoptère)) ;
+	* Il faut dès lors planifier en tenant compte de ce **besoin de trier** et de **qualifier** l'information (en situation de crise, du personnel supplémentaire sera nécessaire pour résoudre une situation qui paraîtrait simple a posteriori, et ce notamment à cause de l'énergie nécessaire à lever les incertitudes).
 
 6. L'**information préalable** est **nécessaire** et **inutile** à la fois
 	* le titre est un peu provocateur, mais illustre la tension qui existe en réalité ;
