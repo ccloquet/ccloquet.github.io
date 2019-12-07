@@ -2,7 +2,7 @@
 title: "Décider en situation incertaine : quelques points de départ"
 permalink: decider
 published: true
-tags: [softskills]
+tags: [softskills,strategy]
 ---
 
 Quel est le point commun entre la gestion de crise et l'entrepreneuriat ?
