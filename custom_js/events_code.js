@@ -1,12 +1,18 @@
-events.sort(function(a,b){
-  // Turn your strings into dates, and then subtract them
-  // to get a value that is either negative, positive, or zero.
-  return new Date(a[6]) - new Date(b[6]);
-});
 
 $(document).ready(function()
 {
 	var html1 = '<ul>', html2 = '</ul>'
+
+	events.sort(
+	function(a,b)
+	{
+  		// Turn your strings into dates, and then subtract them
+	  	// to get a value that is either negative, positive, or zero.
+  		return new Date(a[6]) - new Date(b[6]);
+	}
+	);
+
+
 
 	for (var i=0; i<events.length; ++i)
 	{
@@ -22,7 +28,9 @@ $(document).ready(function()
 		}
 	}
 	html1+= "</ul>"
+	
 	html2= "<ul>"+html2
+
 	$('#events2come').html(html1)
 	$('#eventspast').html(html2)
 })
