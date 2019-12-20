@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.astrid.be/fr/actualites/save-date-astrid-user-days-2020', 'ASTRID User Days 2020', '18 et 19 Novembre 2020', 'Louvexpo, La Louvière', 'TBD', '2020-11-19'],
 ['http://www.safecluster.com/essai/numerique-risques-opportunites-pour-la-securite-des-espaces-publics/', 'Numérique – Sécurité des Espaces Publics', 'Safe Cluster', '14 janvier 2020', 'Palais de la Bourse à Lyon', '180€', '2020-01-14'],
 ['https://www.interschutz.de/en/?ecmId=25908&ecmUid=582000&newsletter=is/2020/b/en/51/bindung/none/Weihnachtsmailing', 'READY FOR THE FUTURE', 'INTERSCHUTZ', '15 au 20 juin 2020', 'Hannover/Germany', '20-45€', '2020-06-20'],
 ['https://www.eventbrite.fr/e/billets-services-publics-durgence-quelle-articulation-autour-du-112-86607725037 https://ifrasec.us10.list-manage.com/track/click?u=93fd83c7ceb08a5c3948e33ac&id=185ec6a4f5&e=396333f6fb', 'Services publics d urgence : quelle articulation autour du 112 ?', 'Institut français de sécurité civile' , 'Mardi 14 janvier 2020 de 16h à 20H', 'Assemblée nationale', 'gratuit', '2020-01-14'],
