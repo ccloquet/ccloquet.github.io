@@ -1,10 +1,10 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
-['https://www.astrid.be/fr/actualites/save-date-astrid-user-days-2020', 'ASTRID User Days 2020', '18 et 19 Novembre 2020', 'Louvexpo, La Louvière', 'TBD', '2020-11-19'],
+['https://www.astrid.be/fr/actualites/save-date-astrid-user-days-2020', 'ASTRID User Days 2020', '', '18 et 19 Novembre 2020', 'Louvexpo, La Louvière', 'TBD', '2020-11-19'],
 ['http://www.safecluster.com/essai/numerique-risques-opportunites-pour-la-securite-des-espaces-publics/', 'Numérique – Sécurité des Espaces Publics', 'Safe Cluster', '14 janvier 2020', 'Palais de la Bourse à Lyon', '180€', '2020-01-14'],
 ['https://www.interschutz.de/en/?ecmId=25908&ecmUid=582000&newsletter=is/2020/b/en/51/bindung/none/Weihnachtsmailing', 'READY FOR THE FUTURE', 'INTERSCHUTZ', '15 au 20 juin 2020', 'Hannover/Germany', '20-45€', '2020-06-20'],
-['https://www.eventbrite.fr/e/billets-services-publics-durgence-quelle-articulation-autour-du-112-86607725037 https://ifrasec.us10.list-manage.com/track/click?u=93fd83c7ceb08a5c3948e33ac&id=185ec6a4f5&e=396333f6fb', 'Services publics d urgence : quelle articulation autour du 112 ?', 'Institut français de sécurité civile' , 'Mardi 14 janvier 2020 de 16h à 20H', 'Assemblée nationale', 'gratuit', '2020-01-14'],
+['https://www.eventbrite.fr/e/billets-services-publics-durgence-quelle-articulation-autour-du-112-86607725037', 'Services publics d urgence : quelle articulation autour du 112 ?', 'Institut français de sécurité civile' , '14 janvier 2020 de 16h à 20H', 'Assemblée nationale', 'gratuit', '2020-01-14'],
 ['https://www.cartong.org/fr/geong/2020', '7ème forum des données pour l humanitaire et le développement', 'GeONG', '2 au 4 novembre 2020', 'Chambéry', 'TBD', '2020-11-04'],
 ['https://www.bsigroup.com/en-GB/our-services/Organizational-Resilience/resilience-series/annual-conference-2019/', 'Organizational Resilience Annual Conference', 'BSI', '27 novembre 2020', 'Londres', '200 GBP', '2019-11-27'],
 ['https://www.health.belgium.be/fr/conference-le-leadership-autrement', 'Le leadership autrement', 'SPF Santé publique', '02 décembre 2019', 'Bruxelles', 'Gratuit', '2019-12-02'],
@@ -19,7 +19,7 @@ var events = [
 ['http://www.gidmc.org/', '2nd Edition of the Global Inclusive Disaster Management Conference and Exhibition', 'GIDMC', '1 et 2 juillet 2019', 'New Delhi', 'gratuit', '2019-07-02'],
 ['http://www.gi4dm2019.org/', 'GeoInformation For Disaster Management', 'GI4DM 2019', '3 au 6 septembre 2019', 'Prague', 'gratuit', '2019-09-06'],
 ['https://www.imdr.eu/offres/gestion/actus_818_38533-2252/entretiens-du-risque-2019.html', 'Dimension éthique dans la maîtrise des risques', 'entretiens IMDR', '3 et 4 décembre 2019', 'Paris', '75-420 €', '2019-12-04'],
-['https://lambdamu22.sciencesconf.org/', 'Les risques au coeur des transitions', 'congrès IMDR', '12 au 15 octobre 2020', 'Le Havre', 'gratuit', '2020-10-15'],
+['https://lambdamu22.sciencesconf.org/', 'Les risques au coeur des transitions', 'congrès IMDR', '12 au 15 octobre 2020', 'Le Havre', 'TBA', '2020-10-15'],
 ['https://www.securityresearch-cou.eu/SRE-2020', 'SECURITY RESEARCH EVENT 2020', 'European commission', '25 et 26 novembre 2020', 'Bonn', 'gratuit', '2020-11-26'],
 ['https://www.eventbrite.com/e/cartographie-pragmatique-pour-coordinateurstrices-planu-tickets-77124931747', 'Cartographie pragmatique pour coordinateurs/trices planu', 'Formation Poppy', '13 février 2019 de 13 à 17h', 'Bruxelles', '120 €', '2019-02-13'],
 ['https://www.eventbrite.com/e/cartographie-pragmatique-pour-coordinateurstrices-planu-tickets-77124929741', 'Cartographie pragmatique pour coordinateurs/trices planu', 'Formation Poppy', '23 janvier 2019 de 13 à 17h', 'Bruxelles', ' 120 €', '2019-01-23'],
