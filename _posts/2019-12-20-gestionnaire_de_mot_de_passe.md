@@ -37,6 +37,8 @@ Quel que soit l'outil utilisé, il y a **toujours une contrepartie** : prix, cr�
 
 Ceci rentre cependant souvent en conflit avec l'utilisabilité, qui demande de la simplicité (combien de fois la porte sécurisée par un code secret compliqué n'est pas bloquée en position ouverte pour éviter de retaper le code 10 fois par jour...) . Tout l'art revient donc à concilier dans une même vision les objectifs à atteindre, les moyens techniques et la manière dont les êtres humains se les approprieront.
 
+Merci à l'utilisateur qui m'a posé cette question !
+
 -------------------
 
 
