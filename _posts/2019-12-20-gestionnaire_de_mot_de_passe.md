@@ -8,18 +8,18 @@ Pour la plupart des utilisateurs et utilisatrices aujourd'hui, le risque majeur 
 
 Ensemble avec d'autres solutions, comme l'authentification à deux facteurs, un **gestionnaire de mots de passe** peut mitiger ce risque.  Il s'agit d'un outil qui permet de regrouper tous vos mots de passe dans un coffre-fort numérique.
 
-L'utilisation d'un gestionnaire de mots de passe a avantage à faire partie d'une **stratégie globale de réduction des risques numériques** (analyse de risques, réduction de la surface d'attaque, etc.). Elle est en général recommandée pour :
--   éviter d'utiliser le même mot de passe sur différents comptes
--   éviter des mots de passe "bricolés"
--   éviter de devoir écrire les mots de passe (sur papier ou dans un fichier "en clair")  
--   permettre des mots de passe forts : longues suites aléatoires de lettres et de chiffres
+L'utilisation d'un gestionnaire de mots de passe a avantage à faire partie d'une **stratégie globale de réduction des risques numériques** (analyse de risques, réduction de la surface d'attaque, etc.). Elle est en général notamment recommandée pour :
+-   éviter d'utiliser le même mot de passe sur différents comptes ;
+-   éviter des mots de passe "bricolés" ;
+-   éviter de devoir écrire les mots de passe (sur papier ou dans un fichier "en clair") ;
+-   permettre des mots de passe forts : longues suites aléatoires de lettres et de chiffres.
 
 La sécurité des gestionnaires de mot de passe est basée sur :
 -   un mot de passe de base, à conserver précieusement.  
 	-   si celui-ci est perdu, il n'est plus possible d'accéder aux mots de passe
 	-   si celui-ci est compromis, d'autres personnes peuvent accéder à l'ensemble de vos mots de passe
 
--   le chiffrement des mots de passe par le gestionnaire.  Les services comme [1password](https://support.1password.com/1password-security/) ou [Lastpass](https://www.lastpass.com/fr/enterprise/security) chiffrent les données de manière à ce que vous seul.e y ait accès (chiffrement de bout en bout) ;
+-   le chiffrement des mots de passe par le gestionnaire.  Les services comme [1password](https://support.1password.com/1password-security/) ou [Lastpass](https://www.lastpass.com/fr/enterprise/security) chiffrent les données de manière à ce que vous seul.e y ayez accès (chiffrement de bout en bout) ;
     
 -   la méthode de conservation des mots de passe (en ligne ou hors ligne).
 
