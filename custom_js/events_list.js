@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.eventbrite.fr/e/billets-services-publics-durgence-quelle-articulation-autour-du-112-86607725037 https://ifrasec.us10.list-manage.com/track/click?u=93fd83c7ceb08a5c3948e33ac&id=185ec6a4f5&e=396333f6fb', 'Services publics d urgence : quelle articulation autour du 112 ?', 'Institut français de sécurité civile' , 'Mardi 14 janvier 2020 de 16h à 20H', 'Assemblée nationale', 'gratuit', '2020-01-14'],
 ['https://www.cartong.org/fr/geong/2020', '7ème forum des données pour l humanitaire et le développement', 'GeONG', '2 au 4 novembre 2020', 'Chambéry', 'TBD', '2020-11-04'],
 ['https://www.bsigroup.com/en-GB/our-services/Organizational-Resilience/resilience-series/annual-conference-2019/', 'Organizational Resilience Annual Conference', 'BSI', '27 novembre 2020', 'Londres', '200 GBP', '2019-11-27'],
 ['https://www.health.belgium.be/fr/conference-le-leadership-autrement', 'Le leadership autrement', 'SPF Santé publique', '02 décembre 2019', 'Bruxelles', 'Gratuit', '2019-12-02'],
