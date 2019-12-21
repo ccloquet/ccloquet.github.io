@@ -35,7 +35,7 @@ Pour comprendre les risques liés à un gestionnaire de mots de passe, l'analogi
 
 Quel que soit l'outil utilisé, il y a **toujours une contrepartie** : prix, création d'un risque, ... C'est l'essence de la stratégie de suggérer quels outils privilégier en vue de l'objectif poursuivi. Impossible de se prémunir de tous les risques, il faut choisir. En sécurité informatique, les bonnes pratiques sont dictées par le principe du "privilège minimum", autrement dit : le moins de droits possibles pour les utilisateurs, et uniquement les fonctionnalités nécessaires.
 
-Ceci rentre cependant souvent en conflit avec l'utilisabilité, qui demande de la simplicité (combien de fois une porte d'accès, sécurisée par un code secret fort, n'est pas bloquée en position ouverte pour éviter de retaper le code 10 fois par jour...) . Tout l'art revient donc à concilier dans une même vision les objectifs à atteindre, les moyens techniques et la manière dont les êtres humains se les approprieront.
+Ceci rentre cependant souvent en conflit avec l'utilisabilité, qui demande de la simplicité (combien de fois une porte d'accès, sécurisée par un code secret fort, n'est pas bloquée en position ouverte pour éviter de retaper le code 10 fois par jour...). Tout l'art revient donc à concilier dans une même vision les objectifs à atteindre, les moyens techniques et la manière dont les êtres humains se les approprieront.
 
 Merci à l'utilisateur qui m'a posé cette question !
 
