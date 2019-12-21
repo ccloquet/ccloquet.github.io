@@ -6,7 +6,7 @@ tags: [tools,security]
 
 Pour la plupart des utilisateurs et utilisatrices aujourd'hui, le risque majeur lié aux applications sur internet est produit par des [mots de passe trop faibles](https://press.avast.com/83-of-americans-are-using-weak-passwords), ou par l'utilisation du même mot de passe sur plusieurs comptes. Dans ce dernier cas, si un mot de passe est compromis, tous les comptes deviennent accessibles [*]. 
 
-Ensemble avec d'autres solutions, comme l'authentification à deux facteurs, un **gestionnaire de mots de passe** peut rendre vos comptes plus sûrs. Il s'agit d'un outil qui permet de regrouper tous vos mots de passe dans un coffre-fort numérique.
+Ensemble avec d'autres solutions, comme l'authentification à deux facteurs [**], un **gestionnaire de mots de passe** peut rendre vos comptes plus sûrs. Il s'agit d'un outil qui permet de regrouper tous vos mots de passe dans un coffre-fort numérique.
 
 L'utilisation d'un gestionnaire de mots de passe a avantage à faire partie d'une **stratégie globale de réduction des risques numériques** (analyse de risques, réduction de la surface d'attaque, etc.). Elle est en général notamment recommandée pour :
 -   éviter d'utiliser le même mot de passe sur différents comptes ;
@@ -43,6 +43,8 @@ Merci à l'utilisateur qui m'a posé cette question !
 
 
 [*] vérifiez [si un de vos comptes a été piraté](https://haveibeenpwned.com/). Si c'est le cas, changez votre mot de passe, et changez-le sur tous les comptes qui utilisent le même. 
+
+[**] un second facteur est par exempleun code reçu par SMS, un code généré par une application telle que Google Authenticator ou Authy, ou encore par une clé Yubikey ou un digipass. Pour les applis à utiliser en getsion de crise, privilégiez un second facteur qui ne dépend pas du réseau GSM, afin d'éviter d'être coincés lorsque le réseau est saturé. Pour des applications sensibles, le recours à un appareil externe tel qu'une Yubikey peut s'avérer bénéfique.
 
 <iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
 
