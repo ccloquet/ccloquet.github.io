@@ -8,7 +8,7 @@ Pour la plupart des utilisateurs et utilisatrices aujourd'hui, le risque majeur 
 
 Ensemble avec d'autres solutions, comme l'authentification à deux facteurs [\*\*], un **gestionnaire de mots de passe** peut rendre vos comptes plus sûrs. Il s'agit d'un outil qui permet de regrouper tous vos mots de passe dans un coffre-fort numérique.
 
-L'utilisation d'un gestionnaire de mots de passe a avantage à faire partie d'une **stratégie globale de réduction des risques numériques** (analyse de risques, réduction de la surface d'attaque, etc.). Elle est en général notamment recommandée pour :
+L'utilisation d'un gestionnaire de mots de passe a avantage à faire partie d'une **stratégie globale de réduction des risques numériques** (analyse de risques à 360° prenant en compte la confidentialité, l'intégrité et la disponibilité, ainsi que le contexte ; réduction de la surface d'attaque, etc.). Elle est en général notamment recommandée pour :
 -   éviter d'utiliser le même mot de passe sur différents comptes ;
 -   éviter des mots de passe "bricolés" ;
 -   éviter de devoir écrire les mots de passe (sur papier ou dans un fichier "en clair") ;
