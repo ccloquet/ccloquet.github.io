@@ -1,6 +1,8 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.urcc2020.eu/', 'Urban Resilience in a Context of Climate Change', 'projet européen RESCCUE', '9-10 mars 2020', 'Barcelone', '', '2020-03-10'],
+['https://cordis.europa.eu/event/id/147619-crisis-management-professionals-invited-to-the-driver-advanced-crisis-management-conference-i', 'Advanced Crisis Management Conference', 'projet européen Driver+', '19-20 février 2020', 'Brussels', 'gratuit', '2020-02-19'],
 ['https://www.astrid.be/fr/actualites/save-date-astrid-user-days-2020', 'ASTRID User Days 2020', '', '18 et 19 Novembre 2020', 'Louvexpo, La Louvière', 'TBD', '2020-11-19'],
 ['http://www.safecluster.com/essai/numerique-risques-opportunites-pour-la-securite-des-espaces-publics/', 'Numérique – Sécurité des Espaces Publics', 'Safe Cluster', '14 janvier 2020', 'Palais de la Bourse à Lyon', '180€', '2020-01-14'],
 ['https://www.interschutz.de/en/?ecmId=25908&ecmUid=582000&newsletter=is/2020/b/en/51/bindung/none/Weihnachtsmailing', 'READY FOR THE FUTURE', 'INTERSCHUTZ', '15 au 20 juin 2020', 'Hannover/Germany', '20-45€', '2020-06-20'],
