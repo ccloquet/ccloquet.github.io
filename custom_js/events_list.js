@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.cmdrcoe.org/menu.php?m_id=2&c_id=79', 'Crisis Management in 21st Century', 'Crisis Management and Disaster Response COE Annual Conference', '2-3 juin 2020', 'Lieu', '115 €', '2020-02-06'],
 ['https://www.eventbrite.com/e/hospital-emergency-plan-boosting-group-tickets-88699447435/', 'Hospital Emergency Plan Boosting Group', 'atelier Poppy', '7 mai 2020', 'Namur', 'gratuit', '2020-05-07'],
 ['https://www.urcc2020.eu/', 'Urban Resilience in a Context of Climate Change', 'projet européen RESCCUE', '9-10 mars 2020', 'Barcelone', '', '2020-03-10'],
 ['https://cordis.europa.eu/event/id/147619-crisis-management-professionals-invited-to-the-driver-advanced-crisis-management-conference-i', 'Advanced Crisis Management Conference', 'projet européen Driver+', '19-20 février 2020', 'Brussels', 'gratuit', '2020-02-19'],
