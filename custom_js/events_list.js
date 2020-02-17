@@ -2,7 +2,7 @@
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
   
-['https://afiu.be/formations/introduction-a-lorganisation-durgence-a-la-centrale-nucleaire-de-tihange-8-juin-2020-10-septembre-2020/', 'Introduction à l’organisation d’urgence de la Centrale Nucléaire de Tihange', 'réservé aux membres de la discipline 2', '10 juin 2020 de 13h à 17h', 'Thiange', 'gratuit', '2020-06-10'],  
+['https://afiu.be/formations/introduction-a-lorganisation-durgence-a-la-centrale-nucleaire-de-tihange-8-juin-2020-10-septembre-2020/', 'Introduction à l’organisation d’urgence de la Centrale Nucléaire de Tihange', 'réservé aux membres de la discipline 2', '10 septembre 2020 de 13h à 17h', 'Thiange', 'gratuit', '2020-09-10'],  
 ['https://afiu.be/formations/introduction-a-lorganisation-durgence-a-la-centrale-nucleaire-de-tihange-8-juin-2020-10-septembre-2020/', 'Introduction à l’organisation d’urgence de la Centrale Nucléaire de Tihange', 'réservé aux membres de la discipline 2', '8 juin 2020 de 13h à 17h', 'Thiange', 'gratuit', '2020-06-08'],
 ['https://www.facebook.com/events/816786808837370/830141890835195', '2de Wetenschappelijke Avond rond Evenementen', 'Mass Gathering Solutions', '9 avril 2020 de 18:30 à 22:30', 'Melle (Belgique)', 'gratuit', '2020-04-09'],
 ['https://www.psc-europe.eu/', 'Public Safety Communications Conference', 'PSCE Europe (hosted by Belgian Federal Police)', '30 juin-2 juillet 2020', 'Bruxelles', 'TBD', '2020-07-02'],
