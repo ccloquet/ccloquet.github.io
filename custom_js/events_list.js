@@ -1,6 +1,7 @@
 //du 05/06/2019 au 07/06/2019 — Nancy, France                 Conférence INRS 2019-Les risques biologiques
 var events = [
 //['URL', 'TITRE', 'SOUS-TITRE', 'Dates et éventuellement heures', 'Lieu', 'prix', 'Date du jour ou du dernier jour en format YYYY-MM-DD'],
+['https://www.cmdrcoe.org/menu.php?m_id=2&c_id=51', 'Disaster Management Course', '', '18-22 mai 2020', 'Sofia - Bulgarie', '200 €', '2020-05-22'],
 ['https://www.cmdrcoe.org/menu.php?m_id=2&c_id=38', 'Strategic Decision Making for Crisis Response Operations Course', '', '23-27 novembre 2020', 'Sofia, Bulgarie', '200 €', '2020-11-27'],
 ['https://www.aerospace-valley.com/agenda/rencontre-g%C3%A9orisque-l%E2%80%99information-geographique-au-service-de-la-gestion-des-risques-et-des', 'Géorisque', ' L\'information géographique au service de la gestion des risques et des crises', '4-5 février 2020', 'Nîmes', 'gratuit', '2020-02-05'],
 ['https://www.cmdrcoe.org/menu.php?m_id=2&c_id=79', 'Crisis Management in 21st Century', 'Crisis Management and Disaster Response COE Annual Conference', '2-3 juin 2020', 'Lieu', '115 €', '2020-02-06'],
