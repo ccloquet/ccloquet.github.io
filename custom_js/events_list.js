@@ -23,7 +23,7 @@ var events = [
 //['https://sparkconferences.com/mesures-durgence/', 	'Planification des mesures d’urgence dans les établissements de soins de santé', '', '3-4 décembre 2020', 'Montréal', '150-700 CAN', 	'2020-12-04'],
 //['http://www.entente-valabre.com/technosdays/',		'Vers les technologies 3.0, de la formation à la gestion de crise', 	'Technos Days Valabre',	'mai 2020', 	'Valabre', 'gratuit',  	'2020-05-01'],
 //['https://www.interschutz.de/en/?ecmId=25908&ecmUid=582000&newsletter=is/2020/b/en/51/bindung/none/Weihnachtsmailing', 'READY FOR THE FUTURE', 'INTERSCHUTZ', '15 au 20 juin 2020', 'Hannover/Germany', '20-45€', '2020-06-20'],
-
+//['https://www.facebook.com/gestioncrise/', 		'7ème session du MOOC Gestion de crise', 'Université Paris II & École des Officiers de la Gendarmerie Nationale', 'à partir du 6 janvier 2020', 'internet', 'gratuit', '2020-03-01'],
 ['http://www.safecluster.com/essai/numerique-risques-opportunites-pour-la-securite-des-espaces-publics/', 'Numérique – Sécurité des Espaces Publics', 'Safe Cluster', '14 janvier 2020', 'Palais de la Bourse à Lyon', '180€', '2020-01-14'],
 ['https://www.eventbrite.fr/e/billets-services-publics-durgence-quelle-articulation-autour-du-112-86607725037', 'Services publics d urgence : quelle articulation autour du 112 ?', 'Institut français de sécurité civile' , '14 janvier 2020 de 16h à 20h', 'Assemblée nationale', 'gratuit', '2020-01-14'],
 ['https://www.health.belgium.be/fr/conference-le-leadership-autrement', 'Le leadership autrement', 'SPF Santé publique', '02 décembre 2019', 'Bruxelles', 'Gratuit', '2019-12-02'],
@@ -38,7 +38,7 @@ var events = [
 ['https://www.imdr.eu/offres/gestion/actus_818_38533-2252/entretiens-du-risque-2019.html', 'Dimension éthique dans la maîtrise des risques', 'entretiens IMDR', '3 et 4 décembre 2019', 'Paris', '75-420 €', '2019-12-04'],
 ['https://www.eventbrite.com/e/cartographie-pragmatique-pour-coordinateurstrices-planu-tickets-77124931747', 'Cartographie pragmatique pour coordinateurs/trices planu', 'Formation Poppy', '13 février 2019 de 13 à 17h', 'Bruxelles', '120 €', '2019-02-13'],
 ['https://www.eventbrite.com/e/cartographie-pragmatique-pour-coordinateurstrices-planu-tickets-77124929741', 'Cartographie pragmatique pour coordinateurs/trices planu', 'Formation Poppy', '23 janvier 2019 de 13 à 17h', 'Bruxelles', ' 120 €', '2019-01-23'],
-['https://www.facebook.com/gestioncrise/', 		'7ème session du MOOC Gestion de crise', 'Université Paris II & École des Officiers de la Gendarmerie Nationale', 'à partir du 6 janvier 2020', 'internet', 'gratuit', '2020-03-01'],
+
 
 ['https://www.chl.lu/fr/agenda/journee-securite-et-hopital-2019', 'Protection des hôpitaux face aux risques émergents', 'Société Luxembourgeoise de Médecine d’Urgence (info de <a href="https://www.linkedin.com/in/thomastonneau/">T. Tonneau</a>, formateur)', '17 octobre 2019', 'Luxembourg', '65-85 €', '2019-10-17'],
 ['https://www.diekeure.be/fr-be/formations/9860/ar-planification-durgence-locale-2019', 'AR Planification d’urgence locale 2019', 'Analyse des nouveautés les plus importantes', '14 novembre 2019', 'Wavre', '75 €', '2019-11-14'],
