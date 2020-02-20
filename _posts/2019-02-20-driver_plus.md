@@ -3,7 +3,6 @@ title: Driver
 published: true
 tags: [tools,europe,network,security]
 ---
-
 Cette semaine avait lieu la conférence de clôture du projet européen "Driver+", consacré à l'innovation en gestion de crise. 
 
 Ce projet contribue à dynamiser notre domaine, notamment en favorisant la collaboration, avec plusieurs outils et méthodologies, et notamment :
