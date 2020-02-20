@@ -3,7 +3,7 @@ title: "Projet Driver+ : un réseau européen de l'innovation en gestion de cris
 published: true
 tags: [tools,europe,network,security]
 ---
-Cette semaine avait lieu la conférence de clôture du projet européen "Driver+", consacré à l'innovation en gestion de crise. 
+Cette semaine avait lieu la conférence de clôture du projet européen "[Driver+](https://www.driver-project.eu)", consacré à l'innovation en gestion de crise. 
 Ce projet contribue à dynamiser notre domaine, notamment en favorisant la collaboration, avec plusieurs outils et méthodologies, et notamment :
 
  - [CMine](https://www.cmine.eu) : un réseau social des praticiens, entreprises, policy makers, ... liés à la gestion de crise en Europe  👉 c'est gratuit, faites-vous membre ;
