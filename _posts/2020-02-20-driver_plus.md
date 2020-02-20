@@ -8,7 +8,7 @@ Ce projet contribue à dynamiser notre domaine, notamment en favorisant la colla
 
  - [CMine](https://www.cmine.eu) : un réseau social des praticiens, entreprises, policy makers, ... liés à la gestion de crise en Europe  👉 c'est gratuit, faites-vous membre ;
  <center>
-<img height="350" src="https://blog.my-poppy.eu/images/cmine1.PNG">&nbsp;&nbsp;<img height="350" src="https://blog.my-poppy.eu/images/cmine2.PNG">
+<img height="250" src="https://blog.my-poppy.eu/images/cmine1.PNG">&nbsp;&nbsp;<img height="250" src="https://blog.my-poppy.eu/images/cmine2.PNG">
 </center>
  
  - [PoS](https://pos.driver-project.eu/en/PoS/solutions) : un portfolio de solutions techniques, avec notamment des **évaluations de praticiens** 👉  vous pouvez y signaler vos besoins et il vous suggèrera des solutions possibles ;
