@@ -8,7 +8,7 @@ Ce projet contribue à dynamiser notre domaine, notamment en favorisant la colla
 
  - [CMine](https://www.cmine.eu) : un réseau social des praticiens, entreprises, policy makers, ... liés à la gestion de crise en Europe  👉 inscrivez-vous, c'est gratuit ! ;
  <center>
-<img style="height:250px" src="https://blog.my-poppy.eu/images/cmine1.PNG">&nbsp;&nbsp;<img style="height:250px" src="https://blog.my-poppy.eu/images/cmine2.PNG">
+<img style="height:350px" src="https://blog.my-poppy.eu/images/cmine1.PNG">&nbsp;&nbsp;<img style="height:350px" src="https://blog.my-poppy.eu/images/cmine2.PNG">
 </center>
  
  - [PoS](https://pos.driver-project.eu/en/PoS/solutions) : un portfolio de solutions techniques, avec notamment des **évaluations de praticiens** 👉  vous pouvez y signaler vos besoins et il vous suggèrera des solutions possibles ;
@@ -19,7 +19,7 @@ Il a aussi été question de [Fire-IN](https://fire-in.eu), un **réseau europé
 
 Et la technologie là-dedans ? Comme l'a souligné Kees Boersma (VU Amsterdam), elle n'a pas le pouvoir de résoudre les problèmes sociaux ou institutionnels. Par contre, lorsqu'elle est **centrée sur les besoins des utilisateurs**, même si elle est imparfaite, elle peut fournir un levier bienvenu pour des transformations en profondeur.
 
-Plus d'infos sur ce projet sur : https://www.driver-project.eu et sur la **communauté des utilisateurs de la recherche en sécurité** sur https://www.securityresearch-cou.eu/home.
+Plus d'infos sur ce projet sur : [driver-project.eu](https://www.driver-project.eu) et sur la **communauté des utilisateurs de la recherche en sécurité** sur [securityresearch-cou.eu](https://www.securityresearch-cou.eu/home).
 
 N'hésitez pas à suivre également notre [blog](https://blog.my-poppy.eu/events_upcoming) sur lequel vous trouverez les prochains évènements en gestion de crise, et à venir échanger sur ces thématiques lors des [évènements que nous organisons](https://blog.my-poppy.eu/workshops). 
 
