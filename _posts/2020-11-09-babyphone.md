@@ -10,7 +10,7 @@ Dans certains cas, des babyphones sont utilisés pour transmettre les alarmes ve
 Le besoin d'une solution robuste et versatile est dès lors apparue, afin de relaye rles alarmes de n'importe quel appareil biomédical, et de spécifier quelel alarme sonne. Nous proposons une solution basée sur un ensemble d'appareils robustes et bon marché (Raspberry Pi 4) mis en réseau. La distinction entre différentes alarmes/appareils est réalisée en attachant **un micro par appareil** et grâce à une **analyse fréquentielle** des sons émis.
 
 <center>
-<img style="height:350px" src="https://github.com/ccloquet/ICU-babyphone/blob/main/icu_babyphone.png">&nbsp;&nbsp;<img style="height:350px" src="https://blog.my-poppy.eu/images/cmine2.PNG">
+<img style="height:350px" src="https://raw.githubusercontent.com/ccloquet/ICU-babyphone/main/icu_babyphone.png"> 
 </center>
   
 Plus d'infos sur ce projet sur [GitHub](https://github.com/ccloquet/ICU-babyphone). Discutons-en et développons-le ensemble!
