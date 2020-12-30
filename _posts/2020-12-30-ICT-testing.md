@@ -10,18 +10,20 @@ Pour éviter que l'analyse qui a été réalisée à cette occasion ne soit perd
 Qu'en pensez-vous ? Le dipositif proposé est-il adapté à l'enjeu ? Sous-dimensionné ? Overkill ? Partagez vos idées !  Vous voulez une analyse profesionnelle pour un projet *mission-critical* ? Discutons-en !
 
 **Vision générale**
-L'AVIQ souhaite déployer 3 centres de testing, chacun permettant de tester au minimum 750 personnes par jour. L'emplacement de ces centres n'est pas déterminé à priori, si bien qu'une solution "tout-terrain" permet la plus grande souplesse. 
+L'AVIQ souhaite déployer 3 centres de testing, chacun permettant de tester au minimum 750 personnes par jour. L'emplacement de ces centres n'est pas déterminé *a priori*, si bien qu'une solution "tout-terrain" permet la plus grande souplesse. 
 
-Les centres doivent fonctionner pendant un minimum de 6 mois, rencontrant potentiellement des conditions de panne d'électricité hivernales, telles que nous en avons vécues en 2017 et 2018, voire du délestage, des pannes de réseau telles qu'elles surviennent fréquemment, etc.
+Les centres doivent fonctionner pendant un minimum de 6 mois, rencontrant potentiellement des conditions de panne d'électricité hivernales, telles que nous en avons vécues en 2017 et 2018, voire du délestage, des pannes de réseau de téléphone et internet telles qu'elles surviennent fréquemment, etc.
 
-La performance des centres de testing dépend de manière critique de la robustesse de l’infrastructure ICT et de l’approvisionnement électrique.
+Or, la performance des centres de testing dépend de manière critique de la robustesse de l’infrastructure ICT et de l’approvisionnement électrique.
 
 Toute interruption de la chaîne de test peut mener à des risques de contamination dans la file d'attente, des coûts d'inactivité du personnel, des retards dans les résultats pour les patients et au final une moins grande maîtrise de l'épidémie, sans compter le défaut d'image qui découlerait d'une telle désorganisation.
 
 Nous proposons dès lors une solution ICT orientée disponibilité, et visant un temps de résolution de la majorité des incidents de 10 minutes. Cet objectif est rencontré grâce à :
 
   (1) une infrastructure robuste et redondante, de qualité "chantier" ;
+
   (2) un plan de **maintenance préventive** pour détecter les problèmes avant qu'ils ne surviennent ;
+
   (3) un plan de **réaction en cas d’incidents**, basé sur une **analyse de risques**, du matériel de **réserve pré-positionné**, et pouvant compter sur du personnel contactable-rappelable à proximité des centres.
 
 Pour nous seconder, nous pouvons compter sur des sociétés leaders sur leurs marchés, avec du personnel qualifié et réactif, et des contrats de maintenance et de dépannage à 2 niveaux.
