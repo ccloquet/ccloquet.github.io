@@ -53,7 +53,7 @@ Nous appliquons les principes de service « [ITIL](https://fr.wikipedia.org/wiki
 - La téléphonie IP permet une indépendance par rapport à un fournisseur spécifique et une résilience en cas de panne. 
  - Des GSM de secours avec connexion 4G sont également prévus.
 
-Enfin, sur site, les communications seront assurées par  des radios portables professionnelles Kenwood avec lience IBPT, fournies clés en main avec chargeurs et service par [LocationTalkie](http://locationtalkie.be/).
+Enfin, sur site, les communications seront assurées par  des radios portables numériques professionnelles Kenwood avec lience IBPT, fournies clés en main avec chargeurs et service par [LocationTalkie](http://locationtalkie.be/).
 
 *Equipement de secours* :
 - groupe électrogène de secours (soit alimentation de ville + 1 groupe électrogène, soit 2 groupes électrogènes)
