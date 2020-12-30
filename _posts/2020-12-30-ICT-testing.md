@@ -24,7 +24,7 @@ Nous proposons dès lors une solution ICT orientée disponibilité, et visant un
 
   (2) un plan de **maintenance préventive** pour détecter les problèmes avant qu'ils ne surviennent ;
 
-  (3) un plan de **réaction en cas d’incidents**, basé sur une **analyse de risques**, du matériel de **réserve pré-positionné**, et du personnel contactable-rappelable à proximité des centres.
+  (3) un plan de **réaction en cas d’incidents**, basé sur une **analyse de risques**, du matériel de **réserve pré-positionné**, et du personnel contactable-rappelable, de garde à proximité des centres.
 
 Pour nous seconder, nous pouvons compter sur des sociétés leaders sur leurs marchés, avec du personnel qualifié et réactif, et des contrats de maintenance et de dépannage à 2 niveaux.
 
