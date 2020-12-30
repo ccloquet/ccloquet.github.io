@@ -64,9 +64,10 @@ Enfin, sur site, les communications seront assurées par  des radios portables n
 
 Afin de prioriser notre proposition, nous avons réalisé une analyse de risques préliminaire. Celle-ci sera affinée une fois le projet démarré, et tout au long du projet.
 
-<img style="height:350px" src="https://blog.my-poppy.eu/images/20201124_analyse_de_risques_v3-1.png?a=1">
-
-<img style="height:350px" src="https://blog.my-poppy.eu/images/20201124_analyse_de_risques_v3-2.png?a=1">
+<div style="background:rgba(255,255,255,.8)">
+<img src="https://blog.my-poppy.eu/images/20201124_analyse_de_risques_v3-1.png?a=1"><br>
+<img src="https://blog.my-poppy.eu/images/20201124_analyse_de_risques_v3-2.png?a=1">
+</div>
 
 **Services**
 Outre le monitoring et le support technique rapide prévu par les fournisseurs, un plan de **maintenance préventive** est mis en place 1 x / semaine. Il permet de **détecter les problèmes avant qu'ils ne conduisent à une panne**. Il s'agit notamment de :
