@@ -7,7 +7,7 @@ Récemment, nous avons participé à un appel d'offres de l'[AVIQ](https://www.a
 
 Pour éviter que l'analyse qui a été réalisée à cette occasion ne soit perdue, nous avons décidé de la partager avec vous, afin qu'elle puisse bénéficier à d'autres projets, tels que la vaccination, ou d'autres infrastructures de gestion de crise, en Belgique ou ailleurs **#plusfortsensemble** **#samensterker** **#11millions**. 
 
-Qu'en pensez-vous ? Le dipositif proposé est-il adapté à l'enjeu ? Sous-dimensionné ? Overkill ? Partagez vos idées !  Vous voulez une analyse profesionnelle pour un projet *mission-critical* ? Discutons-en !
+Qu'en pensez-vous ? Le dipositif proposé est-il adapté à l'enjeu ? Sous-dimensionné ? Overkill ? Partagez vos idées !  Vous voulez une analyse profesionnelle pour un projet *mission-critical* ? Discutons-en ! Contactez-nous par email (christophe@my-poppy.eu) ou par téléphone.
 
 **Vision générale**
 L'AVIQ souhaite déployer 3 centres de testing, chacun permettant de tester au minimum 750 personnes par jour. L'emplacement de ces centres n'est pas déterminé *a priori*, si bien qu'une solution "tout-terrain" permet la plus grande souplesse. 
@@ -70,6 +70,7 @@ Afin de prioriser notre proposition, nous avons réalisé une analyse de risques
 </div>
 
 **Services**
+
 Outre le monitoring et le support technique rapide prévu par les fournisseurs, un plan de **maintenance préventive** est mis en place 1 x / semaine. Il permet de **détecter les problèmes avant qu'ils ne conduisent à une panne**. Il s'agit notamment de :
   - Vérification des problèmes potentiels (humidité, rayons directs du soleil, câbles détachés, …)
   - Nettoyage du matériel (dépoussiérage, …)
@@ -79,11 +80,12 @@ Outre le monitoring et le support technique rapide prévu par les fournisseurs, 
 
 **Apprentissage en continu**
 
-Le système proposé est résilient aux pannes par design. Le risque zéro n’existe pas, si bien qu’un plan de contingence est prévu.
+Le système proposé est résilient *par design* aux pannes. Le risque zéro n’existe pas, si bien qu’un plan de contingence est prévu.
 
 Afin d’améliorer le système en continu en apprenant des défaillances, les **incidents seront enregistrés** sur un formulaire en ligne, en mentionnant : date/heure/lieu, priorité (critique, normal, bas, presque-incident), nature, description, **causes organisationnelles** (ex : manque de formation, choix de l’emplacement de l’installation, procédure inadéquate, …). Les maintenances et **presqu’incidents** (= situations anormales n’ayant pas entraîné de dégâts) seront enregistrées aussi car elles annoncent des incidents potentiels. En effet, un incident est souvent précédé de plusieurs presqu’incidents.
 
 **Procédures**
+
 Afin de simplifier les opérations, une série de procédures est prévue. Celles-ci ont vocation à être **améliorées grâce au système d'apprentissage en continu**. Il s'agit notamment de :
 
 - Installation
@@ -99,7 +101,7 @@ Afin de simplifier les opérations, une série de procédures est prévue. Celle
     - Routeur en panne
    - Panne d'électricité
    
-Qu'en pensez-vous ? Le dipositif proposé est-il adapté à l'enjeu ? Sous-dimensionné ? Overkill ? Partagez vos idées !  Vous voulez une analyse profesionnelle pour un projet *mission-critical* ? Discutons-en !
+Qu'en pensez-vous ? Le dipositif proposé est-il adapté à l'enjeu ? Sous-dimensionné ? Overkill ? Partagez vos idées !  Vous voulez une analyse profesionnelle pour un projet *mission-critical* ? Discutons-en ! Contactez-nous par email (christophe@my-poppy.eu) ou par téléphone.
 
 <iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
 
