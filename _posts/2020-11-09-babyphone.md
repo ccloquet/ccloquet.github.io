@@ -1,7 +1,7 @@
 ---
 title: "Un babyphone numérique amélioré pour les soins intensifs"
 published: true
-tags: [tools,icu]
+tags: [tools,icu,covid19]
 ---
 Au cours de la crise de la Covid-19, des unités de soins intensifs temporaires ont été créées, avec des chambres d'isolement. Ces chambres ont été équipées de matériel biomédical (monitorings, pousses-seringues, circulations extra-corporelles, ...), dont les **alarmes sont souvent inaudibles en dehors des chambres**. ÀX "5!/ cause de l'urgence et de la nature temporaire de ces chambres, ces appareils ne sont pas toujours reliés à une console centrale, et lorsque c'est le cas, il n'y a pas toujours d'infirmier.e derrière cette console.
 
