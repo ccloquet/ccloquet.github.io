@@ -47,7 +47,7 @@ Nous appliquons les principes de service « [ITIL](https://fr.wikipedia.org/wiki
   - **4G** (2 modems indépendants disposant chacun d’une carte SIM multi-opérateurs. Les 2 modems sont configurés sur 2 opérateurs différents, avec bascule automatique en cas de panne). 2 antennes GSM externes permettent une meilleure réception réseau en milieu isolé ;
   - internet par **satellite** (VSAT).
 
-  Les 3 liens sont agrégés au sein d’un même routeur de qualité « chantier » (routeur Peplink, pour une facilité d’utilisation par l’utilisateur final)
+  Les 3 liens sont agrégés au sein d’un même routeur de qualité « chantier » (Peplink), pour une facilité d’utilisation par l’utilisateur final)
 
 *Téléphonie* fournie par [AlloCloud](https://www.allocloud.com/fr)
 - La téléphonie IP permet une indépendance par rapport à un fournisseur spécifique et une résilience en cas de panne. 
