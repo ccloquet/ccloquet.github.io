@@ -16,7 +16,7 @@ La ventilation naturelle d'un logement ou d'une pièce de vie correspond à envi
 
 Comment évaluer l'ACH de votre bureau ou salle de classe ? Il faut pour cela évaluer le temps pour que de l'air pollué se renouvelle. Et le polluant le plus simple à utiliser est le dioxyde de carbone, à la fois car nous en émettons toutes et tous et caril existe des capteurs portables fiables et bon marché. Vous trouverez plus de détails sur la manière de procéder [ici](https://schools.forhealth.org/wp-content/uploads/sites/19/2020/08/Harvard-Healthy-Buildings-program-How-to-assess-classroom-ventilation-08-28-2020.pdf) et [ici](https://medium.com/@jjose_19945/how-to-quantify-the-ventilation-rate-of-an-indoor-space-using-a-cheap-co2-monitor-4d8b6d4dab44).
 
-Vous n'avez pas le temps pour faire étudier le sujet, mesurer et calculer ? Votre situation est plus compliquée ? 
+Vous n'avez pas le temps pour étudier le sujet, mesurer et calculer ? Votre situation est plus compliquée ? Vous préférez la faire analyser par un physicien ?
 
 Contactez-nous via info@my-poppy.eu pour un service personnalisé !
 
