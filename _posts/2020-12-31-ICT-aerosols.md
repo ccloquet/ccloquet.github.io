@@ -20,9 +20,7 @@ Comment évaluer l'ACH de votre bureau ou de votre classe ? Il faut pour cela é
 
 Au delà d'un niveau de risque, une telle étude peut vous indiquer comment réduire le risque: faut-il porter de meilleurs masques (ex: FFP2) ? Mieux ventiler, et comment (ex: combien de temps ouvrir les fenêtres, quelles fenêtres ouvrir) ? Filtrer l'air avec un filtre HEPA ? Réduire le temps passé dans le local ? À cet effet, les conseils de la [REHVA](https://www.rehva.eu/activities/covid-19-guidance) sont également précieux.
 
-Vous n'avez pas le temps pour étudier toutes les subtilités de ce sujet, ni de mesurer et calculer ? Votre situation est plus compliquée ? Vous préférez la faire analyser par un physicien ?
-
-[Contactez-nous](mailto:info@my-poppy.eu) via pour un service personnalisé !
+Vous n'avez pas le temps pour étudier toutes les subtilités de ce sujet, ni de mesurer et calculer ? Votre situation est plus compliquée ? Vous préférez la faire analyser par un physicien ? [Contactez-nous](mailto:info@my-poppy.eu) via pour une analyse personnalisée !
 
 
 <iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
