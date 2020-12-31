@@ -4,7 +4,7 @@ published: true
 tags: [tools,ict,testing,covid19]
 ---
 
-On sait désormais que les [principales voies de transmission](https://covid-19.sciensano.be/sites/default/files/Covid19/COVID-19_fact_sheet_ENG.pdf) du Sars-Cov-2 sont les gouttelettes, le contact du nez, de la bouche et des yeux par les mains ayant touché des objets contaminés, et les aérosols.
+On sait désormais que les [principales voies de transmission](https://covid-19.sciensano.be/sites/default/files/Covid19/COVID-19_fact_sheet_ENG.pdf) du Sars-Cov-2 sont les gouttelettes, le contact du nez-bouche-yeux par les mains ayant touché des objets contaminés, et les aérosols (micro-gouttelettes en suspension dans l'air).
 
 Si les contre-mesures aux gouttelettes et aux contacts sont assez bien connus (distance, lavage des mains, masques), la parade aux aérosols est le renouvellement de l'air. Mais quel est le risque associé à une situation donnée et combien d'air faut-il renouveler ?
 
