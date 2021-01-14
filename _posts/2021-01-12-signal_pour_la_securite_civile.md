@@ -32,7 +32,7 @@ Le mérite essentiel de [Whatsapp](https://www.whatsapp.com) sur les autres appl
 
 **Telegram**
 
-[Telegram](https://telegram.org/) est utilisable sur PC sans avoir besoin d'un GSM allumé à côté, et est programmable, ce qui présente certains atouts pour la sécurité civile. Par contre, il est moins chiffré que Whatsapp (il faut volontairement créer un "Secret Chat" pour que les données soient chiffrées).
+[Telegram](https://telegram.org/) est utilisable sur PC sans avoir besoin d'un GSM connecté à internet, et est programmable, ce qui présente certains atouts pour la sécurité civile. Par contre, il est moins chiffré que Whatsapp (il faut volontairement créer un "Secret Chat" pour que les données soient chiffrées).
 
 **Signal**
 
