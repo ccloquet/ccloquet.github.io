@@ -36,7 +36,7 @@ Le mérite essentiel de [Whatsapp](https://www.whatsapp.com) sur les autres appl
 
 **Signal**
 
-À ce jour, Signal est un bon compromis. Il est (devenu) "grand public", il est chiffré de bout en bout avec un algorithme de grande qualité, dispose des fonctionnalités essentielles de Whatsapp (y compris les appels vidéos) et le code est open source (= chacun.e peut vérifier que le chiffrement est solide). La [Commission Européenne l'utilise d'ailleurs pour les contacts avec l'extérieur](https://www.theverge.com/2020/2/24/21150918/european-commission-signal-encrypted-messaging).
+À ce jour, Signal est un bon compromis. Il est (devenu) "grand public", il est chiffré de bout en bout avec un algorithme de grande qualité, n'enregistre pas les métadonnées, dispose des fonctionnalités essentielles de Whatsapp (y compris les appels vidéos) et son code est open source (= chacun.e peut vérifier que le chiffrement est solide). La [Commission Européenne l'utilise d'ailleurs pour les contacts avec l'extérieur](https://www.theverge.com/2020/2/24/21150918/european-commission-signal-encrypted-messaging).
 
 Attention que Signal (tout comme Telegram et Whatsapp) ne publie pas ses statistiques de **disponibilité**, et que les utilisateurs n'ont **aucune garantie ni recours contre une éventuelle panne**. Même si l'équipe est très motivée, les développeurs n'ont pas la sécurité civile comme focus et n'ont aucune obligation, ni de résultat, ni de moyens. L'historique des pannes et une analyse plus approfondie peut donner un meilleur aperçu de ce qu'on peut en  attendre en termes de disponibilité.
 
