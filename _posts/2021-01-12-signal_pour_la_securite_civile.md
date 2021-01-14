@@ -53,7 +53,7 @@ Pour aborder quelques autres outils couramment utilisés :
   - Le **mail** est très peu sécurisé (s'il n'est pas chiffré, cela revient à envoyer une carte postale que le facteur peut lire). Pourtant des documents qui ne devraient pas être lisibles par tous y circulent quotidiennement
   - le **SMS** est vulnérable également, au travers du [SS7](https://www.nextinpact.com/article/26416/104214-ss7-apres-interceptions-sms-securite-reseaux-mobiles-en-question).
   - **Microsoft Teams** (abondamment utilisé par les services publics) n'est pas chiffré de bout en bout et pose aussi question sur le plan de la souveraineté (by the way -- ce blog est hébergé sur GitHub une entreprise rachetée il y a peu par Microsoft). 
-- Sauf exception, les applications web métier ne sont pas résilientes aux congestions de réseau.
+- Sauf exception, les applications web métier ne sont pas résilientes aux congestions du réseau GSM.
 
 **Facteur humain**
 La sécurité informatique repose en réalité beaucoup sur l'humain (cf, ex, [intrusion récente dans une réunion des ministres européens de la Défense](https://www.rtbf.be/info/medias/detail_un-journaliste-neerlandais-parvient-a-s-introduire-dans-une-videoconference-confidentielle-de-l-ue?id=10636662)) : protéger l'appli par mot de passe, utiliser un mot de passe différent par service web, installer les mises à jour, etc
