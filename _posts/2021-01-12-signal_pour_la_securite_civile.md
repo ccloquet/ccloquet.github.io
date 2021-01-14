@@ -28,7 +28,7 @@ Revue rapide de quelques outils
 -
 **Whatsapp**
 
-Le mérite essentiel de [Whatsapp](https://www.whatsapp.com) sur les autres applications est qu'il ~~est~~ était facile et rapide d'inclure quelqu'un dans une discussion, puisque la personne ~~dispose~~ disposait déjà l'application et l'~~utilise~~ utilisait au quotidien. Whatsapp est chiffré de bout en bout, les messages restent donc confidentiels (même s'il y a de temps en temps des failles). Ce qu'elle enregistre au sujet des utilisateurs/trices sont les [métadonnées](https://www.numerama.com/politique/161153-whatsapp-cache-le-contenu-mais-garde-toujours-les-metadonnees-du-contenant.html) (ce qui est déjà beaucoup).
+Le mérite essentiel de [Whatsapp](https://www.whatsapp.com) sur les autres applications est qu'il ~~est~~ était facile et rapide d'inclure quelqu'un dans une discussion, puisque la personne ~~dispose~~ disposait déjà l'application et l'~~utilise~~ utilisait au quotidien. Whatsapp est chiffré de bout en bout, les messages restent donc confidentiels (même s'il y a de temps en temps des failles). Ce qu'elle enregistre au sujet des utilisateurs/trices sont les [métadonnées](https://www.numerama.com/politique/161153-whatsapp-cache-le-contenu-mais-garde-toujours-les-metadonnees-du-contenant.html) (ce qui représente une quantté considérable de données).
 
 **Telegram**
 
