@@ -17,7 +17,7 @@ Le choix d'un outil (ici, de messagerie) doit cependant reposer sur l'analyse de
 En voici un exemple succinct, basée sur ma compréhension de la culture de la sécurité civile (plus de détails sur les critères en fin de ce post) :
 <center><img src='https://blog.my-poppy.eu/images/ilffoifdofkjadna.png?a=1'></center>
 
-En gestion de crise, la **simplicité**, la **disponibilité** et la **résilience aux conditions de travail dégradées** sont souvent plus appréciées par les utilisateur.rice.s que les autres facteurs, *a fortiori* dans un environnement multi-organisations, et seraient dès lors plus fortement pondérées que les autres dans ce tableau. L'intérêt de la sécurité (confidentialité, vie privée, intégrité, ...) est souvent sous-estimé. 
+En gestion de crise, la **simplicité**, la **disponibilité** et la **résilience aux conditions de travail dégradées** sont souvent plus appréciées par les utilisateur.rice.s que les autres facteurs, *a fortiori* dans un environnement multi-organisations, et sont dès lors souvent plus fortement pondérées que les autres dans ce tableau. La sécurité (confidentialité, vie privée, intégrité, ...) mériterait cependant une attention plus grande. 
 
 Vu le mouvement actuel vers **[Signal](https://signal.org/fr/)**, c'est peut-être un bon moment d'y passer également, car il respecte mieux la vie privée, tout en faisant au moins aussi bien que Whatsapp sur les autres critères. 
 
