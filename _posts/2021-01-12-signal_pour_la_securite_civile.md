@@ -56,7 +56,7 @@ Pour aborder quelques autres outils couramment utilisés :
 - Sauf exception, les applications web métier ne sont pas résilientes aux congestions de réseau.
 
 **Facteur humain**
-La sécurité informatique repose en réalité beaucoup sur l'humain (cf, ex, [intrusion récente dans une réunion des ministres européens de la Défense](https://www.rtbf.be/info/medias/detail_un-journaliste-neerlandais-parvient-a-s-introduire-dans-une-videoconference-confidentielle-de-l-ue?id=10636662)) : protéger l'appli par mot de passe, utiliser un mot de passe différent par service, installer les mises à jour, etc
+La sécurité informatique repose en réalité beaucoup sur l'humain (cf, ex, [intrusion récente dans une réunion des ministres européens de la Défense](https://www.rtbf.be/info/medias/detail_un-journaliste-neerlandais-parvient-a-s-introduire-dans-une-videoconference-confidentielle-de-l-ue?id=10636662)) : protéger l'appli par mot de passe, utiliser un mot de passe différent par service web, installer les mises à jour, etc
 
 Enfin, une mitigation pour le risque d'indisponibilité est de s'habituer à [jongler avec différents outils](https://docs.my-poppy.eu/2016_kta_poppy_devancer_inattendu.pdf), de garder une curiosité pour la nouveauté et de [s'attendre à être surpris](https://www.lesechos.fr/2003/10/patrick-lagadec-il-faut-se-preparer-collectivement-a-la-surprise-675973).
 
@@ -65,7 +65,7 @@ Enfin, une mitigation pour le risque d'indisponibilité est de s'habituer à [jo
 -
 Pour un déplacement latéral rapide à partir de Whatsapp compte tenu des contraintes actuelles : **Signal** est un bon candidat, **si l'on a conscience de ses faiblesses potentielles**. 
 
-Au-delà, une analyse participative des coûts et bénéfices des services de messagerie dédiés à la sécurité civile s'impose : le gratuit peut se révéler très cher au final ! 
+Au-delà, une analyse participative des coûts et bénéfices des outils dédiés à la sécurité civile s'impose : le gratuit peut se révéler très cher au final.
 
 Enfin, au sein de la communauté de la sécurité civile, une plus grande culture de la sécurité (qui ne se limite pas à la confidentialité) permettra d'aborder avec plus de sérénité les défis de demain.
 
