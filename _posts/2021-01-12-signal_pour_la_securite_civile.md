@@ -44,7 +44,7 @@ Question résilience à la **congestion du réseau** GSM : bien que Signal fonct
 
 **Element**
 
-Element.io (l'appli utilisée par le gouvernement français, mais pas que) utilise des serveurs **décentralisés**, ce qui augmente encore (théoriquement) la sécurité et la robustesse. Elle peut être installée sur des serveurs gérés par un service public ; reste à imaginer ensemble ce qui permettrait d'en assurer une haute disponibilité.
+[Element.io](https://element.io) (l'appli utilisée par le gouvernement français, mais pas que) utilise des serveurs **décentralisés**, ce qui augmente encore (théoriquement) la sécurité et la robustesse. Elle peut être installée sur des serveurs gérés par un service public ; reste à imaginer ensemble ce qui permettrait d'en assurer une haute disponibilité.
 
 **Autres outils**
 
