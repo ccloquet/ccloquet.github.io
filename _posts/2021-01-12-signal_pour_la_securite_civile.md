@@ -27,12 +27,15 @@ Vu le mouvement actuel vers **[Signal](https://signal.org/fr/)**, c'est peut-êt
 Revue rapide de quelques outils
 -
 **Whatsapp**
+
 Le mérite essentiel de [Whatsapp](https://www.whatsapp.com) sur les autres applications est qu'il ~~est~~ était facile et rapide d'inclure quelqu'un dans une discussion, puisque la personne ~~dispose~~ disposait déjà l'application et l'~~utilise~~ utilisait au quotidien. Whatsapp est chiffré de bout en bout, les messags restent donc confidentiels (même s'il y a de temps en temps des failles). Ce qu'elle enregistre au sujet des utilisateurs/trices sont les [métadonnées](https://www.numerama.com/politique/161153-whatsapp-cache-le-contenu-mais-garde-toujours-les-metadonnees-du-contenant.html) (ce qui est déjà beaucoup).
 
 **Telegram**
+
 [Telegram](https://telegram.org/) est utilisable sur PC sans avoir besoin d'un GSM allumé à côté, et est programmable, ce qui présente certains atouts pour la sécurité civile. Par contre, il est moins chiffré que Whatsapp (il faut volontairement créer un "Secret Chat" pour que les données soient chiffrées).
 
 **Signal**
+
 À ce jour, Signal est un bon compromis. Il est (devenu) "grand public", il est chiffré de bout en bout avec un algorithme de grande qualité, dispose des fonctionnalités essentielles de Whatsapp (y compris les appels vidéos) et le code est open source (= chacun.e peut vérifier que le chiffrement est solide). La [Commission Européenne l'utilise d'ailleurs pour les contacts avec l'extérieur](https://www.theverge.com/2020/2/24/21150918/european-commission-signal-encrypted-messaging).
 
 Attention que Signal (tout comme Telegram et Whatsapp) ne publie pas ses statistiques de **disponibilité**, et que les utilisateurs n'ont **aucune garantie ni recours contre une éventuelle panne**. Même si l'équipe est très motivée, les développeurs n'ont pas la sécurité civile comme focus et n'ont aucune obligation, ni de résultat, ni de moyens. L'historique des pannes et une analyse plus approfondie peut donner un meilleur aperçu de ce qu'on peut en  attendre en termes de disponibilité.
@@ -40,9 +43,11 @@ Attention que Signal (tout comme Telegram et Whatsapp) ne publie pas ses statist
 Question résilience à la **congestion du réseau** GSM : bien que Signal fonctionne aussi avec une connexion "Edge", il n'est pas clair comment elle se compare à Whatsapp en cas de congestion, et ce point est à étudier en laboratoire avant de prendre une décision de migration.
 
 **Element**
+
 Element.io (l'appli utilisée par le gouvernement français, mais pas que) utilise des serveurs **décentralisés**, ce qui augmente encore (théoriquement) la sécurité et la robustesse. Elle peut être installée sur des serveurs gérés par un service public ; reste à imaginer ensemble ce qui permettrait d'en assurer une haute disponibilité.
 
 **Autres outils**
+
 Pour aborder quelques autres outils couramment utilisés :
 
   - Le **mail** est très peu sécurisé (s'il n'est pas chiffré, cela revient à envoyer une carte postale que le facteur peut lire). Pourtant des documents qui ne devraient pas être lisibles par tous y circulent quotidiennement
