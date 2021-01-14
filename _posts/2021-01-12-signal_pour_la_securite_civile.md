@@ -10,9 +10,9 @@ Whatsapp a récemment adapté ses [conditions d'utilisation](https://www.whatsap
 
 Après de premières expérimentations par quelques pionniers en 2015 et avant, son utilisation a démarré en Belgique, dans l'urgence [au cours des attentats de mars 2016](https://www.rtl.be/info/belgique/faits-divers/attentats-a-bruxelles-voici-pourquoi-la-police-a-du-communiquer-via-whatsapp-pendant-les-operations-de-secours-805347.aspx), suite à la défaillance du réseau [ASTRID](https://www.astrid.be).
 
-Cinq ans plus tard, l'urgence est passée, qu'en est-il ? Du point de vue de la gouvernance, Whatsapp ne me semble pas adapté pour une utilisation dans un cadre professionnel, car elle ne semble pas permettre à l'employeur de respecter le [RGPD](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es) vis-à-vis de ses employés (cf. à ce sujet mon <a href='https://blog.my-poppy.eu/Whatsapp'>analyse de janvier 2019</a>).
+Cinq ans plus tard, l'urgence est passée. Qu'en est-il aujourd'hui ? Du point de vue de la gouvernance, Whatsapp pose question sur sa capacité à permettre à un employeur de respecter le [RGPD](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es) vis-à-vis de ses employés (cf. à ce sujet mon <a href='https://blog.my-poppy.eu/Whatsapp'>analyse de janvier 2019</a>).
 
-Le choix d'un outil (ici, de messagerie) doit reposer sur les **coûts & bénéfices [analysés selon différents critères](https://blog.my-poppy.eu/decider)**. La liste de critères et leur pondération appartient à chaque organisation, voire à chaque "culture". 
+Le choix d'un outil (ici, de messagerie) doit cependant reposer sur les **coûts & bénéfices [analysés selon différents critères](https://blog.my-poppy.eu/decider)**. La liste de critères et leur pondération appartient à chaque organisation, voire à chaque "culture". 
 Examinons donc ici les choses du point de vue de la culture de la sécurité civile.
 
 En voici une petite synthèse personnelle (plus de détails sur les critères en fin de ce post) :
