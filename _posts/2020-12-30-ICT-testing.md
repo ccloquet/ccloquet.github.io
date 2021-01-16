@@ -3,7 +3,7 @@ title: "Analyse de l'équipement et des services ICT nécessaires pour les villa
 published: true
 tags: [tools,ict,testing,covid19]
 ---
-Récemment, nous avons participé à un appel d'offres de l'[AVIQ](https://www.aviq.be/) pour le montage de trois **centres de testing** en Région Wallonne. Au sein du volet logistique, Poppy était responsable des aspects ICT. Le consortium que nous avions intégré n'a pas remporté le marché, même si le prix du volet logistique n'était pas en cause. 
+Récemment, nous avons participé pour le compte de la [société de logistique évènementielle Wabu](http://www.wabu.eu) à un appel d'offres de l'[AVIQ](https://www.aviq.be/) en vue du montage de trois **centres de testing** en Région Wallonne. Au sein du volet logistique, Poppy était responsable des aspects ICT. Le consortium que nous avions intégré n'a pas remporté le marché, même si le prix du volet logistique n'était pas en cause. 
 
 Pour éviter que l'analyse qui a été réalisée à cette occasion ne soit perdue, nous avons décidé de la partager avec vous, afin qu'elle puisse bénéficier à d'autres projets, tels que la vaccination, ou d'autres infrastructures de gestion de crise, en Belgique ou ailleurs **#plusfortsensemble** **#samensterker** **#11millions**. 
 
