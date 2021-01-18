@@ -1,5 +1,5 @@
 ---
-title: "Analyse de l'équipement et des services ICT nécessaires pour les villages-COVID en Région Wallonne"
+title: "Planification de l'équipement et des services ICT pour les villages-COVID en Région Wallonne"
 published: true
 tags: [tools,ict,testing,covid19]
 ---
