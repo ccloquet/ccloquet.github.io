@@ -36,6 +36,9 @@ Nous appliquons les principes de service « [ITIL](https://fr.wikipedia.org/wiki
 
 **Matériel**
 
+
+<img src='https://blog.my-poppy.eu/images/schema_ict_testing.png'>
+<br>
 *Équipement de base* fourni par [OneTec](https://www.onetec.eu/) :
 
 - matériel d'encodage : Laptop Intel Core i5 15,6'', lecteur de codes-barres, lecteur eID
@@ -68,7 +71,7 @@ Afin de prioriser notre proposition, nous avons réalisé une analyse de risques
 <img src="https://blog.my-poppy.eu/images/20201124_analyse_de_risques_v3-1.png?a=1"><br>
 <img src="https://blog.my-poppy.eu/images/20201124_analyse_de_risques_v3-2.png?a=1">
 </div>
-
+<br>
 **Services**
 
 Outre le monitoring et le support technique rapide prévu par les fournisseurs, un plan de **maintenance préventive** est mis en place 1 x / semaine. Il permet de **détecter les problèmes avant qu'ils ne conduisent à une panne**. Il s'agit notamment de :
