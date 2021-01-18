@@ -91,7 +91,7 @@ Afin d’améliorer le système en continu en apprenant des défaillances, les *
 
 **Procédures**
 
-Afin de simplifier les opérations, une série de procédures est prévue. Celles-ci ont vocation à être **améliorées grâce au système d'apprentissage en continu**. Il s'agit notamment de :
+Afin de simplifier les opérations, une série de procédures est prévue. Il s'agit notamment de :
 
 - Installation
 - Test du système de production
@@ -105,6 +105,8 @@ Afin de simplifier les opérations, une série de procédures est prévue. Celle
     - Problèmes de connectivité
     - Routeur en panne
    - Panne d'électricité
+
+Celles-ci ont vocation à être **améliorées grâce au système d'apprentissage en continu**.
    
 Qu'en pensez-vous ? Le dipositif proposé est-il adapté à l'enjeu ? Sous-dimensionné ? Overkill ? Partagez vos idées !  Vous voulez une analyse profesionnelle pour un projet *mission-critical* ? Discutons-en ! Contactez-nous par email (christophe@my-poppy.eu) ou par téléphone.
 
