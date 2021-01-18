@@ -5,7 +5,7 @@ tags: [tools,ict,testing,covid19]
 ---
 Récemment, nous avons participé pour le compte de la [société de logistique évènementielle Wabu](http://www.wabu.eu) à un appel d'offres de l'[AVIQ](https://www.aviq.be/) en vue du montage de trois **centres de testing** en Région Wallonne. Au sein du volet logistique, Poppy était responsable des aspects ICT. Le consortium que nous avions intégré n'a pas remporté le marché, même si le prix du volet logistique n'était pas en cause. 
 
-Pour éviter que l'analyse qui a été réalisée à cette occasion ne soit perdue, nous avons décidé de la partager avec vous, afin qu'elle puisse bénéficier à d'autres projets, tels que la vaccination, ou d'autres infrastructures de gestion de crise, en Belgique ou ailleurs **#plusfortsensemble** **#samensterker** **#11millions**. 
+Dans le cadre de cette crise, nous avons décidé de partager cette analyse avec vous, afin qu'elle puisse bénéficier à d'autres projets, tels que la vaccination, ou d'autres infrastructures de gestion de crise, en Belgique ou ailleurs **#plusfortsensemble** **#samensterker** **#11millions**. 
 
 Qu'en pensez-vous ? Le dipositif proposé est-il adapté à l'enjeu ? Sous-dimensionné ? Overkill ? Partagez vos idées !  Vous voulez une analyse profesionnelle pour un projet *mission-critical* ? Discutons-en ! Contactez-nous par email (christophe@my-poppy.eu) ou par téléphone.
 
@@ -85,7 +85,7 @@ Outre le monitoring et le support technique rapide prévu par les fournisseurs, 
 
 Le système proposé est résilient *par design* aux pannes. Le risque zéro n’existe pas, si bien qu’un plan de contingence est prévu.
 
-Afin d’améliorer le système en continu en apprenant des défaillances, les **incidents seront enregistrés** sur un formulaire en ligne, en mentionnant : date/heure/lieu, priorité (critique, normal, bas, presque-incident), nature, description, **causes organisationnelles** (ex : manque de formation, choix de l’emplacement de l’installation, procédure inadéquate, …). Les maintenances et **presqu’incidents** (= situations anormales n’ayant pas entraîné de dégâts) seront enregistrées aussi car elles annoncent des incidents potentiels. En effet, un incident est souvent précédé de plusieurs presqu’incidents.
+Afin d’améliorer le système en continu en apprenant des défaillances, les **incidents seront enregistrés** sur un <a href='https://docs.google.com/forms/d/e/1FAIpQLSfVRVjHEE4Q_jApWOuCQvHcTJLt7rjXxPmIcJuU1OPSRha26A/viewform'>formulaire en ligne</a>, en mentionnant : date/heure/lieu, priorité (critique, normal, bas, presque-incident), nature, description, **causes organisationnelles** (ex : manque de formation, choix de l’emplacement de l’installation, procédure inadéquate, …). Les maintenances et **presqu’incidents** (= situations anormales n’ayant pas entraîné de dégâts) seront enregistrées aussi car elles annoncent des incidents potentiels. En effet, un incident est souvent précédé de plusieurs presqu’incidents.
 
 **Procédures**
 
