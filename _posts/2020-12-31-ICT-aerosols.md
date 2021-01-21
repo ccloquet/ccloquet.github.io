@@ -1,7 +1,7 @@
 ---
 title: "Quantifier le risque aérosol"
 published: true
-tags: [tools,ict,testing,covid19]
+tags: [tools,aerosols,covid19,co2]
 ---
 
 On sait désormais que les [principales voies de transmission](https://covid-19.sciensano.be/sites/default/files/Covid19/COVID-19_fact_sheet_ENG.pdf) du Sars-Cov-2 sont les gouttelettes, le contact nez-bouche-yeux par les mains ayant touché des objets contaminés, et les aérosols (micro-gouttelettes en suspension dans l'air pendant plusieurs dizaines de minutes).
