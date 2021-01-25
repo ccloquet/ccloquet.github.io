@@ -10,6 +10,12 @@ tags: [tools,aerosols,covid19,co2,hepa,ach]
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js" integrity="sha512-nOQuvD9nKirvxDdvQ9OMqe2dgapbPB7vYAMrzJihw5m+aNcf0dX53m6YxM4LgA9u8e9eg9QX+/+mPu8kCNpV2A==" crossorigin="anonymous"></script>
 
 <script>
+// from https://embed.plnkr.co/0VPU1zmmWC5wmTKPKnhg/
+var keySize = 256;
+var ivSize = 128;
+var iterations = 100;
+
+
 var passphrase = window.prompt("Secret Passphrase")
 var encrypted = encrypt("Message", passphrase);
 var decrypted = decrypt(encrypted, passphrase);
