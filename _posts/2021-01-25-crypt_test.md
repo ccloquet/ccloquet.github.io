@@ -12,7 +12,7 @@ tags: [tools,aerosols,covid19,co2,hepa,ach]
 <script>
 var passphrase = window.prompt("Secret Passphrase")
 var encrypted = CryptoJS.AES.encrypt("Message", passphrase);
-var decrypted = 'D ' + CryptoJS.AES.decrypt(encrypted, passphrase);
+var decrypted = CryptoJS.AES.decrypt(encrypted, passphrase);
 $('#content').html(decrypted)
 </script>
 
