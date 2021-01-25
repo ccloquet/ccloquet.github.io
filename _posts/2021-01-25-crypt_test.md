@@ -15,9 +15,9 @@ var keySize = 256;
 var ivSize = 128;
 var iterations = 100;
 
-var encrypted = "317b84eaa17cbfb85cad0fc4b2cbc16d9ad90a622f09285b00a6687e771489efCVYzHxKcuoOZWziEYPDVJw=="
+var encrypted = "9df4d929d5a0e8308800d645ec56c7512a521f21bd8f659cd61442b38bcbdb07r9/pwy0mnmFoL5nr/gZPVeuCVFHI+58KQA8hUfrsT9o="
 
-var passphrase = window.prompt("Secret Passphrase")
+var passphrase = window.prompt("Ce post est privé. Veuillez entrer le mot de passe.")
 
 //var encrypted = encrypt("Message", passphrase);
 
