@@ -1,7 +1,7 @@
 ---
-title: "Webinar - Covid-19 & Aerosols 2"
+title: "Pannes du 112 - pistes pour plus de résilience"
 published: true
-tags: [tools,aerosols,covid19,co2,hepa,ach]
+tags: [resilience,HAM,citoyens]
 ---
 
 Feel free to download the slides of today's webinar <a href='https://blog.my-poppy.eu/images/20210121_covid_aerosols_poppy_webinar.pdf'>here</a>.
