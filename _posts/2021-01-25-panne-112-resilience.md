@@ -8,5 +8,71 @@ Le numéro d'urgence 112 a été [inaccessible en Belgique vendredi 8/1 de minui
 Cette panne nationale fait suite à celle d'[avril 2019](https://bx1.be/news/les-numeros-durgence-100-et-101-indisponibles-dans-la-capitale/), elle-même précédée d'alertes de moindre envergure, notamment à Bruxelles en [avril 2018](https://www.rtbf.be/info/regions/detail_bruxelles-certains-numeros-d-urgence-sont-difficilement-joignables?id=9890584), ou encore à l'étranger ([KPN](https://www.lecho.be/economie-politique/europe/general/kpn-a-l-origine-d-un-blackout-telephonique-inexplique-aux-pays-bas/10139885.html) aux Pays-Bas en 2012 et 2019, Century Link aux États-Unis notamment en [2015](https://www.theverge.com/2020/9/29/21494652/911-outage-centurylink-lumen-intrado), ...).
 
 
+<div id="content">
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js" integrity="sha512-nOQuvD9nKirvxDdvQ9OMqe2dgapbPB7vYAMrzJihw5m+aNcf0dX53m6YxM4LgA9u8e9eg9QX+/+mPu8kCNpV2A==" crossorigin="anonymous"></script>
+
+<script>
+// from https://embed.plnkr.co/0VPU1zmmWC5wmTKPKnhg/
+var keySize    = 256;
+var ivSize     = 128;
+var iterations = 100;
+
+var encrypted = "28AKVYKbtL9kecdXkMf9rHRsNgrP3KLmN+GRZX8nGYAaTRaEREOIidNRrE/bzMYBeO6trW1Wn5Z8MwJIpFCcc9Kq/h6KfRNKP0Yw/1I7rO62nfOcswa/pKF5cft4phKtuBY1T9/M1lJ8JZlYM/xkXAH/8hFIuGRWkKgruPTMEbAVGUyThVrdFHKcjopzwGqMuWvoEHbh7CNoVkZLS6jEJlscDgtA3ydAtaUCquAyKgKTJfMtv7xb5CiJseep28alswZ6p8HCgOkTouU9kIImgL9zCJjeFD++DZtYefEbPJ1nJJLzsXTvb0to5L2QVRD9WRvF3WDirhyu7jBR0mhILZOvWPIJr8HAvm5RqQfbhshltnsJ4NW8Wky8bh2g4Qtd7u0AW48byTOEYHYdXV0sSsCrhdRYzGHOG8E7DZ9DaFp1wO3VUGzU7+5aSXMrsCSU85pqJ9l2SEbf7iBZ1NdeBcUVZHZqssH+fWwMSuOq4VQIIZHYTR5J+uGTdyNmoRkpwPa73AYuW2Sj9x+9geFQu1FJo9ylDFV/giLCdld2GjZLiGX25bMeObkdmKATxzWEt4MuTvHD67LDT+48zfv35fL/mkSxvb4fIOVqYEDwHPI9awPOuJ+lqwRcfIV666v+fQS7dJ+kl2ywZkkbt+fzm8Kvo7xtf7LGp0miWwRLfzX8LDAmH9BRUv/la1ncKvoINgggogCFFRibPpE5EySpdXZMA9bDmjysuqmPouU1nE/HiCO/HTLC2/Lv0N9U9xPVSBxnC46mmMa3cBhQh6/j1JdyTfdkJOPXqxR9rASW3KTaIGNSdxPNekuSq5vIX1yEniuUmgceMq5xszPkUil84aj/+QnNXZOEz2PIEyp+GrTMnXVh0cCfegDSSqk88hGB4kH17UQ2mxLAgCUYR7Mxtk9At1PXYBHJGrq7babaVplH3QrvsCg0F1LWvM6GhRZtqC12/rgn9MaFQ5EBXrjl7o2M+sovNfiJKU9t/OfPhlkpQn4O6M+P7ZOQr14S8AuGS88jQ2CVnKZ9dxj77yNL/MUWdGbTjsutJQlzi9YxzG7hHixr0iB6L+Mih26OY1n4e8ET0omEsEtE/JfRCWamaGQQZ5eXvbUf+vDRKwqTXVF98tZj3IJqtky3j4/OoC6zgvETeZJvOJ7ar6yqSdw8zN5J2bUSm0x9de7qVkzF63curtOELBrplK6OFMM0TqWMNltuy7pCqAYxFp4XYMFqQF+Kh/J7fsd8OOJxB/XV7EnSY86E1kS06c5hjcV0jvC8KkakGM8Bxb/pUXQRzOhoHBhafpPT4vzpCEMHfcSrMDSz4qVvv0HBJdnm6KuyxMXpKJwZhrPSbDk/xcS+he3KXWNLyIvE1aLT+Gilmp+I4Qs2z1QYll/bHpvxlxuVh9iWNkyx8lnuZVKMLfsr+ZJJoF0wb1IiNxmnECf6dsN87be5+pulD1mC0bqGRo/qbAoE9r9B9PcEDDsisAQPFOOaotclKyoElRke81EiL7F+kXRqbS8YsqKrTlwGLqit+K7f67toRDniHXSudcvwjXRZlV9+QeQE22YkwJQXKdWQmuN0zgMFtbzyRCW/STRFifWKuT7t/kurn3lkSF5QOuKNy3YIDjnRV6PiU0C/d8ThpRwQggD36g=="
+
+var passphrase = window.prompt("Ce post est privé. Veuillez entrer le mot de passe.")
+
+//var encrypted = encrypt("Message", passphrase);
+
+var decrypted = decrypt(encrypted, passphrase);
+$('#content').html(decrypted.toString(CryptoJS.enc.Utf8))
+
+function encrypt (msg, pass) {
+  var salt = CryptoJS.lib.WordArray.random(128/8);
+  
+  var key = CryptoJS.PBKDF2(pass, salt, {
+      keySize: keySize/32,
+      iterations: iterations
+    });
+
+  var iv = CryptoJS.lib.WordArray.random(128/8);
+  
+  var encrypted = CryptoJS.AES.encrypt(msg, key, { 
+    iv: iv, 
+    padding: CryptoJS.pad.Pkcs7,
+    mode: CryptoJS.mode.CBC
+    
+  });
+  
+  // salt, iv will be hex 32 in length
+  // append them to the ciphertext for use  in decryption
+  var transitmessage = salt.toString()+ iv.toString() + encrypted.toString();
+  return transitmessage;
+}
+
+function decrypt (transitmessage, pass) {
+  var salt = CryptoJS.enc.Hex.parse(transitmessage.substr(0, 32));
+  var iv = CryptoJS.enc.Hex.parse(transitmessage.substr(32, 32))
+  var encrypted = transitmessage.substring(64);
+  
+  var key = CryptoJS.PBKDF2(pass, salt, {
+      keySize: keySize/32,
+      iterations: iterations
+    });
+
+  var decrypted = CryptoJS.AES.decrypt(encrypted, key, { 
+    iv: iv, 
+    padding: CryptoJS.pad.Pkcs7,
+    mode: CryptoJS.mode.CBC
+    
+  })
+  return decrypted;
+}
+
+</script>
+
+
 <iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
 
