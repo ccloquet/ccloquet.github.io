@@ -4,13 +4,9 @@ published: true
 tags: [resilience,HAM,citoyens]
 ---
 
-Feel free to download the slides of today's webinar <a href='https://blog.my-poppy.eu/images/20210121_covid_aerosols_poppy_webinar.pdf'>here</a>.
+Le numéro d'urgence 112 a été [inaccessible en Belgique vendredi 8/1 de minuit à 6 h du matin](https://www.rtbf.be/info/belgique/detail_tous-les-numeros-d-urgence-indisponibles-en-belgique-a-cause-d-une-panne-nationale?id=10668500). 
+Cette panne nationale fait suite à celle d'[avril 2019](https://bx1.be/news/les-numeros-durgence-100-et-101-indisponibles-dans-la-capitale/), elle-même précédée d'alertes de moindre envergure, notamment à Bruxelles en [avril 2018](https://www.rtbf.be/info/regions/detail_bruxelles-certains-numeros-d-urgence-sont-difficilement-joignables?id=9890584), ou encore à l'étranger ([KPN](https://www.lecho.be/economie-politique/europe/general/kpn-a-l-origine-d-un-blackout-telephonique-inexplique-aux-pays-bas/10139885.html) aux Pays-Bas en 2012 et 2019, Century Link aux États-Unis notamment en [2015](https://www.theverge.com/2020/9/29/21494652/911-outage-centurylink-lumen-intrado), ...).
 
-Also some information in this <a href='https://blog.my-poppy.eu/ICT-aerosols/'>post</a> (French).
-
-You do not have time to master the subject? Your situation is more complex? You want your issues be analyzed by a physicist? [Contact us](mailto:info@my-poppy.eu)!
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/2mLsg6cpvpFeVJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>  
 
 <iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
 
