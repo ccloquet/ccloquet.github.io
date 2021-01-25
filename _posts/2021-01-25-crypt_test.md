@@ -15,11 +15,13 @@ var keySize = 256;
 var ivSize = 128;
 var iterations = 100;
 
+var encrypted = "317b84eaa17cbfb85cad0fc4b2cbc16d9ad90a622f09285b00a6687e771489efCVYzHxKcuoOZWziEYPDVJw=="
 
 var passphrase = window.prompt("Secret Passphrase")
-var encrypted = encrypt("Message", passphrase);
+
+//var encrypted = encrypt("Message", passphrase);
+
 var decrypted = decrypt(encrypted, passphrase);
-console.log(passphrase, encrypted, decrypted.toString(CryptoJS.enc.Utf8))
 $('#content').html(decrypted.toString(CryptoJS.enc.Utf8))
 
 
