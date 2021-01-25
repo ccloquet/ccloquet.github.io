@@ -13,8 +13,8 @@ tags: [tools,aerosols,covid19,co2,hepa,ach]
 var passphrase = window.prompt("Secret Passphrase")
 var encrypted = encrypt("Message", passphrase);
 var decrypted = decrypt(encrypted, passphrase);
-console.log(passphrase, encrypted, decrypted)
-$('#content').html(decrypted)
+console.log(passphrase, encrypted, decrypted.toString(CryptoJS.enc.Utf8))
+$('#content').html(decrypted.toString(CryptoJS.enc.Utf8))
 
 
 function encrypt (msg, pass) {
