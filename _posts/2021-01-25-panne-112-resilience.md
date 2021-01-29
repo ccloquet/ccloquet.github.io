@@ -5,7 +5,7 @@ tags: [resilience,HAM,citoyens]
 ---
 
 Le numéro d'urgence 112 a été [inaccessible en Belgique vendredi 8/1 de minuit à 6 h du matin](https://www.rtbf.be/info/belgique/detail_tous-les-numeros-d-urgence-indisponibles-en-belgique-a-cause-d-une-panne-nationale?id=10668500). 
-Cette panne nationale faisait suite à celle d'[avril 2019](https://bx1.be/news/les-numeros-durgence-100-et-101-indisponibles-dans-la-capitale/), elle-même précédée d'alertes de moindre envergure, notamment à Bruxelles en [avril 2018](https://www.rtbf.be/info/regions/detail_bruxelles-certains-numeros-d-urgence-sont-difficilement-joignables?id=9890584), ou encore à l'étranger (ex : KPN aux Pays-Bas en 2012 et [2019](https://www.lecho.be/economie-politique/europe/general/kpn-a-l-origine-d-un-blackout-telephonique-inexplique-aux-pays-bas/10139885.html), Century Link aux États-Unis notamment en [2015](https://www.theverge.com/2020/9/29/21494652/911-outage-centurylink-lumen-intrado), ...).
+Cette panne nationale faisait suite à celle d'[avril 2019](https://bx1.be/news/les-numeros-durgence-100-et-101-indisponibles-dans-la-capitale/), elle-même précédée de précurseurs de moindre envergure, notamment à Bruxelles en [avril 2018](https://www.rtbf.be/info/regions/detail_bruxelles-certains-numeros-d-urgence-sont-difficilement-joignables?id=9890584), et d'incidents de grande ampleur à l'étranger (ex : KPN aux Pays-Bas en 2012 et [2019](https://www.lecho.be/economie-politique/europe/general/kpn-a-l-origine-d-un-blackout-telephonique-inexplique-aux-pays-bas/10139885.html), Century Link aux États-Unis notamment en [2015](https://www.theverge.com/2020/9/29/21494652/911-outage-centurylink-lumen-intrado), ...).
 
 <div id="content">
 (la suite sur invitation - demandez-nous le code d'accès)
