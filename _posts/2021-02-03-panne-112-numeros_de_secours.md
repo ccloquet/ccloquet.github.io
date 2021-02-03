@@ -10,7 +10,7 @@ Pour les importer en un clic sur votre GSM, retrouvez-les ici en format <a href=
 
 Sur votre GSM, il vous sufft de cliquer sur le lien "<a href='https://blog.my-poppy.eu/images/20200203_112_backup.vcf'>VCF</a>" et de suivre les instructions à l'écran.
 
-Téléchargez aussi une <a href='https://blog.my-poppy.eu/images/20200203_112_backup.png'>imùage à imprimer</a> (choisissez p. ex. le format d'impression "Wallet" pour le garder dans votre portefeuille).
+Téléchargez aussi une <a href='https://blog.my-poppy.eu/images/20200203_112_backup.png'>image à imprimer</a> (choisissez p. ex. le format d'impression "Wallet" pour le garder dans votre portefeuille).
 
 (Vérifiez de temps en temps sur le site officiel si les numéros sont à jour).
 
