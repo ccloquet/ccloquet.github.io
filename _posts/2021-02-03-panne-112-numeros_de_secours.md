@@ -6,11 +6,9 @@ tags: [resilience,citoyens]
 
 Le SPF Intérieur a publié la liste des <a href='https://www.sos112.be/fr/faq-112.html'>numéros de secours en cas de panne du 112</a>. Toujours utile à garder dans son téléphone et sur un petit bout de papier.
 
-Pour les importer en un clic sur votre GSM, retrouvez-les ici en format <a href='https://blog.my-poppy.eu/images/20200203_112_backup.csv'>CSV</a> et <a href='https://blog.my-poppy.eu/images/20200203_112_backup.vcf'>VCF</a>. 
+Pour les importer en un clic sur votre GSM, il vous sufft de cliquer "<a href='https://blog.my-poppy.eu/images/20200203_112_backup.vcf'>ici</a>" (fichier VCF) et de suivre les instructions à l'écran.
 
-Sur votre GSM, il vous sufft de cliquer sur le lien "<a href='https://blog.my-poppy.eu/images/20200203_112_backup.vcf'>VCF</a>" et de suivre les instructions à l'écran.
-
-Téléchargez aussi une <a href='https://blog.my-poppy.eu/images/20200203_112_backup.png'>image à imprimer</a> (choisissez p. ex. le format d'impression "Wallet" pour le garder dans votre portefeuille).
+Téléchargez aussi une <a href='https://blog.my-poppy.eu/images/20200203_112_backup.png'>image à imprimer</a> (choisissez p. ex. le format d'impression "Wallet" pour le garder dans votre portefeuille) ou un fichier <a href='https://blog.my-poppy.eu/images/20200203_112_backup.csv'>CSV</a> pour l'ouvrir dans Excel.
 
 (Vérifiez de temps en temps sur le site officiel si les numéros sont à jour).
 
