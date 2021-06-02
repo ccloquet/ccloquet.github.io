@@ -7,7 +7,128 @@ tags: [resilience,HAM,citoyens]
 Le numéro d'urgence 112 a été [inaccessible en Belgique vendredi 8/1 de minuit à 6 h du matin](https://www.rtbf.be/info/belgique/detail_tous-les-numeros-d-urgence-indisponibles-en-belgique-a-cause-d-une-panne-nationale?id=10668500). 
 Cette panne nationale faisait suite à celle d'[avril 2019](https://bx1.be/news/les-numeros-durgence-100-et-101-indisponibles-dans-la-capitale/), elle-même précédée de précurseurs de moindre envergure, notamment à Bruxelles en [avril 2018](https://www.rtbf.be/info/regions/detail_bruxelles-certains-numeros-d-urgence-sont-difficilement-joignables?id=9890584), et d'incidents de grande ampleur à l'étranger (ex : KPN aux Pays-Bas en 2012 et [2019](https://www.lecho.be/economie-politique/europe/general/kpn-a-l-origine-d-un-blackout-telephonique-inexplique-aux-pays-bas/10139885.html), Century Link aux États-Unis notamment en [2015](https://www.theverge.com/2020/9/29/21494652/911-outage-centurylink-lumen-intrado), ...).
 
-<div id="content">
+data=`<p>Regardons les choses en face : <strong>de telles pannes sont inévitables</strong>. Elles interviennent malgré les &quot;leçons tirées&quot; des pannes précédentes (ex : KPN disposait d&#39;une <a href='https://www.onemorething.nl/2019/06/storing-kpn-alarmnummer-112-dit-ging-er-fout/'>triple redondance</a>). En réalité, les <strong>réseaux sont de plus en plus complexes</strong> pour satisfaire à une demande toujours croissante, et il est très difficile de vendre de la fiabilité. Et tout ceci est d&#39;autant plus préoccupant dans un monde interconnecté, où chaque défaillance, même petite, peut entraîner un effet domino, voire des <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-1338.2009.00390.x">ruptures trans-systèmes</a>.</p>
+<p>Si l&#39;incident de janvier a concerné l&#39;indisponibilité de numéros fixes, d&#39;<strong>autres systèmes peuvent tomber en panne</strong>, éventuellement en cascade : réseau électrique (voir à ce sujet le <a href="https://www.entsoe.eu/news/2021/01/15/system-separation-in-the-continental-europe-synchronous-area-on-8-january-2021-update/">near-miss de la grille européenne de ce 8 janvier</a>), réseaux de téléphonie mobiles, réseau ASTRID, fournisseurs d&#39;accès à internet, système GPS, ... et ce, que ce soit en raison d&#39;une défaillance technique, d&#39;une attaque cyber (ciblée ou non) ou même d&#39;une combinaison de ces modalités. Tout ceci sans compter une panne potentielle des systèmes d&#39;aide à la prise d&#39;appel, ou même une indisponibilité physique des centres d&#39;urgence.</p>
+<p>Il est vrai que des solutions sont en place (ex: possibilité de prise d&#39;appel par un autre centre d&#39;urgence) et que des leçons ont été tirées de la panne de 2019 : attribution de GSMs aux centrales 112, gestion plus centralisée de l&#39;incident, alerte par SMS... Les procédures, elles, ne sont pas encore rodées. Le message Be-Alert a été émis très tard (à Bruxelles, l&#39;email est parvenu après 4 h du matin), et le SMS est également arrivé avec retard (<a href="https://www.vrt.be/vrtnws/nl/2021/01/08/sms-systeem-be-alert-faalt-slechts-helft-krijgt-bericht-over-pa/">quand il est arrivé</a>). Son contenu était également inutilement complexe (un numéro différent par opérateur...), si bien qu&#39;on peut se poser la question de l&#39;impact réel de ce message.</p>
+<p>Alors comment augmenter notre résilience ? Il n&#39;y a pas de solution simple, et c&#39;est de la responsabilité de chacun, alors retroussons-nous les manches ! Exemples choisis :</p>
+<p><strong>Proximus</strong></p>
+<ul>
+<li>annoncer les maintenances critiques (ex sur un site sécurisé) pour accélérer la compréhension de la nature de l&#39;incident</li>
+<li>investir dans la robustesse et la valoriser auprès de ses clients (on peut rêver...)</li>
+</ul>
+<p><strong>Proximus, Telenet &amp; Orange</strong></p>
+<ul>
+<li><strong>détecter les pannes du 112</strong> (ex : un %age d&#39;appels qui n&#39;aboutit pas) et router automatiquement vers un numéro alternatif (ex : les n°s de GSM qui ont été communiqués, une ligne fixe de l&#39;opérateur alternatif, le dispatching de l&#39;opérateur, etc)</li>
+<li>en cas de panne d&#39;un opérateur, activation de la gratuité pour les numéros d&#39;une liste prédéfinie (ex :  numéros des hôpitaux) </li>
+<li>en cas de connexion à la 4G sans crédit : affichage de la liste des numéros de secours</li>
+</ul>
+<p><strong>Centrales 112</strong></p>
+<ul>
+<li><p>redondance de l'infrastructure</p>
+<ul>
+<li><strong>connexion à internet par agrégation multi-flux</strong> : 4G, 2 opérateurs filaires, satellite (contrairement à une idée répandue, l&#39;accès à internet par VSAT est abordable)
+<li>disposer d&#39;une ligne téléphonique fixe entrante par deux opérateurs indépendants de Proximus</li>
+<li>pouvoir connecter un PC/des téléphones aux différents flux entrants sans passer par l&#39;infrastructure<br></li>
+</ul>
+</li>
+<li><p>mode dégradé : veiller en permanence</p>
+<ul>
+<li><strong>un compte VOIP grand public</strong> (ex : Skype, Whatsapp, ...)</li>
+<li>une ou plusieurs <strong>fréquences d&#39;urgence radioamateur</strong><br></li>
+</ul>
+</li>
+<li><p>assurance du fonctionnement des backups</p>
+<ul>
+<li>publier et <strong>utiliser les numéros alternatifs en routine</strong> </li>
+<li>les <strong>tester fréquemment</strong> (éventuellement même automatiquement : un automate émet un appel, l&#39;opérateur.trice y répond en appuyant sur une touche)</li>
+</ul>
+</li>
+</ul>
+<p><strong>Autorités</strong></p>
+<ul>
+<li><p>analyse</p>
+<ul>
+<li>réaliser une <strong>véritable analyse de risques</strong> (vulnérabilités, points uniques de défaillances (infrastructure partagée entre opérateurs, dépendance au réseau internet, etc), probabilité, conséquences, ...)</li>
+<li>réaliser une <strong>analyse coûts-bénéfices</strong> des mitigations possibles</li>
+<li><strong>auditer sans complaisance</strong> les systèmes critiques dont elles dépendent </li>
+<li>étudier les leçons des pannes dans les autres pays<br></li>
+</ul>
+</li>
+<li><p>développer des moyens d&#39;alerte alternatifs</p>
+<ul>
+<li>
+<p>défibrillateurs publics : en faire des <strong>points d&#39;alerte</strong> via une <strong>fréquence radio</strong> distincte d&#39;ASTRID, à l&#39;instar des <a href="https://www.rtl.be/info/belgique/societe/la-flandre-supprime-ses-bornes-d-appels-de-secours-la-wallonie-y-injecte-45-millions-d-euros-864246.aspx">bornes sur autoroute</a> (1,125 M€ / an pour 1000 bornes) et des <a href="http://plaws.net/fire/list.shtml">fire alarm call boxes</a> comme dans certaines villes anglo-saxonnes. Ce genre de boîtes pourrait également se trouver dans des endroits sociaux tels que des pharmacies, cafés populaires, etc. et être combinées avec des capteurs de télémesure pour une utilisation au quotidien (particules fines, dioxyde d'azote, bruit, ...)
+<center>
+<div style='width:50%'>
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fire_alarm_in_Ridgewood%2C_New_Jersey.jpg/800px-Fire_alarm_in_Ridgewood%2C_New_Jersey.jpg'>
+</div>
+</center>
+</p>
+</li>
+<li><strong>intégrer les numéros de GSM de secours dans l&#39;app 112</strong>, soit automatiquement (ex, via un ping en début de session), soit via un menu séparé (suggestion de <a href='https://zileo.net/'>Jonathan Lannoy</a>)
+</li>
+<li><strong>permettre à l&#39;app 112 de communiquer par internet</strong> (textes, VOIP, vidéos cf. <a href="https://github.com/ccloquet/ShowMe/">ShowMe</a>) et non uniquement par appel vocal à partir d&#39;une ligne téléphonique
+</li>
+<li><p><strong>coordonner et exercer les contacts avec les sociétés de transport en commun</strong>, ... Une personne en détresse à domicile pourrait p. ex. s&#39;adresser à un véhicule de la STIB =&gt; être sûr que le chauffeur ne soit pas surpris et que l&#39;info arrive au 112.</p>
+</li>
+</ul>
+</li>
+<li><p>déjà en cours, ou à accélérer : router 50 % des appels via Proximus et 50 % des appels via Telenet</p>
+</li>
+<li>changement de paradigme : <strong>décentralisation</strong><ul>
+<li>impliquer les citoyens/secouristes/professionnels de la santé dans la réponse aux urgences en les déclenchant au moyen d&#39;une appli mobile - l&#39;app 112 pourrait assurer cette fonction (modalités à définir, ex : <i>opt-in</i> via une option dans l'appli, pour certains types d'accidents, etc)</li>
+<li>celle-ci alerterait en tout temps des citoyens-sauveteurs à proximité, en plus des moyens de l'Aide Médicale Urgente</li>
+<li>de cette manière, si le 112 était indisponible, des secouristes qualifiés pourraient malgré tout être déclenchés par l&#39;appli et ainsi sauver des vies</li>
+</ul>
+</li>
+<li><strong>alerte à la population : une réflexion plus globale</strong> (pas uniquement pour les pannes 112), et notamment :<ul>
+<li>changement de doctrine : envoyer très rapidement par Twitter/Facebook/... : &quot;nous avons détecté une situation anormale, nous vous tenons informés&quot; -&gt; ça réveille déjà les journalistes, même si c&#39;est une fausse alerte</li>
+<li>ne pas compter que sur Be-Alert, ni que sur les SMS : le serveur a une capacité limitée, et les cellules GSM également. Ex : en parallèle de Be-Alert, alerter différentes pyramides (ex : 112 -&gt; coordinateurs planus -&gt; gardiens de la paix) pour toucher rapidement les personnes les plus vulnérables</li>
+<li>alerter via les <strong>notifications de l&#39;App 112 et d&#39;applis grand public</strong> type RTL info / HLN / ...</li>
+<li>implémenter le <a href="https://fr.wikipedia.org/wiki/Diffusion_cellulaire">cell broadcast</a> afin de pallier aux retards dans la réception des messages Be-Alert - ne pas abandonner l&#39;envoi de SMS, mais pouvoir combiner les deux</li>
+<li>dire de prévenir / d&#39;être attentif à ses voisins (mais ! Covid)</li>
+<li>communiquer via les panneaux des transports en commun, les films des bus, les panneaux publicitaires, allumer automatiquement des radios DAB+...</li>
+</ul>
+</li>
+<li><p><strong>simplifier les numéros communiqués</strong> à la population, et les rendre indépendants des opérateurs (cf message envoyé cette nuit là : &quot;numéro Base&quot;, &quot;numéro Proximus&quot;, etc) et gratuits (! un 0800 peut impliquer une vulnérabilité supplémentaire de par le routage qu'il induit)</p>
+</li>
+<li><p>organiser des ateliers participatifs avec des citoyens pour comprendre comment elle réagirait, quels sont les pièges et ce qui peut les aider, et élaborer un processus agile pour capitaliser rapidement sur ces apprentissages</p>
+</li>
+<li>implémenter l&#39;<a href="https://fr.wikipedia.org/wiki/ENUM">ENUM</a></li>
+<li><p>rendre résiliente la communication entre centres stratégiques</p>
+<ul>
+<li>rétablir les lignes REGETEL avec les hôpitaux (l'idée m'a été soufflée)</li>
+<li>étudier la plus value d&#39;opérateurs physiques alternatifs tels que <a href="https://www.colt.net/fr/colt-network-map/">COLT</a>.
+<li>prévoir de <strong>déployer les membres du réseau <a href='https://www.uba.be/fr/accueil/nouvelles-b-ears'>B-EARS</a></strong>, les associations de sécurité civile, ... <strong>dans des endroits critiques</strong> - cf <a href='https://crisebw.be/actualites/reseau-radio-d-urgence-le-reseau-radioamateur-de-secours-du-brabant-wallon'>B-EARS dans le Brabant Wallon</a></li>
+<li><strong>pré-installer et maintenir des <a href='https://www.uba.be/fr/acceuil'>émetteurs-récepteurs radioamateurs</a> (pas juste les antennes) dans différents endroits critiques</strong> (ex : centre de crise, commissariats, casernes de pompiers, hôpitaux)</li>
+</ul>
+</li>
+<li><p>alertes ciblées : dans Be-Alert, préparer des listes thématiques : homes, généralistes, hôpitaux, écoles, citoyens-sauveteurs, ambulances privées, PLP, sociétés de gardiennage, SOS médecins, services d'accouchement à domicile, cliniques privées, ... Ces personnes pourraient être alertées en priorité en raison de leur vulnérabilité, ou parce que les citoyens se tourneront préférentiellement vers eux</p></li>
+<li>les services d'ambulances privées et les associations de sécurité civile pourraient déployer temporairement des ambulances et véhicules de secours supplémentaires, qui pourraient ainsi diminuer l&#39;intervalle ambulancier libre du à la saturation du système d&#39;appel. Ils pourraient être déclenchés via l&#39;appli 112, en direct depuis les boîtes d&#39;appel, etc.</li>
+<li><p>ne pas mettre tous ses oeufs dans le même panier (grandes entreprises) et prévoir une place pour de petites entreprises motivées et innovantes afin de développer des services agiles</p>
+</li>
+</ul>
+<p><strong>Be Alert/Gedicom/Nextel</strong></p>
+<ul>
+<li>ventiler l&#39;envoi de SMS en fonction des opérateurs pour éviter la saturation d&#39;antennes</li>
+<li>augmenter la capacité d&#39;envoi par rapport à ce qui est prévu dans le cahier des charges, au besoin en faisant appel à plusieurs fournisseurs et à un meilleur routage</li>
+</ul>
+<p><strong>Citoyens acteurs de leur sécurité</strong></p>
+<ul>
+<li>se former au secourisme, des gestes simples permettent de sauver des vies</li>
+<li>enregistrer les numéros utiles (numéros de backup communiqués à l&#39;occasion de la crise, numéros des hôpitaux, des dispatching zonaux) - enseigner ce réflexe au cours de secourisme (au même titre que les <a href="https://www.croix-rouge.fr/Actualite/Cet-ete-initiez-vous-aux-premiers-secours/En-direct-de-la-caravane-a-Dunkerque/Presentation-du-cata-kit">CataKits</a>)</li>
+<li>passer une licence de radioamateur (un <a href='https://www.uba.be/fr/actualites/flash/nieuw-examenreglement-bipt'>indicatif ON3</a> suffit)</li>
+</ul>
+<p><strong>Long terme : Android/Apple/Google/constructeurs de GSM...</strong></p>
+<ul>
+<li>détecter que le 112 ne répond pas et composer automatiquement un numéro alternatif (ex : ceux qui ont été communiqués, à défaut, celui d&#39;un hopital, etc). À défaut, alerter des personnes dans les environs</li>
+<li>donner accès à des infos supplémentaires dès que l&#39;on compose le 112 (ex : défibrillateurs les plus proches, ...)</li>
+<li>une recherche sur internet (termes  &quot;urgences&quot;, &quot;hôpital...&quot;, ... afficherait l&#39;info : &quot;112 indisponible, veuillez contacter...&quot;.) L'information pourrait même être disponible en haut de la page de recherche</li>
+<li>envoyer au 112 l'alerte via le réseau Lora/SigFox</li>
+</ul>
+<p><i>D&#39;accord, pas d&#39;accord ? Discutons-en! Contactez-nous via info@my-poppy.eu ou par <a href="https://facebook.com/mypoppyeu">Facebook</a> / <a href="https://twitter.com/mypoppy_eu">Twitter</a> / <a href="https://www.linkedin.com/in/ccloquet/">Linkedin</a> !</i></p>`
+
+<!--div id="content">
 (la suite sur invitation - demandez-nous le code d'accès)
 </div>
 
@@ -71,7 +192,7 @@ function decrypt (transitmessage, pass) {
   return decrypted;
 }
 
-</script>
+</script-->
 
 
 <iframe src="https://www.my-poppy.eu/cnt/cnt.php" width="1" height="1" frameBorder="0">
