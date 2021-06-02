@@ -117,7 +117,8 @@ Cette panne nationale faisait suite à celle d'[avril 2019](https://bx1.be/news/
 <ul>
 <li>se former au secourisme, des gestes simples permettent de sauver des vies</li>
 <li>enregistrer les numéros utiles (numéros de backup communiqués à l&#39;occasion de la crise, numéros des hôpitaux, des dispatching zonaux) - enseigner ce réflexe au cours de secourisme (au même titre que les <a href="https://www.croix-rouge.fr/Actualite/Cet-ete-initiez-vous-aux-premiers-secours/En-direct-de-la-caravane-a-Dunkerque/Presentation-du-cata-kit">CataKits</a>)</li>
-<li>passer une licence de radioamateur (un <a href='https://www.uba.be/fr/actualites/flash/nieuw-examenreglement-bipt'>indicatif ON3</a> suffit)</li>
+<li>passer une licence de radioamateur (un <a href='https://www.uba.be/fr/actualites/flash/nieuw-examenreglement-bipt'>indicatif ON3</a> suffit - p. ex. pour les points de contact des Partenariats Locaux de Prévention)</li>
+<li>pour réduire encore la barrière à l'entrée : réhabiliter la CB ?
 </ul>
 <p><strong>Long terme : Android/Apple/Google/constructeurs de GSM...</strong></p>
 <ul>
